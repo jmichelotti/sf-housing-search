@@ -1,0 +1,25 @@
+# Logs
+tracker-log.txt
+*.log
+
+# Playwright MCP runtime artifacts
+.playwright-mcp/
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Python (for future Google Sheets integration)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets (for future Google Sheets integration)
+secrets/
+!secrets/.gitignore
+sheet-config.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
