@@ -267,6 +267,7 @@ Total runs: [N]
 - **Close browser tabs when done** with each search source to keep memory usage down.
 - **Do not create any files other than `listings.md`** — no plan documents, no sub-READMEs, no code files.
 - **Do not commit or push to git from inside a tracking session** — the session is automated and unattended. Git commits happen manually via the user's `/ucp` command. Never stage, commit, or push from within a scheduled run.
+- **Logging:** `run-tracker.sh` writes session output to two log files. `tracker-log.txt` is the master log (all runs, appended with timestamped separators). `tracker-latest.txt` is overwritten each run with only the latest session output. Both are gitignored.
 
 ## Report Writing
 

@@ -1,5 +1,6 @@
 # Logs
 tracker-log*.txt
+tracker-latest.txt
 *.log
 
 # Playwright MCP runtime artifacts
