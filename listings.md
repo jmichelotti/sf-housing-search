@@ -1,9 +1,9 @@
 # SF Housing Search
-Last updated: 2026-05-02 07:15
-Total runs: 12
+Last updated: 2026-05-02 15:15
+Total runs: 13
 
 ## Best Current Listing
-**$1,500/mo all-in — Quiet Renovated Efficiency, Marina District** — Best for general audience: all utilities + PG&E paid by owner, garage parking included, AC, top floor, furnished, professional management. Verified active today. *(If you are a 40+ female: the Pacific Heights penthouse at Rank 1 is $720/mo all-in — nothing else comes close.)*
+**$1,500/mo all-in — Quiet Renovated Efficiency, Marina District** — Best overall value: all utilities + PG&E paid by owner, garage parking, AC, furnished, professional management. Fresh runner-up: **Broadway Crown Towers Studio, Pacific Heights — $1,700/mo** posted today with full kitchen + dishwasher, AC, off-street parking, pets OK, bay views. *(If you are a 40+ female: the Pacific Heights penthouse at $720/mo all-in is nothing else comes close.)*
 
 ---
 
@@ -14,7 +14,7 @@ Total runs: 12
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-female-only-penthouse/7930827798.html
 - **First found:** 2026-04-30
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Room (master suite in 3BR penthouse flat)
 - **Location:** Upper Pacific Heights — near Presidio, Sacramento St shops, Laurel Village (lat 37.788, lng -122.447)
 - **Size:** large master bedroom (unfurnished)
@@ -40,7 +40,7 @@ Total runs: 12
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-brightwell-west-studio/7929640214.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Studio
 - **Location:** 750 Golden Gate Avenue, San Francisco — Civic Center / Hayes Valley (lat 37.781, lng -122.423)
 - **Size:** not listed
@@ -66,7 +66,7 @@ Total runs: 12
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-quiet-clean-and-peaceful/7930427948.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Studio / Efficiency
 - **Location:** 1915 Green St, Marina District / Cow Hollow — lat 37.802, lng -122.437 (confirmed Marina area)
 - **Size:** 492 sq ft
@@ -87,12 +87,38 @@ Total runs: 12
 
 ---
 
-### Master Bedroom in 3BR/2BA Inner Sunset Apartment — $1,719/mo — Craigslist
+### Huge Studio — Broadway Crown Towers — Pacific Heights — $1,700/mo — Craigslist
 - **Rank:** 4
+- **Status:** ACTIVE
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-this-unit-is-on-the-west/7931605423.html
+- **First found:** 2026-05-02
+- **Last verified:** 2026-05-02 (Run 13)
+- **Type:** Studio
+- **Location:** Broadway Crown Towers, Broadway St, Pacific Heights — lat 37.7917, lng -122.4186 (confirmed Pacific Heights)
+- **Size:** not listed; described as "HUGE" with walk-in closet large enough to use as a second bedroom
+- **BR/BA:** Studio/1BA (private bathroom — full tiled studio bath)
+- **Rent:** $1,700/mo (utilities not stated as included — assume tenant pays)
+- **Deposit:** not listed
+- **Lease:** monthly
+- **Available:** Now
+- **Laundry:** in-building
+- **Parking:** off-street (available)
+- **Pet policy:** cats OK, dogs OK
+- **Other amenities:** dishwasher, AC, hardwood floors throughout, huge walk-in closet, bay window (main room), peekaboo bay views from kitchen window, dinette room attached to kitchen, west-facing (quiet/private), 2nd floor
+- **Photos:** not counted separately; professional building listing
+- **Posting age:** <1 day (posted May 2, 2026)
+- **Poster:** Broadway Crown Towers Apartments (managed building) — professional management, no red flags
+- **vs. market:** studios in Pacific Heights typically $2,200–$2,800; at $1,700 this is 35–40% below market — strong value for the location
+- **Notes:** Brand new listing posted today. Full kitchen confirmed (wood cabinetry, refrigerator, stove/oven, microwave, dishwasher). Private bath confirmed (studio). Laundry in building. AC and off-street parking both included or available. Cats and dogs both OK. Huge walk-in closet with window — poster notes residents often use it as a bedroom. West-facing = quiet. Dinette room adds functional space beyond the main studio. Ranked #4 over Inner Sunset (available now vs. July 1) and Post Street (Pacific Heights location + more amenities for $50 less/mo). Verify deposit and whether utilities are included before applying.
+
+---
+
+### Master Bedroom in 3BR/2BA Inner Sunset Apartment — $1,719/mo — Craigslist
+- **Rank:** 5
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-master-bedroom-in-bed/7928705829.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Room (master suite) in shared apartment
 - **Location:** 8th Avenue & Kirkham Street (Inner Sunset / UCSF area) — lat 37.759, lng -122.484
 - **Size:** 12.9' × 12.3' master bedroom (~159 sq ft)
@@ -114,11 +140,11 @@ Total runs: 12
 ---
 
 ### Studio — Post Street — Lower Nob Hill — $1,750/mo — Craigslist
-- **Rank:** 5
+- **Rank:** 6
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-post-street-san/7930598035.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Studio
 - **Location:** 940 Post St, Lower Nob Hill / Nob Hill — lat 37.787, lng -122.417
 - **Size:** not listed
@@ -140,11 +166,11 @@ Total runs: 12
 ---
 
 ### Private Room + Bath in Brand New 2BR/2BA SoMa — $1,825/mo all-in — Craigslist
-- **Rank:** 6
+- **Rank:** 7
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bath-in/7926321214.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Room (in 2BR/2BA apartment)
 - **Location:** SoMa / South Beach — lat 37.773, lng -122.415
 - **Size:** not listed
@@ -161,16 +187,16 @@ Total runs: 12
 - **Posting age:** 25 days (posted April 7) ⚠️⚠️⚠️⚠️⚠️
 - **Poster:** individual; clear and detailed listing, no red flags
 - **vs. market:** Rooms with private bath + all utilities in SoMa typically $2,200+; at $1,825 all-in this is well below market
-- **Notes:** Brand new 2BR/2BA building. Private bathroom, in-unit W/D, private balcony, all utilities included. Sublease through September with extension option. ⚠️⚠️⚠️⚠️⚠️ Now 25 days old — almost certainly already filled. Strong candidate for removal next run if still active.
+- **Notes:** Brand new 2BR/2BA building. Private bathroom, in-unit W/D, private balcony, all utilities included. Sublease through September with extension option. ⚠️⚠️⚠️⚠️⚠️ Now 25 days old and still verified active — unusual. Sublease format (through Sept) may explain why it hasn't filled. Worth a quick contact if still relevant to you, but manage expectations given the age.
 
 ---
 
 ### Spacious Studio with Full Kitchen / Full Bath — Nob Hill — $1,900/mo — Craigslist
-- **Rank:** 7
+- **Rank:** 8
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-spacious-studio-with-full/7930590461.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Studio
 - **Location:** Nob Hill (near Union Square, Huntington Park, Polk St) — lat 37.790, lng -122.412
 - **Size:** 397 sq ft
@@ -187,16 +213,16 @@ Total runs: 12
 - **Posting age:** 5 days (posted April 27)
 - **Poster:** Meridian Management Group (CA BRE #990193) — licensed property management; highly credible
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,900 with water/trash included and dishwasher, at or slightly below mid-market
-- **Notes:** Self-contained studio with full kitchen (stove + oven, not just a hotplate). Rent-controlled. Professional management. Fresh listing. Prime Nob Hill location. $30 application fee. Cats OK. Ranked above 925 Geary (rank 8, $1,895) because this unit is 397 sq ft vs 252 sq ft — the $5/mo savings at Geary does not justify 145 fewer sq ft.
+- **Notes:** Self-contained studio with full kitchen (stove + oven, not just a hotplate). Rent-controlled. Professional management. Fresh listing. Prime Nob Hill location. $30 application fee. Cats OK. Ranked above 925 Geary (rank 9, $1,895) because this unit is 397 sq ft vs 252 sq ft — the $5/mo savings at Geary does not justify 145 fewer sq ft.
 
 ---
 
 ### Studio — 925 Geary St #310 — Lower Nob Hill — $1,895/mo — Craigslist
-- **Rank:** 8
+- **Rank:** 9
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7931237534.html
 - **First found:** 2026-05-01
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Studio
 - **Location:** 925 Geary St at Polk, Lower Nob Hill / Nob Hill border — lat 37.786, lng -122.418
 - **Size:** 252 sq ft
@@ -213,16 +239,16 @@ Total runs: 12
 - **Posting age:** 2 days (posted April 30, 2026)
 - **Poster:** Brick + Timber (professional SF management company) — highly credible; contact Shanna
 - **vs. market:** studios near Nob Hill/Polk Gulch typically $1,800–$2,200; at $1,895 with gas range, dishwasher, and pets-OK policy, at or just below mid-market for the size
-- **Notes:** Fresh listing. Gas range and dishwasher confirmed. Cats and dogs both OK (rare). Very small at 252 sq ft — may feel cramped. Location is at the northern border of Nob Hill; borders Tenderloin but is on Geary's north side (Nob Hill side). Ranked below $1,900 Nob Hill studio (rank 7) despite slightly lower price because 397 sq ft vs 252 sq ft is a significant space disadvantage for $5/mo savings.
+- **Notes:** Fresh listing. Gas range and dishwasher confirmed. Cats and dogs both OK (rare). Very small at 252 sq ft — may feel cramped. Location is at the northern border of Nob Hill; borders Tenderloin but is on Geary's north side (Nob Hill side). Ranked below $1,900 Nob Hill studio (rank 8) despite slightly lower price because 397 sq ft vs 252 sq ft is a significant space disadvantage for $5/mo savings.
 
 ---
 
 ### Beautiful Studio Near Chinatown — Financial District — $1,950/mo — Craigslist
-- **Rank:** 9
+- **Rank:** 10
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-beautiful-studio/7931066948.html
 - **First found:** 2026-04-30
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Studio
 - **Location:** 770 California St near Stockton, Chinatown / Financial District — lat 37.792, lng -122.407
 - **Size:** not listed
@@ -244,11 +270,11 @@ Total runs: 12
 ---
 
 ### Renovated Studio — 1086 Post St #301 — Nob Hill — $1,950/mo — Craigslist
-- **Rank:** 10
+- **Rank:** 11
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-studio/7930992902.html
 - **First found:** 2026-04-29
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Studio
 - **Location:** 1086 Post St #301, Nob Hill — lat 37.787, lng -122.420
 - **Size:** not listed
@@ -270,11 +296,11 @@ Total runs: 12
 ---
 
 ### Pacific Heights Furnished Bedroom in 2BD Flat — $1,975/mo — Craigslist
-- **Rank:** 11
+- **Rank:** 12
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-pacific-hts-furnished/7930391754.html
 - **First found:** 2026-04-29
-- **Last verified:** 2026-05-02 (Run 12)
+- **Last verified:** 2026-05-02 (Run 13)
 - **Type:** Room (in 2BR flat)
 - **Location:** Upper Pacific Heights — near Gough/Bush, Lafayette Park 50 steps away (lat 37.786, lng -122.436)
 - **Size:** 18' × 13' bedroom (large)
@@ -429,3 +455,4 @@ Total runs: 12
 | 10 | 2026-05-01 | 1 | 1 | Marina Efficiency $1,500 all-in (general) / Pacific Heights Penthouse $620 (40+ female) |
 | 11 | 2026-05-01 | 0 | 0 | Marina Efficiency $1,500 all-in (general) / Pacific Heights Penthouse $620 (40+ female) |
 | 12 | 2026-05-02 | 0 | 0 | Marina Efficiency $1,500 all-in (general) / Pacific Heights Penthouse $620 (40+ female) |
+| 13 | 2026-05-02 | 1 | 0 | Marina Efficiency $1,500 all-in (general) / Broadway Crown Towers Pacific Heights $1,700 (new today) |
