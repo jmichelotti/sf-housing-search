@@ -1,9 +1,9 @@
 # SF Housing Search
-Last updated: 2026-05-05 19:15
-Total runs: 20
+Last updated: 2026-05-06 07:15
+Total runs: 21
 
 ## Best Current Listing
-**North Beach 1BR/1BA — $1,600/mo** — 770 Filbert St, eat-in kitchen with stainless appliances + dishwasher, on-site laundry, cats and dogs OK, immediately available. *(If you are a 40+ female: the Pacific Heights penthouse at $720/mo all-in is unmatched.)* Note: Brightwell West affordable housing application deadline is **May 13, 2026 — 8 days away**.
+**North Beach 1BR/1BA — $1,600/mo** — 770 Filbert St, eat-in kitchen with stainless appliances + dishwasher, on-site laundry, cats and dogs OK, immediately available. *(If you are a 40+ female: the Pacific Heights penthouse at $720/mo all-in is unmatched.)* Note: Brightwell West affordable housing application deadline is **May 13, 2026 — 7 days away**.
 
 ---
 
@@ -14,7 +14,7 @@ Total runs: 20
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-female-only-penthouse/7930827798.html
 - **First found:** 2026-04-30
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Room (master suite in 3BR penthouse flat)
 - **Location:** Upper Pacific Heights — near Presidio, Sacramento St shops, Laurel Village (lat 37.788, lng -122.447)
 - **Size:** large master bedroom (unfurnished)
@@ -28,7 +28,7 @@ Total runs: 20
 - **Pet policy:** no pets
 - **Other amenities:** huge patio deck with panoramic views, 2 master bedrooms + guest room, dishwasher, gas range, fully furnished common areas, furnished guest room for visitors, Presidio 1 block away, elegantly styled with collected art
 - **Photos:** not counted separately; penthouse described in vivid detail
-- **Posting age:** 15 days (posted April 28, 2026)
+- **Posting age:** 16 days (posted April 28, 2026)
 - **Poster:** 50+ female, professional; seeking a 40+ independent female housemate; elegant and specific listing, no red flags
 - **vs. market:** master suites with private bath in Pacific Heights typically $2,200–$2,800; at $720/mo all-in this is 75%+ below market — extraordinary if eligible
 - **Notes:** ⚠️ ELIGIBILITY RESTRICTION: Poster is seeking a 40+ female only. Must not work from home daily (hybrid OK). No overnight partners. No pets. No additional furniture. If you qualify, this would be the clear #1 listing — nothing in the tracker comes close in value. Gas range and dishwasher confirm full kitchen access. W/D in-unit. Panoramic views and deck. Near Presidio, Fillmore, Polk St.
@@ -40,7 +40,7 @@ Total runs: 20
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-brightwell-west-studio/7929640214.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
 - **Location:** 750 Golden Gate Avenue, San Francisco — Civic Center / Hayes Valley (lat 37.781, lng -122.423)
 - **Size:** not listed
@@ -48,51 +48,25 @@ Total runs: 20
 - **Rent:** $843–$1,520/mo depending on income (studios); 1BR units from $877/mo also available via same application
 - **Deposit:** not listed
 - **Lease:** not listed
-- **Available:** Applications open April 22–May 13, 2026 ⚠️ **DEADLINE IN 8 DAYS**
+- **Available:** Applications open April 22–May 13, 2026 ⚠️ **DEADLINE IN 7 DAYS**
 - **Laundry:** on-site (building laundry facilities)
 - **Parking:** none
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** community room, outdoor play area, landscaped courtyard, secure bike storage, EV charging
 - **Photos:** refer to nonprofit website
-- **Posting age:** 13 days (posted April 22)
+- **Posting age:** 14 days (posted April 22)
 - **Poster:** Mid-Pen Housing (legitimate SF affordable housing nonprofit) — highly credible
 - **vs. market:** at $843 (lowest income band) this is 60%+ below market for a new-construction SF studio — life-changing deal if eligible
-- **Notes:** Income-restricted affordable housing lottery. Also has 1BR units available starting from $877/mo (same application). Prioritizes SFUSD and CCSF employees; other applicants qualify via SF housing preferences. Apply at midpen-housing.org/Brightwell-West. **APPLICATION DEADLINE: May 13, 2026 — 8 days away. Act now if eligible.** Private bath assumed (new construction 0BR/1BA unit).
-
----
-
-### Noe Valley Renovated Studio — $1,500/mo — Craigslist
-- **Rank:** 3
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-affordable-living/7931827096.html
-- **First found:** 2026-05-03
-- **Last verified:** 2026-05-05 (Run 20)
-- **Type:** Studio
-- **Location:** Near Sanchez & Cesar Chavez, Noe Valley — lat 37.746, lng -122.444 (southern Noe Valley, confirmed)
-- **Size:** 500 sq ft
-- **BR/BA:** Studio/1BA (private bathroom — tub/shower combo, renovated tile)
-- **Rent:** $1,500/mo (water and garbage paid by landlord; tenant pays electricity)
-- **Deposit:** first month rent + 1.5 months security ($3,750 move-in)
-- **Lease:** not stated
-- **Available:** July 1, 2026 ⚠️ (almost 2 months out)
-- **Laundry:** on-site (newly built laundry room, FREE machines for tenants)
-- **Parking:** street parking
-- **Pet policy:** not listed
-- **Other amenities:** renovated eat-in kitchen, hardwood floors, Milgard thermapane windows, huge walk-in closet, private common garden shared by 4 units, 1928 period building with original details
-- **Photos:** not separately counted; individual landlord listing
-- **Posting age:** 3 days (posted May 2, 2026)
-- **Poster:** private owner (not management company); immaculately maintained 4-unit building; seeking quiet/responsible tenant
-- **vs. market:** studios in Noe Valley typically $2,000–$2,500; at $1,500 with water/garbage included this is 30–40% below market — strong value for the area
-- **Notes:** Best general-market listing on price alone. Full eat-in kitchen confirmed. Free laundry on-site. Private bath confirmed (studio). July 1 availability is the main caveat — not for someone who needs to move immediately. Church St shops, restaurants, and transit 1 block away. 24th Street and Whole Foods nearby. Requires 2 years income verification and credit references.
+- **Notes:** Income-restricted affordable housing lottery. Also has 1BR units available starting from $877/mo (same application). Prioritizes SFUSD and CCSF employees; other applicants qualify via SF housing preferences. Apply at midpen-housing.org/Brightwell-West. **APPLICATION DEADLINE: May 13, 2026 — 7 days away. Act now if eligible.** Private bath assumed (new construction 0BR/1BA unit).
 
 ---
 
 ### North Beach 1BR/1BA — Bright, Eat-In Kitchen — $1,600/mo — Craigslist
-- **Rank:** 4
+- **Rank:** 3
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-large-and-bright-1br-1ba/7931653504.html
 - **First found:** 2026-05-04
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** 1BR Apartment
 - **Location:** 770 Filbert St, North Beach / Russian Hill border — lat 37.801, lng -122.412 (confirmed North Beach)
 - **Size:** not listed
@@ -104,21 +78,21 @@ Total runs: 20
 - **Laundry:** on-site (building laundry)
 - **Parking:** street (attribute said off-street but description says street — taking description as authoritative)
 - **Pet policy:** cats OK, dogs OK (small dogs)
-- **Other amenities:** eat-in kitchen with stainless appliance package, dishwasher, tiled backsplash, hardwood floors throughout, high ceilings, sun-soaked dual-pane bay windows, walk-in closet, extra closet space
+- **Other amenities:** eat-in kitchen with stainless appliance package, dishwasher, tiled backsplash, hardwood floors, high ceilings, sun-soaked dual-pane bay windows, walk-in closet, extra closet space
 - **Photos:** listing posted 3 days ago; photo count not specified
-- **Posting age:** 3 days (posted May 3, 2026)
+- **Posting age:** 4 days (posted May 3, 2026)
 - **Poster:** private listing (no management company named); no application fee mentioned
 - **vs. market:** 1BR in North Beach typically $2,800–$3,500; at $1,600 this is 40–55% below market — very strong value if legitimate
-- **Notes:** Best immediately available listing for a full 1BR. Eat-in kitchen with full stainless appliance package including dishwasher explicitly confirmed. Private bath (standalone apartment). On-site laundry. Cats and dogs OK. Bay windows and high ceilings. Steps from Filbert St stairs, Washington Square Park, Polk St corridor. Now 3 days old — contact soon.
+- **Notes:** Best immediately available listing for a full 1BR. Eat-in kitchen with full stainless appliance package including dishwasher explicitly confirmed. Private bath (standalone apartment). On-site laundry. Cats and dogs OK. Bay windows and high ceilings. Steps from Filbert St stairs, Washington Square Park, Polk St corridor. Now 4 days old — contact soon.
 
 ---
 
 ### Compact Kitchenette Studio — 540 Leavenworth #303 — Nob Hill — $1,590/mo — Craigslist
-- **Rank:** 5
+- **Rank:** 4
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-compact-studio-shared/7932053220.html
 - **First found:** 2026-05-05
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
 - **Location:** 540 Leavenworth St #303, Nob Hill — lat 37.786, lng -122.415 (confirmed Nob Hill)
 - **Size:** not listed (compact)
@@ -132,7 +106,7 @@ Total runs: 20
 - **Pet policy:** cats OK, dogs OK (up to 70 lbs; $25/mo cat, $50/mo dog; breed restrictions apply)
 - **Other amenities:** LVP flooring, updated bathroom, shared rooftop deck, rent-controlled building, 13-min walk to Union Square
 - **Photos:** not separately counted; Matterport virtual tour available (same building)
-- **Posting age:** fresh (posted May 4–5, 2026)
+- **Posting age:** 2 days (posted May 4–5, 2026)
 - **Poster:** Pieter Vos / Brick + Timber (DRE# 02213247) — professional management; highly credible
 - **vs. market:** studios in Nob Hill typically $1,800–$2,400; at $1,590 this is notably below market — budget pick for Nob Hill location
 - **Notes:** ⚠️ Kitchen is a kitchenette only — mini fridge + cooktop + microwave (confirmed by companion listing 7932124969 for the same unit). This is the minimum kitchen requirement (kitchenette qualifies). Not for someone who wants a full cooking setup. Private bath confirmed (standalone studio). On-site laundry confirmed. Pets OK — one of few under-$1,600 pet-friendly studios. Rent-controlled. Rooftop deck is a nice plus. Check before the Inner Richmond if budget is the top priority.
@@ -140,11 +114,11 @@ Total runs: 20
 ---
 
 ### Inner Richmond Studio — Private Entrance, Utilities Included — $1,670/mo — Craigslist
-- **Rank:** 6
+- **Rank:** 5
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-available-now-1670/7932056602.html
 - **First found:** 2026-05-04
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
 - **Location:** Inner Richmond — near Mountain Lake Park & Presidio, close to California, Clement & Geary corridors (lat 37.781, lng -122.461)
 - **Size:** not listed
@@ -152,13 +126,13 @@ Total runs: 20
 - **Rent:** $1,670/mo — utilities included: water, garbage, AND GAS (tenant pays cable/internet only)
 - **Deposit:** security deposit required (amount not listed)
 - **Lease:** 1-year lease
-- **Available:** May 5, 2026 (today — available now)
+- **Available:** Now
 - **Laundry:** on-site (laundry on site)
 - **Parking:** street only
 - **Pet policy:** no pets
 - **Other amenities:** yard-facing unit with private entrance, studio with kitchen alcove, gas stove + microwave + refrigerator, beautiful hardwood floors, sunny eastern exposure
 - **Photos:** individual landlord listing; not separately counted
-- **Posting age:** 2 days (posted May 4, 2026)
+- **Posting age:** 3 days (posted May 4, 2026)
 - **Poster:** individual landlord (direct contact by phone); clean and detailed listing, no red flags
 - **vs. market:** studios in Inner Richmond typically $1,600–$2,000; at $1,670 with gas + water + garbage included, effective all-in cost ~$1,700–1,720 — strong value with full utility package
 - **Notes:** Gas stove + microwave + refrigerator confirm full kitchen. Private bath confirmed (studio). Laundry on-site. Private entrance and yard-facing orientation add privacy. Gas, water, and garbage all included — tenant only pays electricity (cable/internet). This is one of the best value-for-money studios in the tracker when factoring in the utility package. Inner Richmond: Mountain Lake Park, Presidio, Clement St shops, Geary Blvd all nearby. No pets is the main limitation.
@@ -166,13 +140,13 @@ Total runs: 20
 ---
 
 ### Studio — 1086 Post St #303 — Nob Hill — $1,695/mo — Craigslist
-- **Rank:** 7
+- **Rank:** 6
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-apartment-with/7932083094.html
 - **First found:** 2026-05-04
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
-- **Location:** 1086 Post St #303, Nob Hill — lat 37.787, lng -122.420 (confirmed Nob Hill — same building as Rank 13)
+- **Location:** 1086 Post St #303, Nob Hill — lat 37.787, lng -122.420 (confirmed Nob Hill — same building as Rank 12)
 - **Size:** not listed
 - **BR/BA:** Studio/1BA (private bathroom — standalone studio apartment)
 - **Rent:** $1,695/mo (utilities not stated as included; inquire with landlord)
@@ -184,19 +158,19 @@ Total runs: 20
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** spacious kitchen, full-size bathtub, two closets (one walk-in), hardwood floors, great natural light, weekly common area cleaning
 - **Photos:** fresh listing, photos not separately counted
-- **Posting age:** 2 days (posted May 4, 2026)
+- **Posting age:** 3 days (posted May 4, 2026)
 - **Poster:** direct private landlord contact (same building as Structure Properties-managed #301); professional building
 - **vs. market:** studios in Nob Hill typically $1,800–$2,400; at $1,695 this is notably below the already-tracked #301 unit at $1,950 in the same building ($255 savings/mo)
-- **Notes:** Same building as Rank 13 (1086 Post St #301 at $1,950). This unit #303 is $255/mo cheaper. Kitchen described as "spacious" — this building's other unit (#301) has a gas stove/oven and dishwasher; same kitchen standard likely applies but stove not explicitly confirmed here. Inquire directly to confirm appliances. Cats and dogs both OK. Garage parking available. Walk-in closet.
+- **Notes:** Same building as Rank 12 (1086 Post St #301 at $1,950). This unit #303 is $255/mo cheaper. Kitchen described as "spacious" — this building's other unit (#301) has a gas stove/oven and dishwasher; same kitchen standard likely applies but stove not explicitly confirmed here. Inquire directly to confirm appliances. Cats and dogs both OK. Garage parking available. Walk-in closet.
 
 ---
 
 ### Huge Studio — Broadway Crown Towers — Pacific Heights — $1,700/mo — Craigslist
-- **Rank:** 8
+- **Rank:** 7
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-this-unit-is-on-the-west/7931605423.html
 - **First found:** 2026-05-02
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
 - **Location:** Broadway Crown Towers, Broadway St, Pacific Heights — lat 37.7917, lng -122.4186 (confirmed Pacific Heights)
 - **Size:** not listed; described as "HUGE" with walk-in closet large enough to use as a second bedroom
@@ -210,7 +184,7 @@ Total runs: 20
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** dishwasher, AC, hardwood floors throughout, huge walk-in closet, bay window (main room), peekaboo bay views from kitchen window, dinette room attached to kitchen, west-facing (quiet/private), 2nd floor
 - **Photos:** not counted separately; professional building listing
-- **Posting age:** 6 days (posted May 2, 2026) — sitting a bit longer now
+- **Posting age:** 4 days (posted May 2, 2026)
 - **Poster:** Broadway Crown Towers Apartments (managed building) — professional management, no red flags
 - **vs. market:** studios in Pacific Heights typically $2,200–$2,800; at $1,700 this is 35–40% below market — strong value for the location
 - **Notes:** Best immediately available studio for size and location. Full kitchen confirmed (wood cabinetry, refrigerator, stove/oven, microwave, dishwasher). Private bath confirmed (studio). Laundry in building. AC and off-street parking both included or available. Cats and dogs both OK. Huge walk-in closet with window — poster notes residents often use it as a bedroom. West-facing = quiet. Dinette room adds functional space beyond the main studio.
@@ -218,11 +192,11 @@ Total runs: 20
 ---
 
 ### Private Room + Bath in Brand New 2BR/2BA SoMa — $1,825/mo all-in — Craigslist
-- **Rank:** 9
+- **Rank:** 8
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bath-in/7926321214.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Room (in 2BR/2BA apartment)
 - **Location:** SoMa / South Beach — lat 37.773, lng -122.415
 - **Size:** not listed
@@ -236,19 +210,19 @@ Total runs: 20
 - **Pet policy:** not listed
 - **Other amenities:** private balcony, modern kitchen (stainless steel appliances, gas stove), unfurnished
 - **Photos:** 7 photos
-- **Posting age:** 28 days (posted April 7) ⚠️⚠️⚠️⚠️⚠️ — verified active Run 20 (still unfilled after 4+ weeks)
+- **Posting age:** 29 days (posted April 7) ⚠️⚠️⚠️⚠️⚠️ — verified active Run 21 (still unfilled after 4+ weeks)
 - **Poster:** individual; clear and detailed listing, no red flags
 - **vs. market:** Rooms with private bath + all utilities in SoMa typically $2,200+; at $1,825 all-in this is well below market
-- **Notes:** Brand new 2BR/2BA building. Private bathroom, in-unit W/D, private balcony, all utilities included. Sublease through September with extension option. ⚠️⚠️⚠️⚠️⚠️ Now 28 days old and still verified active — highly unusual. Sublease format (through Sept) may explain why it hasn't filled. At this age, the asking price has strong negotiating room — make contact if interested.
+- **Notes:** Brand new 2BR/2BA building. Private bathroom, in-unit W/D, private balcony, all utilities included. Sublease through September with extension option. ⚠️⚠️⚠️⚠️⚠️ Now 29 days old and still verified active — highly unusual. Sublease format (through Sept) may explain why it hasn't filled. At this age, the asking price has strong negotiating room — make contact if interested.
 
 ---
 
 ### Sutro Heights Primary Suite — Relisted — $1,850/mo — Craigslist
-- **Rank:** 10
+- **Rank:** 9
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-sutro-heights-room-for/7932214984.html
 - **First found:** 2026-04-29 (relisted — previous URL 7924614859 expired; original posted ~April 1)
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Room (primary suite in 4BR/3BA house)
 - **Location:** Sutro Heights, Outer Richmond — lat 37.777, lng -122.498 (confirmed Outer Richmond, near Sutro Heights Park / Balboa Strip)
 - **Size:** massive room (described as "honestly like a studio apartment"), walk-in closet + additional built-in storage
@@ -262,45 +236,19 @@ Total runs: 20
 - **Pet policy:** not listed (housemates travel and surf; pet info not stated)
 - **Other amenities:** two decks, spectacular Golden Gate Park + ocean views, infrared sauna, grand piano, backyard garden, kettlebells, bike/surfboard storage, fireplace (downstairs), gas cooking
 - **Photos:** not counted separately (no photos attached to listing)
-- **Posting age:** fresh (posted May 5, 2026 — today); property listed continuously since ~April 1
+- **Posting age:** 2 days (relisted May 5, 2026); property listed continuously since ~April 1
 - **Poster:** 4BR/3BA house with 3 male housemates (DJ, physical therapist, botanist, ages 27/33/41) — real, detailed, no red flags; prefers not WFH more than 1 day/week
 - **vs. market:** primary suites with en-suite bath in Outer Richmond typically $2,200–$2,600; at ~$1,900 effective this is 25–35% below market
 - **Notes:** RELISTED — this is the same property as the expired "Sutro Heights Primary Suite" (7924614859, expired April 30) which never filled. Still seeking for June 1 move-in. En-suite bath with two sinks confirmed. Laundry in garage (on-site). Kitchen is a full house kitchen shared with 3 housemates (not a communal/building kitchen). Extraordinary amenity suite — two decks with GGP/ocean views, infrared sauna, grand piano. Poster prefers not WFH more than 1 day/week. All-male household. Outer Richmond location near Ocean Beach, Sutro Heights Park, Balboa St restaurants + movie theater.
 
 ---
 
-### Studio — 925 Geary St #310 — Lower Nob Hill — $1,895/mo — Craigslist
-- **Rank:** 11
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7931237534.html
-- **First found:** 2026-05-01
-- **Last verified:** 2026-05-05 (Run 20)
-- **Type:** Studio
-- **Location:** 925 Geary St at Polk, Lower Nob Hill / Nob Hill border — lat 37.786, lng -122.418
-- **Size:** 252 sq ft
-- **BR/BA:** Studio/1BA (private bathroom with bathtub and shower)
-- **Rent:** $1,895/mo (water and garbage included; tenant pays gas + electric)
-- **Deposit:** not listed ($58 application fee)
-- **Lease:** 12 months
-- **Available:** Now
-- **Laundry:** in-building (common area laundry)
-- **Parking:** none
-- **Pet policy:** cats OK, dogs OK (up to 70 lbs, breed restrictions)
-- **Other amenities:** gas range, dishwasher, hardwood floors, gated entry, elevator, storage available, virtual tour on Matterport
-- **Photos:** 12 photos (good)
-- **Posting age:** 7 days (posted April 30, 2026)
-- **Poster:** Brick + Timber (professional SF management company) — highly credible; contact Shanna
-- **vs. market:** studios near Nob Hill/Polk Gulch typically $1,800–$2,200; at $1,895 with gas range, dishwasher, and pets-OK policy, at or just below mid-market for the size
-- **Notes:** Fresh listing. Gas range and dishwasher confirmed. Cats and dogs both OK (rare). Very small at 252 sq ft — may feel cramped. Location is at the northern border of Nob Hill; borders Tenderloin but is on Geary's north side (Nob Hill side).
-
----
-
 ### Spacious Studio with Full Kitchen / Full Bath — Nob Hill — $1,900/mo — Craigslist
-- **Rank:** 12
+- **Rank:** 10
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-spacious-studio-with-full/7930590461.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
 - **Location:** Nob Hill (near Union Square, Huntington Park, Polk St) — lat 37.790, lng -122.412
 - **Size:** 397 sq ft
@@ -314,19 +262,45 @@ Total runs: 20
 - **Pet policy:** cats OK
 - **Other amenities:** stove and oven, dishwasher, microwave, refrigerator, hardwood floors, elevator building, rent-controlled
 - **Photos:** 9 photos
-- **Posting age:** 10 days (posted April 27)
+- **Posting age:** 11 days (posted April 27)
 - **Poster:** Meridian Management Group (CA BRE #990193) — licensed property management; highly credible
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,900 with water/trash included and dishwasher, at or slightly below mid-market
-- **Notes:** Self-contained studio with full kitchen (stove + oven, not just a hotplate). Rent-controlled. Professional management. Prime Nob Hill location. $30 application fee. Cats OK. At 397 sq ft significantly larger than the 252 sq ft 925 Geary unit. Now 10 days old — still active.
+- **Notes:** Self-contained studio with full kitchen (stove + oven, not just a hotplate). Rent-controlled. Professional management. Prime Nob Hill location. $30 application fee. Cats OK. At 397 sq ft significantly larger than most Nob Hill studios. Now 11 days old — still active.
+
+---
+
+### 925 Geary St #310 — Relisted — Lower Nob Hill — $1,895/mo — Craigslist
+- **Rank:** 11
+- **Status:** ACTIVE
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7932169397.html
+- **First found:** 2026-05-01 (relisted — previous URL 7931237534 removed May 6; same unit)
+- **Last verified:** 2026-05-06 (Run 21)
+- **Type:** Studio
+- **Location:** 925 Geary St #310, Lower Nob Hill / Nob Hill border — lat 37.786050, lng -122.418492
+- **Size:** 252 sq ft
+- **BR/BA:** Studio/1BA (private bathroom with bathtub and shower)
+- **Rent:** $1,895/mo (water and garbage included; tenant pays gas + electric)
+- **Deposit:** not listed ($58 application fee)
+- **Lease:** 12 months
+- **Available:** Now
+- **Laundry:** in-building (common area laundry)
+- **Parking:** none
+- **Pet policy:** cats OK, dogs OK (up to 70 lbs, breed restrictions)
+- **Other amenities:** gas range, dishwasher, hardwood floors, gated entry, elevator, storage available, virtual tour on Matterport, balcony views
+- **Photos:** Matterport virtual tour available
+- **Posting age:** fresh (relisted May 6, 2026 — same day old URL removed)
+- **Poster:** Brick + Timber (professional SF management company) — highly credible; contact Shanna
+- **vs. market:** studios near Nob Hill/Polk Gulch typically $1,800–$2,200; at $1,895 with gas range, dishwasher, and pets-OK policy, at or just below mid-market for the size
+- **Notes:** RELISTED — same unit as previous 7931237534 (removed May 6, relisted May 6 same day). 252 sq ft is very small. Gas range and dishwasher confirmed. Cats and dogs OK. Water and garbage included. Freshly relisted — may be more motivated to rent now.
 
 ---
 
 ### Renovated Studio — 1086 Post St #301 — Nob Hill — $1,950/mo — Craigslist
-- **Rank:** 13
+- **Rank:** 12
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-studio/7930992902.html
 - **First found:** 2026-04-29
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
 - **Location:** 1086 Post St #301, Nob Hill — lat 37.787, lng -122.420
 - **Size:** not listed
@@ -343,16 +317,16 @@ Total runs: 20
 - **Posting age:** 8 days (posted April 29, 2026)
 - **Poster:** Structure Properties, Inc. (CalDRE #01961414) — licensed professional management; highly credible
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,950 with gas stove, dishwasher, clawfoot tub, and on-site parking option, slightly below mid-market for the amenity set
-- **Notes:** Same building as Rank 7 (#303 at $1,695). If comparing the two, #303 is $255/mo cheaper — worth checking #303 first. Gas stove/oven and dishwasher in a renovated kitchen. Clawfoot tub. Cats and dogs both OK. 650+ credit score, income 2.5x rent required. Rent-controlled.
+- **Notes:** Same building as Rank 6 (#303 at $1,695). If comparing the two, #303 is $255/mo cheaper — worth checking #303 first. Gas stove/oven and dishwasher in a renovated kitchen. Clawfoot tub. Cats and dogs both OK. 650+ credit score, income 2.5x rent required. Rent-controlled.
 
 ---
 
 ### Beautiful Studio Near Chinatown — Financial District — $1,950/mo — Craigslist
-- **Rank:** 14
+- **Rank:** 13
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-beautiful-studio/7931066948.html
 - **First found:** 2026-04-30
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
 - **Location:** 770 California St near Stockton, Chinatown / Financial District — lat 37.792, lng -122.407
 - **Size:** not listed
@@ -366,10 +340,36 @@ Total runs: 20
 - **Pet policy:** no pets
 - **Other amenities:** gas stove/range, refrigerator, hardwood floors, intercom, rent-controlled (SF Rent Ordinance)
 - **Photos:** listed by licensed management (quality expected); fresh listing
-- **Posting age:** 7 days (posted April 30, 2026)
+- **Posting age:** 8 days (posted April 30, 2026)
 - **Poster:** Meridian Management Group (CalBRE #990193) — licensed professional management; highly credible
 - **vs. market:** Studios in Chinatown/Financial District typically $1,800–$2,400; at $1,950 with gas stove, owner-paid water/sewer/trash, at or below mid-market for the location
 - **Notes:** Gas stove confirmed. All requirements met: private bath, on-site laundry, own kitchen. No pets allowed. $32 application fee. Walking distance to Chinatown, Union Square, Montgomery St BART. Rent-controlled. No parking — street or transit commute only.
+
+---
+
+### Studio w/ Hardwood Floors — Near Union Square — $1,895/mo — Craigslist
+- **Rank:** 14
+- **Status:** ACTIVE
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-hardwood-floors/7932372042.html
+- **First found:** 2026-05-06
+- **Last verified:** 2026-05-06 (Run 21)
+- **Type:** Studio
+- **Location:** Near Union Square / Financial District — lat 37.784578, lng -122.409355 (close to Powell BART)
+- **Size:** 266 sq ft
+- **BR/BA:** Studio/1BA (private bathroom with bathtub and shower)
+- **Rent:** $1,895/mo (utilities not stated as included)
+- **Deposit:** not listed ($58 application fee)
+- **Lease:** 12 months
+- **Available:** Now (not explicitly stated; available now inferred)
+- **Laundry:** in-building
+- **Parking:** street only
+- **Pet policy:** cats OK, dogs OK (up to 70 lbs; $25/mo cat, $50/mo dog; breed restrictions)
+- **Other amenities:** gas range, refrigerator, hardwood floors, walk-in closet, elevator, balcony access, kitchen hood
+- **Photos:** Matterport virtual tour available
+- **Posting age:** fresh (posted ~May 5–6, 2026)
+- **Poster:** Brick + Timber (Taylor) — same professional management as 540 Leavenworth #303 and 925 Geary #310; highly credible
+- **vs. market:** studios near Union Square/Financial District typically $1,800–$2,200; at $1,895 for 266 sq ft, near mid-market for the area
+- **Notes:** NEW this run. All core requirements met: gas range confirms full kitchen, private bath (bathtub and shower), laundry in bldg, cats and dogs OK. Brick + Timber management (same as Rank 4 and Rank 11). Very small at 266 sq ft. Walk-in closet is a nice plus. Steps from Powell St BART — excellent transit. Comparable to 925 Geary #310 (Rank 11) in price and size but Union Square location has better BART access.
 
 ---
 
@@ -378,7 +378,7 @@ Total runs: 20
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-pacific-hts-furnished/7930391754.html
 - **First found:** 2026-04-29
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Room (in 2BR flat)
 - **Location:** Upper Pacific Heights — near Gough/Bush, Lafayette Park 50 steps away (lat 37.786, lng -122.436)
 - **Size:** 18' × 13' bedroom (large)
@@ -392,10 +392,10 @@ Total runs: 20
 - **Pet policy:** not listed; "Must be working out of house" preference noted
 - **Other amenities:** furnished, walk-in closet, large windows, park view (Lafayette Park), elevator building, 95 walk score
 - **Photos:** not separately counted
-- **Posting age:** 10 days (posted April 27)
+- **Posting age:** 11 days (posted April 27)
 - **Poster:** individual; quiet roommate, professional listing; "Must be working out of house" preference
 - **vs. market:** private rooms with en-suite bath in Pacific Heights typically $2,200–$2,800; at $1,975 this is 20–35% below market for the quality and location
-- **Notes:** Very large furnished room (18'x13') with private en-suite bath confirmed. Prime Upper Pacific Heights location — Lafayette Park steps away, walkable to Fillmore, Polk, Union St. "Must be working out of house" is a strong preference (not remote-friendly). Effective cost with utilities will push past $2,000. Now 10 days old — may be getting stale.
+- **Notes:** Very large furnished room (18'x13') with private en-suite bath confirmed. Prime Upper Pacific Heights location — Lafayette Park steps away, walkable to Fillmore, Polk, Union St. "Must be working out of house" is a strong preference (not remote-friendly). Effective cost with utilities will push past $2,000. Now 11 days old — may be getting stale.
 
 ---
 
@@ -404,7 +404,7 @@ Total runs: 20
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-newly-renovated-studio-at/7928621793.html
 - **First found:** 2026-05-03
-- **Last verified:** 2026-05-05 (Run 20)
+- **Last verified:** 2026-05-06 (Run 21)
 - **Type:** Studio
 - **Location:** 711 Leavenworth St #21, Nob Hill — lat 37.788, lng -122.415 (confirmed Nob Hill)
 - **Size:** 400 sq ft
@@ -418,7 +418,7 @@ Total runs: 20
 - **Pet policy:** no pets
 - **Other amenities:** remodeled kitchen with full kitchen (not just kitchenette), hardwood floors, double pane windows, rent-controlled (SF Rent Ordinance), elevator building
 - **Photos:** not counted separately
-- **Posting age:** 17 days (posted ~April 18, 2026) ⚠️ — now 17 days, sitting longer than average
+- **Posting age:** 18 days (posted ~April 18, 2026) ⚠️ — sitting longer than average
 - **Poster:** GRM Properties LLC / Beam Properties, Inc. — professional management, TAP app for showings; credible
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,995 base rent with $150 mandatory utilities, effective all-in cost of ~$2,145 is above mid-market
 - **Notes:** Ranked last due to highest effective cost (~$2,145/mo all-in). The $150 flat utility fee is mandatory, making this the most expensive listing in the tracker on a total-cost basis. Full kitchen confirmed, rent-controlled, 400 sq ft, Nob Hill location. No pets allowed. $30 application fee. Now 18 days old with no indication of removal — likely overpriced for the market or niche appeal.
@@ -426,6 +426,24 @@ Total runs: 20
 ---
 
 ## Expired / No Longer Available
+
+### Noe Valley Renovated Studio — $1,500/mo — Craigslist
+- **Status:** REMOVED
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-affordable-living/7931827096.html
+- **First found:** 2026-05-03
+- **Removed:** 2026-05-06
+- **Notes:** Deleted/expired — page redirected to search results with no body or reply button. Was 3 days old when first found; July 1 availability. 500 sq ft, Noe Valley (Sanchez & Cesar Chavez), free on-site laundry, eat-in kitchen, private garden. The July 1 availability may have slowed interest, but the listing still moved fast (3 days active). Likely rented.
+
+---
+
+### 925 Geary St #310 — Lower Nob Hill — $1,895/mo — Craigslist (original listing)
+- **Status:** REMOVED
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7931237534.html
+- **First found:** 2026-05-01
+- **Removed:** 2026-05-06
+- **Notes:** Removed/expired — page redirected to search results (same-day removal pattern). Same unit immediately relisted as new URL 7932169397 (now Rank 11 in Active). Brick + Timber (Shanna) is actively marketing this unit.
+
+---
 
 ### ⚠️ SCAM — Furnished Edwardian 1BR — Castro — $1,200/mo — Craigslist
 - **Status:** REMOVED
@@ -486,7 +504,7 @@ Total runs: 20
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-sutro-heights-room-for/7924614859.html
 - **First found:** 2026-04-29
 - **Removed:** 2026-04-30
-- **Notes:** Post expired. Was ~30 days old at expiry (posted approx. April 1), June 1 availability. Exceptional amenity suite — two decks, ocean views, infrared sauna — but never filled. Relisted May 5, 2026 as new URL 7932214984 (now Rank 10 in Active Listings).
+- **Notes:** Post expired. Was ~30 days old at expiry (posted approx. April 1), June 1 availability. Exceptional amenity suite — two decks, ocean views, infrared sauna — but never filled. Relisted May 5, 2026 as new URL 7932214984 (now Rank 9 in Active Listings).
 
 ---
 
@@ -603,3 +621,4 @@ Total runs: 20
 | 18 | 2026-05-04 | 2 | 1 | North Beach 1BR $1,600 / Inner Richmond Studio $1,670 utilities-included (general) / Pacific Heights Penthouse $620 (40+ female) |
 | 19 | 2026-05-05 | 2 | 0 | North Beach 1BR $1,600 (general, immediate) / Sutro Heights Suite relisted $1,850 (new) / Pacific Heights Penthouse $620 (40+ female) |
 | 20 | 2026-05-05 | 0 | 0 | North Beach 1BR $1,600 (general, immediate) / Pacific Heights Penthouse $620 (40+ female) |
+| 21 | 2026-05-06 | 2 | 2 | North Beach 1BR $1,600 (general, immediate) / Pacific Heights Penthouse $620 (40+ female) |
