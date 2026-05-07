@@ -7,9 +7,9 @@
    crontab -e
    ```
 
-2. Add the following line to run every 12 hours (at midnight and noon):
+2. Add the following line to run every 6 hours (midnight, 6 AM, noon, 6 PM):
    ```
-   0 */12 * * * /home/talon/dev/sf-housing-search/run-tracker.sh
+   0 0,6,12,18 * * * /home/talon/dev/sf-housing-search/run-tracker.sh
    ```
 
 3. Save and exit. Verify it was added:
@@ -24,7 +24,7 @@ Edit the cron expression to adjust how often the search runs:
 | Schedule | Cron Expression |
 |----------|----------------|
 | Every 12 hours | `0 */12 * * *` |
-| Every 6 hours | `0 */6 * * *` |
+| Every 6 hours (current) | `0 0,6,12,18 * * *` |
 | Every 4 hours | `0 */4 * * *` |
 | Once daily (8 AM) | `0 8 * * *` |
 | Twice daily (8 AM, 8 PM) | `0 8,20 * * *` |
@@ -53,6 +53,23 @@ PATH=/home/talon/.local/bin:/usr/local/bin:/usr/bin:/bin
    ```bash
    /home/talon/dev/sf-housing-search/run-tracker.sh
    ```
+
+## Email Notifications
+
+After each run, `run-tracker.sh` emails the session summary (contents of `tracker-latest.txt`) to `hopkinshousecp@gmail.com` from `sf-housing@thunderheadflix.com` via the Resend API. The new-finds count is surfaced in the subject line (e.g. `SF Housing 2026-05-07 12:00 — 2 new`).
+
+**Required setup on a new machine:**
+
+1. Create a Resend account, add `thunderheadflix.com` (Cloudflare auto-configure handles DNS).
+2. Generate an API key restricted to `thunderheadflix.com` sending.
+3. Save the key locally with restrictive permissions:
+   ```bash
+   mkdir -p ~/.config/resend && chmod 700 ~/.config/resend
+   echo 'YOUR_KEY' > ~/.config/resend/key
+   chmod 600 ~/.config/resend/key
+   ```
+
+If the key file is missing, the script logs `[email] missing ~/.config/resend/key — skipping` and continues without failing the run. Email failures are also logged (not fatal) — look for `[email] FAILED status=...` in `tracker-log.txt`.
 
 ## Disabling the Job
 
