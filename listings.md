@@ -1,6 +1,6 @@
 # SF Housing Search
-Last updated: 2026-05-12 12:15
-Total runs: 42
+Last updated: 2026-05-12 13:30
+Total runs: 43
 
 ## Best Current Listing
 ⚠️ **URGENT — Brightwell West application deadline is May 13, 2026 — TOMORROW. Apply NOW at midpen-housing.org/Brightwell-West.** Studios from $843/mo, 1BRs from $877/mo. Also new this run: **Mercy Housing Madonna Residences** (350 Golden Gate Ave) accepting applications FIRST COME FIRST SERVED right now — $1,028–$1,364/mo studios under 30–50% AMI (apply at mercyhousing.org/california/madonna-residences). For market-rate: **2245 Larkin St, Russian Hill studio at $1,758/mo** (Rank 13) — new today, top-floor Edwardian, separate kitchen, 500 sq ft, owner pays water/gas/trash (effective ~$1,660), pets OK. **Broadway Crown Towers Pacific Heights studio at $1,700/mo** (Rank 10) remains the best full-amenity deal: AC, dishwasher, in-building laundry, pets OK, off-street parking, spacious unit — now 13 days on market, negotiate for $1,600–$1,650.
@@ -14,7 +14,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-brightwell-west-studio/7929640214.html
 - **First found:** 2026-04-28
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 750 Golden Gate Avenue, San Francisco — Civic Center / Hayes Valley (lat 37.781, lng -122.423)
 - **Size:** not listed
@@ -40,7 +40,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-below-market-rate-studio/7932951359.html
 - **First found:** 2026-05-09
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 8 Mclea Ct. (off 9th St), SoMa / South Beach — lat 37.772302, lng -122.408361 (confirmed accepted neighborhood)
 - **Size:** not listed
@@ -66,7 +66,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-mercy-housing-205-jones/7932561301.html
 - **First found:** 2026-05-10
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 205 Jones St, Tenderloin / Civic Center — lat 37.783155, lng -122.412651 (confirmed accepted neighborhood)
 - **Size:** not listed (efficient studio layout)
@@ -92,7 +92,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-mercy-housing-madonna/7933004016.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 350 Golden Gate Avenue, San Francisco — Civic Center / Hayes Valley (lat 37.781688, lng -122.416416, confirmed accepted neighborhood)
 - **Size:** not listed (efficient studio layout)
@@ -118,7 +118,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-in-the-heart-of-it-all/7933621736.html
 - **First found:** 2026-05-05 (original URL 7932053220 removed May 6; 10th URL 7933621736 is current; companion URLs also active)
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 540 Leavenworth St #303, Nob Hill — lat 37.786, lng -122.415 (confirmed Nob Hill)
 - **Size:** 200 sq ft (compact)
@@ -144,7 +144,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -170,7 +170,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-studio-move-in/7933688767.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 245 Leavenworth St (near Eddy St), Tenderloin / Civic Center — lat 37.783724, lng -122.414242 (confirmed accepted neighborhood)
 - **Size:** not listed
@@ -196,7 +196,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-ready-now-city-living/7933052914.html
 - **First found:** 2026-05-09
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 424 Jones St #207, Union Square / Lower Nob Hill — lat 37.785453, lng -122.412694 (4 blocks from Powell BART; near Union Square)
 - **Size:** 242 sq ft
@@ -222,7 +222,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor (listed as "7th floor" in description — unit #808)
@@ -248,7 +248,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-this-unit-is-on-the-west/7931605423.html
 - **First found:** 2026-05-02
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** Broadway Crown Towers, Broadway St, Pacific Heights — lat 37.7917, lng -122.4186 (confirmed Pacific Heights)
 - **Size:** not listed; described as "HUGE" with walk-in closet large enough to use as a second bedroom
@@ -274,7 +274,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-apartment-with/7932083094.html
 - **First found:** 2026-05-04
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 1086 Post St #303, Nob Hill — lat 37.787, lng -122.420 (confirmed Nob Hill)
 - **Size:** not listed
@@ -300,7 +300,7 @@ Total runs: 42
 - **Status:** PRICE CHANGED (was $1,900, dropped to $1,700 on 2026-05-10)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-840-geary-street/7932590355.html
 - **First found:** 2026-05-08
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 840 Geary St #12, Nob Hill — lat 37.786253, lng -122.416900 (confirmed Nob Hill, near Van Ness)
 - **Size:** not listed
@@ -326,7 +326,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-top-floor-studio-closets/7933721864.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 2245 Larkin St @ Union St, Russian Hill — lat 37.798700, lng -122.420600 (confirmed accepted neighborhood — Russian Hill)
 - **Size:** 500 sq ft
@@ -352,7 +352,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-bedroom-private-bath/7933113172.html
 - **First found:** 2026-05-09
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Room (in townhome — Presidio of San Francisco)
 - **Location:** Presidio of San Francisco — lat 37.800500, lng -122.465000 (confirmed accepted neighborhood — Presidio / Sea Cliff)
 - **Size:** large master bedroom + big closets + extra storage
@@ -378,7 +378,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1800-private-bedroom-plus/7933132225.html
 - **First found:** 2026-05-09
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Room (in 2BR/2BA apartment)
 - **Location:** Cow Hollow district — lat 37.797408, lng -122.425437 (confirmed Cow Hollow / Marina)
 - **Size:** 12'×12' bedroom
@@ -404,7 +404,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-located-in-san-francisco/7933581590.html
 - **First found:** 2026-05-11
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 225 Taylor St, Tenderloin / Lower Nob Hill — lat 37.781300, lng -122.416700 (confirmed accepted neighborhood; near Powell St BART and Union Square)
 - **Size:** 425 sq ft
@@ -430,7 +430,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-jnr-1br-with/7931321804.html
 - **First found:** 2026-05-11
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** 1BR (Junior/1BR — basement floor unit)
 - **Location:** Frontenac Apartments, Tenderloin — lat 37.785572, lng -122.416105 (confirmed accepted neighborhood — Tenderloin / Lower Nob Hill)
 - **Size:** 350 sq ft
@@ -456,7 +456,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-building-elevator/7931474098.html
 - **First found:** 2026-05-06
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Studio
 - **Location:** 531 Hyde St, Nob Hill / Lower Nob Hill — lat 37.785806, lng -122.416648 (confirmed Nob Hill)
 - **Size:** not listed; described as "spacious" with ample closet space and tall ceilings
@@ -482,7 +482,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-spacious-and-private-room/7932830250.html
 - **First found:** 2026-05-09
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** Room (master bedroom in 4BR Edwardian house)
 - **Location:** Noe Valley — lat 37.750494, lng -122.427692 (confirmed accepted neighborhood; 24th St BART 10 min walk)
 - **Size:** 12'×14' master bedroom with walk-in closet
@@ -508,7 +508,7 @@ Total runs: 42
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-great-bed-bath-in-prime/7932684881.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-12 (Run 42)
+- **Last verified:** 2026-05-12 (Run 43)
 - **Type:** 1BR Apartment
 - **Location:** Nob Hill — lat 37.793600, lng -122.419600 (confirmed accepted neighborhood)
 - **Size:** 700 sq ft
@@ -927,3 +927,4 @@ Total runs: 42
 | 40 | 2026-05-11 | 1 | 1 | Brightwell West $843–$1,520 BMR (DEADLINE MAY 13 — 2 DAYS) / Broadway Crown Towers $1,700 (best market-rate, 11 days) / 225 Taylor $1,845 all-utilities NEW |
 | 41 | 2026-05-12 | 2 | 2 | Brightwell West $843–$1,520 BMR (DEADLINE TOMORROW — MAY 13) / 245 Leavenworth $1,620 new remodeled studio with dishwasher / 620 Jones $1,700 all-utilities new |
 | 42 | 2026-05-12 | 2 | 2 | Brightwell West BMR (DEADLINE TOMORROW MAY 13) / Madonna Residences BMR $1,028–$1,364 FCFS NEW / 2245 Larkin Russian Hill $1,758+utils NEW |
+| 43 | 2026-05-12 | 0 | 0 | Brightwell West BMR (DEADLINE TOMORROW MAY 13 — APPLY NOW) / 2245 Larkin Russian Hill $1,758+utils (best market-rate) |
