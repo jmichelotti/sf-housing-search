@@ -11,7 +11,7 @@ Find and track the best rental housing available in San Francisco that meets the
 Two modes are active. Both run every session and are tracked in separate sections of `listings.md`.
 
 - **Solo mode** — housing for one person under $2,000/month.
-- **Group mode** — 3BR/3BA apartments or houses under $5,000/month.
+- **Group mode** — 3BR apartments or houses with 2+ bathrooms under $5,000/month.
 
 ## Income-Restriction Filter (applies to BOTH modes)
 
@@ -41,23 +41,23 @@ The user's income is **$100k+/year**, which disqualifies them from most income-r
 - Rooms in shared housing (must have private bathroom)
 - In-law units / ADUs / backyard cottages / basement apartments
 
-### Group mode (3BR/3BA)
+### Group mode (3BR, 2+ bath)
 
 **Must meet ALL of the following:**
 
 - Monthly rent: under $5,000
 - Location: San Francisco, within accepted neighborhoods only (same Geographic Filter as solo mode)
 - **3 bedrooms** — must be a true 3BR (not 2BR + den, not "convertible", not 2BR loft marketed as 3)
-- **3 bathrooms** — 3 baths anywhere in the unit. They do NOT all need to be en-suite, but the unit must have 3 bathrooms total. 2.5 baths is acceptable only if the listing or photos clearly show a third full bath (some listings undercount half-baths).
+- **2 or more bathrooms** — at least 2 full baths anywhere in the unit. They do NOT need to be en-suite. 1.5 baths or fewer is a reject. 1BA-only 3BR units are a reject. Half-baths count toward the total only if there are also at least 2 full baths (e.g. 2.5BA is OK; 1.5BA is not).
 - In-unit or on-site laundry — same rule as solo mode
 - Kitchen in the unit — same rule as solo mode (group mode will almost always have a full kitchen, but verify)
 - Passes the Income-Restriction Filter above.
 
 **Acceptable housing types:**
-- 3BR apartments / condos / flats
-- Single-family houses (3BR/3BA)
-- Townhouses (3BR/3BA)
-- Full-floor flats in multi-unit buildings (3BR/3BA)
+- 3BR apartments / condos / flats (2+ bath)
+- Single-family houses (3BR, 2+ bath)
+- Townhouses (3BR, 2+ bath)
+- Full-floor flats in multi-unit buildings (3BR, 2+ bath)
 
 ### Nice-to-have for both modes (track but don't require)
 - Parking (included, available for extra, or street only)
@@ -163,7 +163,7 @@ Then also search with these queries (replace the query parameter):
 - `room for rent private bath`
 - `in-law unit for rent`
 
-### Group searches (3BR/3BA, max $5,000)
+### Group searches (3BR, 2+ bath, max $5,000)
 
 #### Craigslist SF Bay Area — group
 
@@ -226,9 +226,9 @@ Run **both** the solo and group searches listed above. For each promising find:
 - **Confirm the listing is actually available before adding it** — apply the same verification checks from Step 2.
 - **First, identify which mode it belongs to** (solo or group) based on its size and price, then apply that mode's hard requirements:
   - **Solo:** price under $2,000/mo; private bathroom; in-unit or on-site laundry; in-unit kitchen; accepted neighborhood.
-  - **Group:** price under $5,000/mo; **3 bedrooms**; **3 bathrooms total** (do not need to all be en-suite); in-unit or on-site laundry; in-unit kitchen; accepted neighborhood.
+  - **Group:** price under $5,000/mo; **3 bedrooms**; **2 or more bathrooms** (do not need to be en-suite); in-unit or on-site laundry; in-unit kitchen; accepted neighborhood.
 - **Apply the Income-Restriction Filter to every listing in either mode.** If the listing is income-restricted and its 1-person max income cap is below $100,000/year (or the cap is not published), skip it.
-- If a listing is ambiguous about private bathroom (solo), bathroom count (group), laundry, or kitchen (not mentioned either way), note the ambiguity but DO NOT add it to the tracker. Only add listings where these requirements are confirmed.
+- If a listing is ambiguous about private bathroom (solo), bathroom count is missing or unclear (group, needs 2+), laundry, or kitchen (not mentioned either way), note the ambiguity but DO NOT add it to the tracker. Only add listings where these requirements are confirmed.
 - Extract all trackable details (see listing format below) and add the listing to the matching mode's section.
 - Only add if it's a real listing worth tracking — do not pad with low-quality or suspicious entries.
 
@@ -314,7 +314,7 @@ Total runs: [N]
 
 ---
 
-## Active Listings — Group 3BR/3BA (cap 10)
+## Active Listings — Group 3BR/2+BA (cap 10)
 
 ### [TITLE] — $[PRICE]/mo — [SOURCE]
 - **Rank:** [1..N within group]
@@ -326,7 +326,7 @@ Total runs: [N]
 - **Type:** [Apartment / Condo / House / Townhouse / Full-floor flat]
 - **Location:** [neighborhood, cross streets or address if available]
 - **Size:** [sq ft if listed, "not listed" otherwise]
-- **BR/BA:** 3BR/3BA (or 3BR/2.5BA + confirmed third full bath)
+- **BR/BA:** 3BR/[2|2.5|3]BA (confirmed bath count)
 - **Rent:** $[amount]/mo
 - **Deposit:** [amount if listed, "not listed" otherwise]
 - **Lease:** [term if listed — month-to-month, 1 year, etc.]
@@ -382,7 +382,7 @@ Total runs: [N]
 
 ## What NOT to Do
 
-- Do not add listings that don't confirm private bathroom (solo) or 3-bath count (group), laundry, and kitchen — ambiguous is not good enough
+- Do not add listings that don't confirm private bathroom (solo) or 2+ bath count (group), laundry, and kitchen — ambiguous is not good enough
 - **Do not add income-restricted listings whose 1-person max income cap is below $100,000/year** (or whose cap is not published). The user is voided out of these. This applies in both solo and group modes.
 - Do not pad the tracker with weak listings that barely meet requirements
 - Do not leave browser tabs open between searches
