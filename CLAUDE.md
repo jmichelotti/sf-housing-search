@@ -6,13 +6,25 @@ An automated housing search agent that runs on a schedule to find the best renta
 
 Find and track the best rental housing available in San Francisco that meets the requirements below. On each run, check previously found listings to see if they are still active, mark removed ones, and search for new listings. Write all findings to `listings.md`.
 
-## Search Mode
+## Search Modes
 
-**Solo mode** (active now): Find housing for one person under $2,000/month.
+Two modes are active. Both run every session and are tracked in separate sections of `listings.md`.
 
-<!-- Future: 3-person mode — $5,500/month budget, 3BR, 2+ bath. Not yet active. -->
+- **Solo mode** — housing for one person under $2,000/month.
+- **Group mode** — 3BR/3BA apartments or houses under $5,000/month.
+
+## Income-Restriction Filter (applies to BOTH modes)
+
+The user's income is **$100k+/year**, which disqualifies them from most income-restricted housing. Apply this filter to every listing in either mode:
+
+- **Reject any listing whose published max income cap for a 1-person household is below $100,000/year.** This covers most BMR, MOHCD, AMI-tier (30%, 50%, 60%, 80% AMI), Mercy Housing, Brightwell, Madonna Residences, and similar income-restricted units.
+- Listings labeled "120% AMI" or higher *may* still qualify — only include if the listing's stated 1-person max income clearly exceeds $100k.
+- If a listing is income-restricted but does not publish its 1-person income cap, **skip it** (assume disqualifying).
+- Use the rejection reason `"Income-restricted — household income exceeds cap"` when moving such a listing to Expired.
 
 ## Requirements
+
+### Solo mode (studios / 1BR / rooms / in-laws)
 
 **Must meet ALL of the following:**
 
@@ -21,6 +33,7 @@ Find and track the best rental housing available in San Francisco that meets the
 - Private bathroom — this is non-negotiable. Shared bathrooms are an automatic rejection, no matter how good the price or location. For rooms in shared housing, the listing must explicitly state private bath or en-suite.
 - In-unit or on-site laundry — washer/dryer in the unit OR shared laundry facilities in the building. "Laundromat nearby" does not count.
 - Kitchen in the unit — must have its own kitchen (or kitchenette at minimum). A shared communal kitchen does not count.
+- Passes the Income-Restriction Filter above.
 
 **Acceptable housing types:**
 - Studios
@@ -28,7 +41,25 @@ Find and track the best rental housing available in San Francisco that meets the
 - Rooms in shared housing (must have private bathroom)
 - In-law units / ADUs / backyard cottages / basement apartments
 
-**Nice-to-have (track but don't require):**
+### Group mode (3BR/3BA)
+
+**Must meet ALL of the following:**
+
+- Monthly rent: under $5,000
+- Location: San Francisco, within accepted neighborhoods only (same Geographic Filter as solo mode)
+- **3 bedrooms** — must be a true 3BR (not 2BR + den, not "convertible", not 2BR loft marketed as 3)
+- **3 bathrooms** — 3 baths anywhere in the unit. They do NOT all need to be en-suite, but the unit must have 3 bathrooms total. 2.5 baths is acceptable only if the listing or photos clearly show a third full bath (some listings undercount half-baths).
+- In-unit or on-site laundry — same rule as solo mode
+- Kitchen in the unit — same rule as solo mode (group mode will almost always have a full kitchen, but verify)
+- Passes the Income-Restriction Filter above.
+
+**Acceptable housing types:**
+- 3BR apartments / condos / flats
+- Single-family houses (3BR/3BA)
+- Townhouses (3BR/3BA)
+- Full-floor flats in multi-unit buildings (3BR/3BA)
+
+### Nice-to-have for both modes (track but don't require)
 - Parking (included, available for extra, or street only)
 - Dishwasher
 - Air conditioning
@@ -94,7 +125,11 @@ South-Central SF (selective):
 
 ## What to Search Each Run
 
-### Craigslist SF Bay Area
+Run **both** the solo and group search blocks every session. Apply the Income-Restriction Filter to every find from either block.
+
+### Solo searches
+
+#### Craigslist SF Bay Area — solo
 
 Search the apartments/housing section (`https://sfbay.craigslist.org/search/sfc/apa`) with these parameters:
 - Max price: $2,000
@@ -112,7 +147,7 @@ Search the apartments/housing section (`https://sfbay.craigslist.org/search/sfc/
 
 Also browse the rooms/shared section (`https://sfbay.craigslist.org/search/sfc/roo`) with max price $2,000 and search for "private bath" or "private bathroom" or "en suite".
 
-### Facebook Marketplace SF
+#### Facebook Marketplace SF — solo
 
 **Facebook Marketplace does NOT require login to browse listings.** Use the Playwright MCP to navigate directly to these URLs. Do not skip Facebook Marketplace — it is a required search source every run.
 
@@ -128,7 +163,37 @@ Then also search with these queries (replace the query parameter):
 - `room for rent private bath`
 - `in-law unit for rent`
 
-For each search, scroll down to load more results and extract listings. Apply the same requirements filter (price under $2,000, SF location, private bath, laundry, kitchen) and coordinate verification as Craigslist listings.
+### Group searches (3BR/3BA, max $5,000)
+
+#### Craigslist SF Bay Area — group
+
+Search the apartments/housing section (`https://sfbay.craigslist.org/search/sfc/apa`) with these parameters:
+- **Max price: $5,000**
+- **Min bedrooms: 3** (use the `minBedrooms=3` parameter, e.g. `https://sfbay.craigslist.org/search/sfc/apa?minBedrooms=3&max_price=5000`)
+- Area: San Francisco only (`sfc` subarea)
+- Search terms (run multiple searches):
+  - "3 bedroom 3 bath"
+  - "3br 3ba"
+  - "3 bedroom"
+  - "house for rent"
+  - "townhouse"
+  - "full floor flat"
+  - "3br"
+
+Also browse the housing/all section without a keyword (just the minBedrooms=3 + max_price=5000 filter) to catch listings that don't use the exact "3BR/3BA" phrasing in the title.
+
+#### Facebook Marketplace SF — group
+
+Navigate to property rentals with the higher cap:
+`https://www.facebook.com/marketplace/sanfrancisco/propertyrentals/?maxPrice=5000&minBedrooms=3`
+
+Then also search with these queries:
+- `3 bedroom for rent`
+- `3 bedroom 3 bath`
+- `house for rent san francisco`
+- `townhouse for rent`
+
+For each search, scroll down to load more results and extract listings. Apply the appropriate mode's requirements (solo: $2k cap + private bath; group: $5k cap + 3BR/3BA + Income-Restriction Filter) and coordinate verification as before.
 
 If Facebook shows a login wall or CAPTCHA that blocks browsing, note it in the session summary as "Facebook Marketplace blocked — [reason]" and continue with Craigslist results. But attempt it every run — the block may be intermittent.
 
@@ -157,17 +222,15 @@ For each listing currently marked ACTIVE in `listings.md`:
 
 ### Step 3 — Search for new listings
 
-Run the searches listed above. For each promising find:
+Run **both** the solo and group searches listed above. For each promising find:
 - **Confirm the listing is actually available before adding it** — apply the same verification checks from Step 2.
-- **Verify it meets ALL hard requirements:**
-  - Price under $2,000/month
-  - Private bathroom (explicitly stated or clearly shown in photos/description)
-  - In-unit or on-site laundry (explicitly stated)
-  - Kitchen in the unit (own kitchen or kitchenette, not shared communal)
-  - Located in an accepted neighborhood (see Geographic Filter below)
-- If a listing is ambiguous about private bathroom, laundry, or kitchen (not mentioned either way), note the ambiguity but DO NOT add it to the tracker. Only add listings where these requirements are confirmed.
-- Extract all trackable details (see listing format below)
-- Only add if it's a real listing worth tracking — do not pad with low-quality or suspicious entries
+- **First, identify which mode it belongs to** (solo or group) based on its size and price, then apply that mode's hard requirements:
+  - **Solo:** price under $2,000/mo; private bathroom; in-unit or on-site laundry; in-unit kitchen; accepted neighborhood.
+  - **Group:** price under $5,000/mo; **3 bedrooms**; **3 bathrooms total** (do not need to all be en-suite); in-unit or on-site laundry; in-unit kitchen; accepted neighborhood.
+- **Apply the Income-Restriction Filter to every listing in either mode.** If the listing is income-restricted and its 1-person max income cap is below $100,000/year (or the cap is not published), skip it.
+- If a listing is ambiguous about private bathroom (solo), bathroom count (group), laundry, or kitchen (not mentioned either way), note the ambiguity but DO NOT add it to the tracker. Only add listings where these requirements are confirmed.
+- Extract all trackable details (see listing format below) and add the listing to the matching mode's section.
+- Only add if it's a real listing worth tracking — do not pad with low-quality or suspicious entries.
 
 **Scam detection — flag or skip these:**
 - No photos, or only 1-2 stock/generic photos
@@ -181,28 +244,34 @@ Run the searches listed above. For each promising find:
 
 Write the updated file with all changes from this session. See format below.
 
-**Cap the Active Listings section at 20 entries.** If a session would push the active count above 20, archive the weakest current listings (worst value, most red flags, oldest without verification, etc.) until exactly 20 remain. Below 20 is fine — do not pad with weak listings. Use removal reason like "Pruned — top 20 cap, weaker than alternatives" for cap-driven removals.
+**Caps are per-mode:**
+- **Solo Active Listings:** capped at 20 entries.
+- **Group Active Listings:** capped at 10 entries.
+
+If a session would push either mode above its cap, archive the weakest current listings within that mode (worst value, most red flags, oldest without verification, etc.) until the mode is at or below its cap. Below the cap is fine — do not pad with weak listings. Use removal reason `"Pruned — cap reached, weaker than alternatives"` for cap-driven removals. The two modes' caps are independent; do not prune a solo listing because of a group find or vice versa.
 
 ### Step 5 — Rank all active listings
 
-After all updates, assign a ranking to every active listing (1 = best, N = worst). Ranking criteria, in rough priority order:
+After all updates, assign rankings **separately within each mode** (solo and group each have their own 1..N). Ranking criteria, in rough priority order:
 1. Price (lower is better, all else equal)
-2. How well it matches requirements (confirmed private bath + laundry > ambiguous)
+2. How well it matches requirements (confirmed > ambiguous)
 3. Location quality and commute convenience
 4. Amenities (parking, dishwasher, AC, etc.)
 5. Listing quality (more photos, detailed description, responsive poster)
 6. Posting freshness (newer listings ranked higher, all else equal)
 
-The ranking order must match the order of listings in the Active Listings section of `listings.md` — best deal at the top = rank 1.
+The ranking order must match the order of listings within each mode's Active Listings section of `listings.md` — best deal at the top of each section = rank 1 for that mode.
 
 ### Step 6 — Print a session summary
 
 After updating the file, print a brief summary to the terminal:
-- How many active listings are currently tracked
-- Any new listings found this session
-- Any listings that were removed since last run
+- Active listing count **per mode** (e.g. "Solo: 18 active / cap 20. Group: 4 active / cap 10.")
+- Any new listings found this session (call out which mode)
+- Any listings that were removed since last run (and why)
 - Any listings with price changes
-- The single best current listing and why
+- The single best current listing **per mode** and why
+
+This summary is also the required final output. Do not end the run silently — print the summary as plain text after all file updates are complete.
 
 ## listings.md Format
 
@@ -211,13 +280,15 @@ After updating the file, print a brief summary to the terminal:
 Last updated: [DATE TIME]
 Total runs: [N]
 
-## Best Current Listing
-[Single best listing with one-line reason why]
+## Best Current Listings
+- **Solo:** [one-line description + reason]
+- **Group (3BR/3BA):** [one-line description + reason]
 
-## Active Listings
+## Active Listings — Solo (cap 20)
 
 ### [TITLE] — $[PRICE]/mo — [SOURCE]
-- **Rank:** [1..N]
+- **Rank:** [1..N within solo]
+- **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** [url]
 - **First found:** [date]
@@ -237,7 +308,38 @@ Total runs: [N]
 - **Photos:** [count, brief quality note]
 - **Posting age:** [days since posted or date posted]
 - **Poster:** [name if available, any legitimacy notes]
+- **Income-restricted?:** [No, or "Yes — 1-person cap $X" if explicitly verified above $100k]
 - **vs. market:** [brief benchmark — e.g. "avg studio in Sunset is $1,800, this is $1,650 = good deal"]
+- **Notes:** [red flags, standout features, anything worth noting]
+
+---
+
+## Active Listings — Group 3BR/3BA (cap 10)
+
+### [TITLE] — $[PRICE]/mo — [SOURCE]
+- **Rank:** [1..N within group]
+- **Mode:** Group
+- **Status:** ACTIVE
+- **URL:** [url]
+- **First found:** [date]
+- **Last verified:** [date]
+- **Type:** [Apartment / Condo / House / Townhouse / Full-floor flat]
+- **Location:** [neighborhood, cross streets or address if available]
+- **Size:** [sq ft if listed, "not listed" otherwise]
+- **BR/BA:** 3BR/3BA (or 3BR/2.5BA + confirmed third full bath)
+- **Rent:** $[amount]/mo
+- **Deposit:** [amount if listed, "not listed" otherwise]
+- **Lease:** [term if listed — month-to-month, 1 year, etc.]
+- **Available:** [move-in date if listed]
+- **Laundry:** [in-unit / on-site shared / not listed]
+- **Parking:** [included / available for $X / street only / not listed]
+- **Pet policy:** [cats OK / dogs OK / no pets / not listed]
+- **Other amenities:** [dishwasher, AC, furnished, yard, garage, etc.]
+- **Photos:** [count, brief quality note]
+- **Posting age:** [days since posted or date posted]
+- **Poster:** [name if available, any legitimacy notes]
+- **Income-restricted?:** [No, or "Yes — 1-person cap $X" if explicitly verified above $100k]
+- **vs. market:** [brief benchmark vs typical 3BR/3BA in that neighborhood]
 - **Notes:** [red flags, standout features, anything worth noting]
 
 ---
@@ -245,7 +347,8 @@ Total runs: [N]
 ## Expired / No Longer Available
 
 ### [TITLE] — $[PRICE]/mo — [SOURCE]
-- **Status:** REMOVED / RENTED / EXPIRED / PRICE CHANGED
+- **Mode:** [Solo / Group]
+- **Status:** REMOVED / RENTED / EXPIRED / PRICE CHANGED / INCOME-RESTRICTED
 - **URL:** [url]
 - **First found:** [date]
 - **Removed:** [date]
@@ -254,9 +357,9 @@ Total runs: [N]
 ---
 
 ## Search History
-| Run | Date | New Finds | Removed | Best Listing |
-|-----|------|-----------|---------|--------------|
-| 1   | [date] | [n] | [n] | [listing title] |
+| Run | Date | Solo new | Group new | Removed | Best Solo | Best Group |
+|-----|------|----------|-----------|---------|-----------|------------|
+| 1   | [date] | [n] | [n] | [n] | [title] | [title] |
 ```
 
 ## Tooling Notes
@@ -279,10 +382,12 @@ Total runs: [N]
 
 ## What NOT to Do
 
-- Do not add listings that don't confirm private bathroom, laundry, and kitchen — ambiguous is not good enough
+- Do not add listings that don't confirm private bathroom (solo) or 3-bath count (group), laundry, and kitchen — ambiguous is not good enough
+- **Do not add income-restricted listings whose 1-person max income cap is below $100,000/year** (or whose cap is not published). The user is voided out of these. This applies in both solo and group modes.
 - Do not pad the tracker with weak listings that barely meet requirements
 - Do not leave browser tabs open between searches
 - Do not cache or reuse listing data from prior runs without re-verifying via URL visit
 - Do not create code files, plan documents, or anything other than `listings.md`
 - Do not commit or push git during a session
 - Do not re-add listings from the Expired section — if a listing was removed and reappears, note it as "relisted" in the Active section but with the original first-found date
+- Do not mix the two modes' listings in a single Active Listings section — always keep solo and group separate, with their own rankings and caps

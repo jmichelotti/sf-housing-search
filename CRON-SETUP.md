@@ -58,6 +58,8 @@ PATH=/home/talon/.local/bin:/usr/local/bin:/usr/bin:/bin
 
 After each run, `run-tracker.sh` emails the session summary (contents of `tracker-latest.txt`) to `hopkinshousecp@gmail.com` from `sf-housing@thunderheadflix.com` via the Resend API. The new-finds count is surfaced in the subject line (e.g. `SF Housing 2026-05-07 12:00 — 2 new`).
 
+If a run produces no stdout (empty or whitespace-only `tracker-latest.txt`), the script substitutes a `(no output captured from claude run — check tracker-log.txt)` body and tags the subject with `— no output` instead of mailing an empty message. The session prompt also explicitly instructs the agent to finish with a printed Step 6 summary, so silent runs should be rare.
+
 **Required setup on a new machine:**
 
 1. Create a Resend account, add `thunderheadflix.com` (Cloudflare auto-configure handles DNS).

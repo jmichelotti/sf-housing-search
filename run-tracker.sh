@@ -4,7 +4,7 @@ cd "$(dirname "$0")"
 separator="$(printf '=%.0s' {1..60})"
 echo -e "\n${separator}\nRUN: $(date '+%Y-%m-%d %H:%M:%S')\n${separator}" >> tracker-log.txt
 
-claude -p "Run a housing search session as described in CLAUDE.md" \
+claude -p "Run a housing search session as described in CLAUDE.md. Your final response MUST be the Step 6 session summary printed as plain text — do not end the turn on a tool call." \
   --model claude-sonnet-4-6 \
   --allowedTools "mcp__playwright__*,WebSearch,WebFetch,Bash,Read,Edit,Write" \
   2>&1 | tee tracker-latest.txt >> tracker-log.txt
@@ -29,7 +29,7 @@ send_run_email() {
 
   local body_file="tracker-latest.txt"
   local subject_suffix=""
-  if [[ ! -s $body_file ]]; then
+  if [[ ! -s $body_file ]] || [[ -z "$(tr -d '[:space:]' < "$body_file")" ]]; then
     body_file="$(mktemp)"
     echo "(no output captured from claude run — check tracker-log.txt)" > "$body_file"
     subject_suffix=" — no output"
