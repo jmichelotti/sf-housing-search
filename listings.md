@@ -1,10 +1,10 @@
 # SF Housing Search
-Last updated: 2026-05-13 19:15
-Total runs: 50
+Last updated: 2026-05-14 01:09
+Total runs: 51
 
 ## Best Current Listings
-- **Solo:** 318 Spear St #8E, South Beach — 1BR/1BA 806sqft at $1,800/mo with ALL utilities (water, sewer, garbage, internet, recycling) + in-unit W/D + all pets OK (effective ~$1,600–1,650/mo equivalent). Best space-per-dollar after removal of 351 Buena Vista.
-- **Group (3BR/3BA):** None found — SF market has no qualifying 3BR/2+BA under $5,000 in accepted neighborhoods through Run 50.
+- **Solo:** 318 Spear St #8E, South Beach — 1BR/1BA 806sqft at $1,800/mo with ALL utilities (water, sewer, garbage, internet, recycling) + in-unit W/D + all pets OK (effective ~$1,600–1,650/mo equivalent). Best space-per-dollar; Broadway Crown Towers removed Run 51 (flagged).
+- **Group (3BR/3BA):** None found — SF market has no qualifying 3BR/2+BA under $5,000 in accepted neighborhoods through Run 51.
 
 ---
 
@@ -16,7 +16,7 @@ Total runs: 50
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-compact-studio-shared/7934021912.html
 - **First found:** 2026-05-05 (original URL 7932053220 removed May 6; now on 13th URL 7934021912)
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 540 Leavenworth St #303, Nob Hill — lat 37.786, lng -122.415 (confirmed Nob Hill)
 - **Size:** 200 sq ft (compact)
@@ -44,7 +44,7 @@ Total runs: 50
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -72,7 +72,7 @@ Total runs: 50
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-studio-move-in/7933688767.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 245 Leavenworth St (near Eddy St), Tenderloin / Civic Center — lat 37.783724, lng -122.414242 (confirmed accepted neighborhood)
 - **Size:** not listed
@@ -100,7 +100,7 @@ Total runs: 50
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-ready-now-city-living/7933871591.html
 - **First found:** 2026-05-09 (relisted May 12 under new URL 7933871591; prior URL 7933052914 deleted same day)
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 424 Jones St #207, Tenderloin / Civic Center — lat 37.785453, lng -122.412694 (confirmed accepted neighborhood; 4 blocks from Powell BART, near Union Square)
 - **Size:** 242 sq ft
@@ -128,7 +128,7 @@ Total runs: 50
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -150,41 +150,13 @@ Total runs: 50
 
 ---
 
-### Huge Studio — Broadway Crown Towers — Pacific Heights — $1,700/mo — Craigslist
-- **Rank:** 6
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-this-unit-is-on-the-west/7931605423.html
-- **First found:** 2026-05-02
-- **Last verified:** 2026-05-13 (Run 50)
-- **Type:** Studio
-- **Location:** Broadway Crown Towers, Broadway St, Pacific Heights — lat 37.7917, lng -122.4186 (confirmed Pacific Heights)
-- **Size:** not listed; described as "HUGE" with walk-in closet large enough to use as a second bedroom
-- **BR/BA:** Studio/1BA (private bathroom — full tiled studio bath)
-- **Rent:** $1,700/mo (utilities not stated as included — assume tenant pays)
-- **Deposit:** not listed
-- **Lease:** monthly
-- **Available:** Now
-- **Laundry:** in-building
-- **Parking:** off-street (available)
-- **Pet policy:** cats OK, dogs OK
-- **Other amenities:** dishwasher, AC, hardwood floors throughout, huge walk-in closet, bay window (main room), peekaboo bay views from kitchen window, dinette room attached to kitchen, west-facing (quiet/private), 2nd floor
-- **Photos:** not counted separately; professional building listing
-- **Posting age:** 26 days (posted ~2026-04-17; first found 2026-05-02) ⚠️ Very stale — very strong negotiating position, try for $1,600–$1,650
-- **Poster:** Broadway Crown Towers Apartments (managed building) — professional management, no red flags
-- **Income-restricted?:** No
-- **vs. market:** studios in Pacific Heights typically $2,200–$2,800; at $1,700 this is 35–40% below market — strong value for the location
-- **Notes:** Full kitchen confirmed (wood cabinetry, refrigerator, stove/oven, microwave, dishwasher). Private bath confirmed. Laundry in building. AC and off-street parking. Cats and dogs OK. Now 26 days old — strong negotiating position. Try for $1,600–$1,650.
-
----
-
 ### Studio — 840 Geary St #12 — Nob Hill — $1,700/mo — Craigslist ⚡ PRICE DROP
-- **Rank:** 7
+- **Rank:** 6
 - **Mode:** Solo
 - **Status:** PRICE CHANGED (was $1,900, dropped to $1,700 on 2026-05-10)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-840-geary-street/7932590355.html
 - **First found:** 2026-05-08
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 840 Geary St #12, Nob Hill — lat 37.786253, lng -122.416900 (confirmed Nob Hill, near Van Ness)
 - **Size:** not listed
@@ -207,12 +179,12 @@ Total runs: 50
 ---
 
 ### Presidio Townhome — Large Master Bedroom with Private Bath — $1,742/mo — Craigslist
-- **Rank:** 8
+- **Rank:** 7
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-bedroom-private-bath/7933113172.html
 - **First found:** 2026-05-09
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Room (in townhome — Presidio of San Francisco)
 - **Location:** Presidio of San Francisco — lat 37.800500, lng -122.465000 (confirmed accepted neighborhood — Presidio / Sea Cliff)
 - **Size:** large master bedroom + big closets + extra storage
@@ -235,12 +207,12 @@ Total runs: 50
 ---
 
 ### Top-Floor Edwardian Studio — 2245 Larkin St — Russian Hill — $1,758/mo + utilities — Craigslist
-- **Rank:** 9
+- **Rank:** 8
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-top-floor-studio-closets/7933721864.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 2245 Larkin St @ Union St, Russian Hill — lat 37.798700, lng -122.420600 (confirmed accepted neighborhood)
 - **Size:** 500 sq ft
@@ -262,13 +234,13 @@ Total runs: 50
 
 ---
 
-### Studio with Gas Range & Dishwasher — 650 Ellis St — Tenderloin / Lower Nob Hill — $1,745/mo — Craigslist ⭐ NEW
-- **Rank:** 10
+### Studio with Gas Range & Dishwasher — 650 Ellis St — Tenderloin / Lower Nob Hill — $1,745/mo — Craigslist
+- **Rank:** 9
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studiotenderloinstainless/7934007901.html
 - **First found:** 2026-05-13
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 650 Ellis St, Tenderloin / Lower Nob Hill — lat 37.784340, lng -122.416906 (confirmed accepted neighborhood)
 - **Size:** 304 sq ft
@@ -291,12 +263,12 @@ Total runs: 50
 ---
 
 ### Charming 1BR/1BA Condo — 318 Spear St #8E — South Beach / SoMa — $1,800/mo — Craigslist
-- **Rank:** 11
+- **Rank:** 10
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-bed-bath-condo/7933871365.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** 1BR Apartment (condo)
 - **Location:** 318 Spear St Unit 8E, South Beach / SoMa — lat 37.789832, lng -122.390879 (confirmed accepted neighborhood — SoMa / South Beach)
 - **Size:** 806 sq ft
@@ -318,41 +290,13 @@ Total runs: 50
 
 ---
 
-### Cow Hollow Private Bedroom + Private Bath — All Utilities Included — $1,800/mo — Craigslist
-- **Rank:** 12
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1800-private-bedroom-plus/7933132225.html
-- **First found:** 2026-05-09
-- **Last verified:** 2026-05-13 (Run 50)
-- **Type:** Room (in 2BR/2BA apartment)
-- **Location:** Cow Hollow district — lat 37.797408, lng -122.425437 (confirmed Cow Hollow / Marina)
-- **Size:** 12'×12' bedroom
-- **BR/BA:** private room / 1BA (en-suite — "A quiet 12X12 bedroom with an attached full bath")
-- **Rent:** $1,800/mo; all utilities included (water, garbage, electricity, high-speed internet) → effective ~$1,650/mo equivalent
-- **Deposit:** $2,300 (first month + $2,300 deposit)
-- **Lease:** month-to-month (30-day notice required)
-- **Available:** June 1, 2026
-- **Laundry:** in-building (app-operated laundry machines in building)
-- **Parking:** street only (area permits)
-- **Pet policy:** not listed
-- **Other amenities:** quiet interior-facing bedroom, roommate often out of town 6–8 months/year (effectively solo living most of the time), steps to Union St / Polk St / Chestnut St / Fillmore St, MUNI 45 and 49 lines within 2 blocks
-- **Photos:** personal listing
-- **Posting age:** 4 days (posted May 9, 2026)
-- **Poster:** middle-aged male professional, non-smoker, quiet and independent; asks for LinkedIn — no red flags.
-- **Income-restricted?:** No
-- **vs. market:** private rooms with en-suite bath in Cow Hollow/Marina typically $2,000–$2,500; at $1,800 all-utilities-included (effective ~$1,650), this is 25–35% below market
-- **Notes:** All utilities included (water, garbage, electricity, internet). Roommate often out of town 6–8 months/year — essentially solo living most of the time. Private attached bath confirmed. In-building laundry. Kitchen shared with 1 roommate. June 1 availability. High deposit ($2,300).
-
----
-
 ### Upcoming Studio — 138 Hyde St #05 — Tenderloin / Lower Nob Hill — $1,795/mo — Craigslist
-- **Rank:** 13
+- **Rank:** 11
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-upcoming-studio-pet/7933884414.html
 - **First found:** 2026-05-13
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 138 Hyde St #05, Tenderloin / Lower Nob Hill — lat 37.782282, lng -122.415547 (confirmed accepted neighborhood; near Civic Center and Powell BART)
 - **Size:** 310 sq ft
@@ -375,12 +319,12 @@ Total runs: 50
 ---
 
 ### Studio with Eat-In Kitchen — 360 Hyde St #204 — Tenderloin / Lower Nob Hill — $1,795/mo — Craigslist
-- **Rank:** 14
+- **Rank:** 12
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-ready-now-studio-pet/7933871336.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 360 Hyde St #204, Tenderloin / Lower Nob Hill — lat 37.784393, lng -122.415891 (confirmed accepted neighborhood)
 - **Size:** 296 sq ft
@@ -403,12 +347,12 @@ Total runs: 50
 ---
 
 ### Renovated Studio — 225 Taylor St — Tenderloin / Lower Nob Hill — $1,845/mo all utilities incl. — Craigslist
-- **Rank:** 15
+- **Rank:** 13
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-located-in-san-francisco/7933581590.html
 - **First found:** 2026-05-11
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 225 Taylor St, Tenderloin / Lower Nob Hill — lat 37.781300, lng -122.416700 (confirmed accepted neighborhood; near Powell St BART and Union Square)
 - **Size:** 425 sq ft
@@ -431,12 +375,12 @@ Total runs: 50
 ---
 
 ### Frontenac Apartments Junior 1BR — Tenderloin — $1,800/mo — Craigslist
-- **Rank:** 16
+- **Rank:** 14
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-jnr-1br-with/7931321804.html
 - **First found:** 2026-05-11
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** 1BR (Junior/1BR — basement floor unit)
 - **Location:** Frontenac Apartments, Tenderloin — lat 37.785572, lng -122.416105 (confirmed accepted neighborhood)
 - **Size:** 350 sq ft
@@ -459,12 +403,12 @@ Total runs: 50
 ---
 
 ### Studio — 531 Hyde St — Nob Hill — $1,875/mo — Craigslist
-- **Rank:** 17
+- **Rank:** 15
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-building-elevator/7931474098.html
 - **First found:** 2026-05-06
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** 531 Hyde St, Nob Hill / Lower Nob Hill — lat 37.785806, lng -122.416648 (confirmed Nob Hill)
 - **Size:** not listed; described as "spacious" with ample closet space and tall ceilings
@@ -487,12 +431,12 @@ Total runs: 50
 ---
 
 ### Noe Valley Master Bedroom — Private Bath, Utilities Included, In-Unit W/D — $1,900/mo — Craigslist
-- **Rank:** 18
+- **Rank:** 16
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-spacious-and-private-room/7932830250.html
 - **First found:** 2026-05-09
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Room (master bedroom in 4BR Edwardian house)
 - **Location:** Noe Valley — lat 37.750494, lng -122.427692 (confirmed accepted neighborhood; 24th St BART 10 min walk)
 - **Size:** 12'×14' master bedroom with walk-in closet
@@ -514,13 +458,13 @@ Total runs: 50
 
 ---
 
-### Bright Studio — Unit #305 — Near Union Square / Nob Hill — $1,895/mo — Craigslist ⭐ NEW
-- **Rank:** 19
+### Bright Studio — Unit #305 — Near Union Square / Nob Hill — $1,895/mo — Craigslist
+- **Rank:** 17
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-studio-limited/7934038830.html
 - **First found:** 2026-05-13
-- **Last verified:** 2026-05-13 (Run 50)
+- **Last verified:** 2026-05-14 (Run 51)
 - **Type:** Studio
 - **Location:** Near Union Square / Nob Hill — lat 37.790651, lng -122.407207 (confirmed accepted neighborhood; near Powell BART)
 - **Size:** 283 sq ft
@@ -534,11 +478,67 @@ Total runs: 50
 - **Pet policy:** cats OK, dogs OK (up to 70 lbs; $25/mo cats, $50/mo dogs; breed restrictions apply)
 - **Other amenities:** gas range, refrigerator, kitchen hood, hardwood floors, elevator, gated entry, bathtub, storage, online payment portal, maintenance support, common area lounge, Matterport 3D tour available
 - **Photos:** Brick+Timber listing; Matterport 3D tour available
-- **Posting age:** fresh (posted 2026-05-13 — today; "Limited Time Move-In Offers!")
+- **Posting age:** 2 days (posted 2026-05-13)
 - **Poster:** Taylor / Brick + Timber (rentbt.com, @brickandtimber) — established SF property management; highly credible. $58 application fee.
 - **Income-restricted?:** No
 - **vs. market:** studios in Nob Hill/Union Square typically $1,800–$2,400; at $1,895 with in-unit W/D + gas range, at low end of market for the type and management quality
-- **Notes:** NEW — found Run 50. In-unit W/D (rare amenity at this price). Gas range + refrigerator = full kitchen confirmed. Private bath with bathtub. Hardwood floors. Gated entry + elevator building. Cats and dogs OK. 12-month lease. Brick+Timber is highly credible (same management as 540 Leavenworth Rank 1). Limited-time move-in offers active.
+- **Notes:** In-unit W/D (rare amenity at this price). Gas range + refrigerator = full kitchen confirmed. Private bath with bathtub. Hardwood floors. Gated entry + elevator building. Cats and dogs OK. 12-month lease. Brick+Timber is highly credible (same management as 540 Leavenworth Rank 1). Limited-time move-in offers active.
+
+---
+
+### Studio — 830 Powell St #2 — Nob Hill — $1,850/mo — Craigslist ⭐ RELISTED
+- **Rank:** 18
+- **Mode:** Solo
+- **Status:** ACTIVE
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-open-thur-pmbright-studio/7934097614.html
+- **First found:** 2026-05-13 (original URL 7933951424 deleted Run 50; relisted May 14 under URL 7934097614)
+- **Last verified:** 2026-05-14 (Run 51)
+- **Type:** Studio
+- **Location:** 830 Powell St #2, Nob Hill — lat 37.792900, lng -122.407900 (confirmed Nob Hill)
+- **Size:** not listed; first-floor unit on Powell St, abundant natural light
+- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit)
+- **Rent:** $1,850/mo (annual lease)
+- **Deposit:** not listed
+- **Lease:** annual (12 months)
+- **Available:** June 1, 2026
+- **Laundry:** in-building (shared, no-cost washer/dryer)
+- **Parking:** street only
+- **Pet policy:** no smoking; pets not mentioned — inquire
+- **Other amenities:** separate kitchen (full-size refrigerator + gas stove, tiled counter-tops), built-in glass cabinetry, walk-in closet, carpet flooring (except kitchen/bath), period Nob Hill building character
+- **Photos:** personal/individual listing via The Apartment Plug (TAP) app
+- **Posting age:** fresh (relisted May 14, 2026 — today; open house Thu May 14 6:15–6:30pm)
+- **Poster:** individual landlord via The Apartment Plug app — legitimate niche SF rental platform, no red flags
+- **Income-restricted?:** No
+- **vs. market:** studios in Nob Hill typically $1,800–$2,400; at $1,850 with separate kitchen and laundry, below mid-market for Nob Hill
+- **Notes:** RELISTED — previous URL 7933951424 was deleted (Run 50). Same unit, same landlord, same price. Separate kitchen confirmed (gas stove, full-size fridge). Private bath. In-building laundry (free). June 1 availability. Open house TODAY (May 14) 6:15–6:30pm at 830 Powell #2 — act quickly.
+
+---
+
+### Studio — 961 Pine St — Nob Hill — $1,895/mo — Craigslist ⭐ NEW
+- **Rank:** 19
+- **Mode:** Solo
+- **Status:** ACTIVE
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-block-from-the-top/7934160081.html
+- **First found:** 2026-05-14
+- **Last verified:** 2026-05-14 (Run 51)
+- **Type:** Studio
+- **Location:** 961 Pine St (between Mason & Taylor), Nob Hill — lat 37.790736, lng -122.411765 (confirmed Nob Hill)
+- **Size:** 350 sq ft
+- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit per "Kitchen and bath" listing)
+- **Rent:** $1,895/mo (utilities not stated as included)
+- **Deposit:** not listed
+- **Lease:** monthly
+- **Available:** June 15, 2026
+- **Laundry:** in-building (confirmed "Laundry in building")
+- **Parking:** street only
+- **Pet policy:** not listed — inquire
+- **Other amenities:** updated separate kitchen (tiled counter-tops, gas stove, great cabinet space — kitchen is separate from living area), large closet, period details, rent-controlled (SF Rent Ordinance), Walk Score 100
+- **Photos:** listing via The Apartment Plug (TAP) app — appointments through TAP
+- **Posting age:** fresh (posted 2026-05-14 — today; "Available to show 2pm Thurs")
+- **Poster:** individual landlord via The Apartment Plug app — shown by appointment (TAP app required)
+- **Income-restricted?:** No
+- **vs. market:** studios in Nob Hill typically $1,800–$2,400; at $1,895 with separate gas kitchen and rent-control, at low end of market for Nob Hill
+- **Notes:** NEW — found Run 51. Separate kitchen confirmed (gas stove, tiled counter-tops, dedicated room). Private bath (standalone studio). Laundry in building. Monthly lease. Rent-controlled. 350 sq ft. June 15 availability. Walk Score 100. Showing appointment available Thursday May 14 at 2pm.
 
 ---
 
@@ -549,6 +549,26 @@ Total runs: 50
 ---
 
 ## Expired / No Longer Available
+
+### Huge Studio — Broadway Crown Towers — Pacific Heights — $1,700/mo — Craigslist
+- **Mode:** Solo
+- **Status:** REMOVED
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-this-unit-is-on-the-west/7931605423.html
+- **First found:** 2026-05-02
+- **Removed:** 2026-05-14
+- **Notes:** Flagged for removal (Run 51). Was 27 days on market (posted ~2026-04-17). Had full kitchen (dishwasher, gas stove), in-building laundry, AC, off-street parking, pets. Long market time and flagging suggests the listing had issues; consistent with its 26-day listing age noted in Run 50.
+
+---
+
+### Cow Hollow Private Bedroom + Private Bath — All Utilities Included — $1,800/mo — Craigslist
+- **Mode:** Solo
+- **Status:** REMOVED
+- **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1800-private-bedroom-plus/7933132225.html
+- **First found:** 2026-05-09
+- **Removed:** 2026-05-14
+- **Notes:** Deleted by its author (Run 51). Was 5 days old — likely rented. All utilities included (water, garbage, electricity, internet), in-building laundry, Cow Hollow/Marina, en-suite bath, June 1 availability. Roommate often out of town 6–8 months/year.
+
+---
 
 ### Upgraded 1BR Condo — 351 Buena Vista Ave E #504E — Haight-Ashbury — $1,670/mo ALL utilities — Craigslist
 - **Mode:** Solo
@@ -1053,3 +1073,4 @@ Total runs: 50
 | 48 | 2026-05-13 | 1 | 0 | 0 | 351 Buena Vista Ave E $1,670 all-utils+parking+W/D (830 Powell #2 $1,850 NEW) | None |
 | 49 | 2026-05-13 | 0 | 0 | 0 | 351 Buena Vista Ave E $1,670 all-utils+parking+W/D | None |
 | 50 | 2026-05-13 | 2 | 0 | 3 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft (351 Buena Vista removed) | None |
+| 51 | 2026-05-14 | 2 | 0 | 2 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft (Broadway Crown flagged, Cow Hollow deleted) | None |
