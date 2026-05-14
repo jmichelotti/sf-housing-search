@@ -1,6 +1,6 @@
 # SF Housing Search
-Last updated: 2026-05-14 07:30
-Total runs: 52
+Last updated: 2026-05-14 13:30
+Total runs: 53
 
 ## Best Current Listings
 - **Solo:** 318 Spear St #8E, South Beach — 1BR/1BA 806sqft at $1,800/mo with ALL utilities (water, sewer, garbage, internet, recycling) + in-unit W/D + all pets OK (effective ~$1,600–1,650/mo equivalent). Best space-per-dollar.
@@ -16,7 +16,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-compact-studio-shared/7934021912.html
 - **First found:** 2026-05-05 (original URL 7932053220 removed May 6; now on 13th URL 7934021912)
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 540 Leavenworth St #303, Nob Hill — lat 37.786, lng -122.415 (confirmed Nob Hill)
 - **Size:** 200 sq ft (compact)
@@ -30,7 +30,7 @@ Total runs: 52
 - **Pet policy:** cats OK, dogs OK (up to 70 lbs; $25/mo cat, $50/mo dog; breed restrictions apply)
 - **Other amenities:** LVP flooring, updated bathroom, shared rooftop deck, rent-controlled building, Nob Hill location
 - **Photos:** Matterport virtual tour available
-- **Posting age:** 9 days (relisted repeatedly — now on 13th URL for same unit)
+- **Posting age:** 10 days (relisted repeatedly — now on 13th URL for same unit; duplicate URL 7933621736 also active)
 - **Poster:** Pieter Vos / Brick + Timber (DRE# 02213247) — professional management; highly credible
 - **Income-restricted?:** No
 - **vs. market:** studios in Nob Hill typically $1,800–$2,400; at $1,590 this is notably below market
@@ -44,7 +44,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -72,7 +72,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-studio-move-in/7933688767.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 245 Leavenworth St (near Eddy St), Tenderloin / Civic Center — lat 37.783724, lng -122.414242 (confirmed accepted neighborhood)
 - **Size:** not listed
@@ -100,7 +100,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-ready-now-city-living/7933871591.html
 - **First found:** 2026-05-09 (relisted May 12 under new URL 7933871591; prior URL 7933052914 deleted same day)
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 424 Jones St #207, Tenderloin / Civic Center — lat 37.785453, lng -122.412694 (confirmed accepted neighborhood; 4 blocks from Powell BART, near Union Square)
 - **Size:** 242 sq ft
@@ -128,7 +128,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -156,7 +156,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-top-floor-studio-closets/7933721864.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 2245 Larkin St @ Union St, Russian Hill — lat 37.798700, lng -122.420600 (confirmed accepted neighborhood)
 - **Size:** 500 sq ft
@@ -184,7 +184,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studiotenderloinstainless/7934007901.html
 - **First found:** 2026-05-13
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 650 Ellis St, Tenderloin / Lower Nob Hill — lat 37.784340, lng -122.416906 (confirmed accepted neighborhood)
 - **Size:** 304 sq ft
@@ -212,7 +212,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-bed-bath-condo/7933871365.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** 1BR Apartment (condo)
 - **Location:** 318 Spear St Unit 8E, South Beach / SoMa — lat 37.789832, lng -122.390879 (confirmed accepted neighborhood — SoMa / South Beach)
 - **Size:** 806 sq ft
@@ -240,7 +240,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-upcoming-studio-pet/7933884414.html
 - **First found:** 2026-05-13
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 138 Hyde St #05, Tenderloin / Lower Nob Hill — lat 37.782282, lng -122.415547 (confirmed accepted neighborhood; near Civic Center and Powell BART)
 - **Size:** 310 sq ft
@@ -268,7 +268,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-ready-now-studio-pet/7933871336.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 360 Hyde St #204, Tenderloin / Lower Nob Hill — lat 37.784393, lng -122.415891 (confirmed accepted neighborhood)
 - **Size:** 296 sq ft
@@ -296,7 +296,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-located-in-san-francisco/7933581590.html
 - **First found:** 2026-05-11
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 225 Taylor St, Tenderloin / Lower Nob Hill — lat 37.781300, lng -122.416700 (confirmed accepted neighborhood; near Powell St BART and Union Square)
 - **Size:** 425 sq ft
@@ -324,7 +324,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-jnr-1br-with/7931321804.html
 - **First found:** 2026-05-11
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** 1BR (Junior/1BR — basement floor unit)
 - **Location:** Frontenac Apartments, Tenderloin — lat 37.785572, lng -122.416105 (confirmed accepted neighborhood)
 - **Size:** 350 sq ft
@@ -338,7 +338,7 @@ Total runs: 52
 - **Pet policy:** no pets (ESA and service animals welcome with documentation)
 - **Other amenities:** stainless steel appliances, spacious kitchen cabinets, hardwood floors, elevator building, historic Frontenac Apartments building
 - **Photos:** managed building listing (Meridian / MMG 203)
-- **Posting age:** 15 days (posted 2026-04-30) ⚠️ stale — strong negotiating position, try $1,700
+- **Posting age:** 16 days (posted 2026-04-30) ⚠️ stale — strong negotiating position, try $1,700
 - **Poster:** Yoli Handoko / MMG 203 / CalDRE License #990193 — Meridian Management Group. Highly credible.
 - **Income-restricted?:** No
 - **vs. market:** standalone 1BR units in Tenderloin typically $1,900–$2,400; at $1,800 with water+garbage included (effective ~$1,740), below market
@@ -352,7 +352,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-open-thur-pmbright-studio/7934097614.html
 - **First found:** 2026-05-13 (original URL 7933951424 deleted Run 50; relisted May 14 under URL 7934097614)
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 830 Powell St #2, Nob Hill — lat 37.792900, lng -122.407900 (confirmed Nob Hill)
 - **Size:** not listed; first-floor unit on Powell St, abundant natural light
@@ -380,7 +380,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-building-elevator/7931474098.html
 - **First found:** 2026-05-06
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** 531 Hyde St, Nob Hill / Lower Nob Hill — lat 37.785806, lng -122.416648 (confirmed Nob Hill)
 - **Size:** not listed; described as "spacious" with ample closet space and tall ceilings
@@ -408,7 +408,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-studio-limited/7934038830.html
 - **First found:** 2026-05-13
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Studio
 - **Location:** Near Union Square / Nob Hill — lat 37.790651, lng -122.407207 (confirmed accepted neighborhood; near Powell BART)
 - **Size:** 283 sq ft
@@ -436,7 +436,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-spacious-and-private-room/7932830250.html
 - **First found:** 2026-05-09
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Room (master bedroom in 4BR Edwardian house)
 - **Location:** Noe Valley — lat 37.750494, lng -122.427692 (confirmed accepted neighborhood; 24th St BART 10 min walk)
 - **Size:** 12'×14' master bedroom with walk-in closet
@@ -466,7 +466,7 @@ Total runs: 52
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-14 (Run 52)
+- **Last verified:** 2026-05-14 (Run 53)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -1045,3 +1045,4 @@ Total runs: 52
 | 50 | 2026-05-13 | 2 | 0 | 3 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft (351 Buena Vista removed) | None |
 | 51 | 2026-05-14 | 2 | 0 | 2 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft (Broadway Crown flagged, Cow Hollow deleted) | None |
 | 52 | 2026-05-14 | 0 | 1 | 3 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft | Inner Sunset 3BR/2BA $4,650 — FIRST EVER GROUP FIND |
+| 53 | 2026-05-14 | 0 | 0 | 0 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft | Inner Sunset 3BR/2BA $4,650 |
