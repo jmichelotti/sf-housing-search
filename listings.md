@@ -1,6 +1,6 @@
 # SF Housing Search
-Last updated: 2026-05-15 07:10 (Run 56 — 0 new listings, 1 removed)
-Total runs: 56
+Last updated: 2026-05-15 13:10 (Run 57 — 0 new listings, 0 removed)
+Total runs: 57
 
 ## Best Current Listings
 - **Solo:** 318 Spear St #8E, South Beach — 1BR/1BA 806sqft at $1,800/mo with ALL utilities (water, sewer, garbage, internet, recycling) + in-unit W/D + all pets OK (effective ~$1,600–1,650/mo equivalent). Best space-per-dollar.
@@ -16,7 +16,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-compact-studio-shared/7934021912.html
 - **First found:** 2026-05-05 (original URL 7932053220 removed May 6; now on 13th URL 7934021912; 14th URL 7934277948 also active as of Run 54)
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** Studio
 - **Location:** 540 Leavenworth St #303, Nob Hill — lat 37.786, lng -122.415 (confirmed Nob Hill)
 - **Size:** 200 sq ft (compact)
@@ -44,7 +44,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -72,7 +72,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -100,7 +100,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-bed-bath-condo/7933871365.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** 1BR Apartment (condo)
 - **Location:** 318 Spear St Unit 8E, South Beach / SoMa — lat 37.789832, lng -122.390879 (confirmed accepted neighborhood — SoMa / South Beach)
 - **Size:** 806 sq ft
@@ -128,7 +128,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -156,7 +156,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-open-thur-pmbright-studio/7934097614.html
 - **First found:** 2026-05-13 (original URL 7933951424 deleted Run 50; relisted May 14 under URL 7934097614)
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** Studio
 - **Location:** 830 Powell St #2, Nob Hill — lat 37.792900, lng -122.407900 (confirmed Nob Hill)
 - **Size:** not listed; first-floor unit on Powell St, abundant natural light
@@ -184,7 +184,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-building-elevator/7931474098.html
 - **First found:** 2026-05-06
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** Studio
 - **Location:** 531 Hyde St, Nob Hill / Lower Nob Hill — lat 37.785806, lng -122.416648 (confirmed Nob Hill)
 - **Size:** not listed; described as "spacious" with ample closet space and tall ceilings
@@ -212,7 +212,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-studio-limited/7934038830.html
 - **First found:** 2026-05-13
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** Studio
 - **Location:** Near Union Square / Nob Hill — lat 37.790651, lng -122.407207 (confirmed accepted neighborhood; near Powell BART)
 - **Size:** 283 sq ft
@@ -240,7 +240,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lovely-1br-1ba-garden/7934240198.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** 1BR Apartment (in Edwardian building)
 - **Location:** 2710 Webster St, Cow Hollow — lat 37.795530, lng -122.433488 (confirmed Cow Hollow / Marina — accepted neighborhood; 2 blocks from Union Street)
 - **Size:** 650 sq ft
@@ -268,7 +268,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1950-comfortable-studio/7929792304.html
 - **First found:** 2026-05-14 (posting appears to have been live since ~late April based on low PID)
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** In-law unit
 - **Location:** Near 22nd Ave & Judah St, Inner Sunset — lat 37.759300, lng -122.483600 (confirmed Inner Sunset — accepted neighborhood)
 - **Size:** not listed
@@ -298,7 +298,7 @@ Total runs: 56
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-15 (Run 56)
+- **Last verified:** 2026-05-15 (Run 57)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -971,3 +971,4 @@ Total runs: 56
 | 54 | 2026-05-14 | 2 | 0 | 1 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft | Inner Sunset 3BR/2BA $4,650 |
 | 55 | 2026-05-15 | 1 | 0 | 0 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft | Inner Sunset 3BR/2BA $4,650 |
 | 56 | 2026-05-15 | 0 | 0 | 1 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft | Inner Sunset 3BR/2BA $4,650 |
+| 57 | 2026-05-15 | 0 | 0 | 0 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft | Inner Sunset 3BR/2BA $4,650 |
