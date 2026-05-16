@@ -1,6 +1,6 @@
 # SF Housing Search
-Last updated: 2026-05-16 01:10 (Run 59 — 0 new, 1 removed)
-Total runs: 59
+Last updated: 2026-05-16 07:15 (Run 60 — 0 new, 0 removed)
+Total runs: 60
 
 ## Best Current Listings
 - **Solo:** 620 Jones St #808 — Nob Hill furnished studio, $1,700/mo (all utilities incl.: water, garbage, electricity → effective ~$1,500). In-building laundry, kitchenette, 8th floor city views, rent-controlled, MMG management (highly credible). 1-year lease.
@@ -16,7 +16,7 @@ Total runs: 59
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-16 (Run 59)
+- **Last verified:** 2026-05-16 (Run 60)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -44,7 +44,7 @@ Total runs: 59
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-compact-studio-shared/7934021912.html
 - **First found:** 2026-05-05 (original URL 7932053220 removed May 6; now on 13th URL 7934021912; 14th URL 7934277948 also active as of Run 54)
-- **Last verified:** 2026-05-16 (Run 59)
+- **Last verified:** 2026-05-16 (Run 60)
 - **Type:** Studio
 - **Location:** 540 Leavenworth St #303, Nob Hill — lat 37.786, lng -122.415 (confirmed Nob Hill)
 - **Size:** 200 sq ft (compact)
@@ -72,7 +72,7 @@ Total runs: 59
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-16 (Run 59)
+- **Last verified:** 2026-05-16 (Run 60)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -100,7 +100,7 @@ Total runs: 59
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-bed-bath-condo/7933871365.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-16 (Run 59)
+- **Last verified:** 2026-05-16 (Run 60)
 - **Type:** 1BR Apartment (condo)
 - **Location:** 318 Spear St Unit 8E, South Beach / SoMa — lat 37.789832, lng -122.390879 (confirmed accepted neighborhood — SoMa / South Beach)
 - **Size:** 806 sq ft
@@ -128,7 +128,7 @@ Total runs: 59
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-16 (Run 59)
+- **Last verified:** 2026-05-16 (Run 60)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -156,7 +156,7 @@ Total runs: 59
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-building-elevator/7931474098.html
 - **First found:** 2026-05-06
-- **Last verified:** 2026-05-16 (Run 59)
+- **Last verified:** 2026-05-16 (Run 60)
 - **Type:** Studio
 - **Location:** 531 Hyde St, Nob Hill / Lower Nob Hill — lat 37.785806, lng -122.416648 (confirmed Nob Hill)
 - **Size:** not listed; described as "spacious" with ample closet space and tall ceilings
@@ -184,7 +184,7 @@ Total runs: 59
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1950-comfortable-studio/7929792304.html
 - **First found:** 2026-05-14 (posting appears to have been live since ~late April based on low PID)
-- **Last verified:** 2026-05-16 (Run 59)
+- **Last verified:** 2026-05-16 (Run 60)
 - **Type:** In-law unit
 - **Location:** Near 22nd Ave & Judah St, Inner Sunset — lat 37.759300, lng -122.483600 (confirmed Inner Sunset — accepted neighborhood)
 - **Size:** not listed
@@ -198,7 +198,7 @@ Total runs: 59
 - **Pet policy:** no pets, no smoking
 - **Other amenities:** gas stove, full kitchen, separate entrance, loads of storage, 1 block from Golden Gate Park, Muni 7/28/29/N nearby, N streetcar 3 blocks, Irving Street restaurants 1 block
 - **Photos:** not listed (no photo count available from search)
-- **Posting age:** ⚠️ appears 3+ weeks old (low PID 7929792304 suggests posted ~late April 2026) — possible stale listing; prolonged availability may indicate a drawback
+- **Posting age:** ⚠️ NOW 23 DAYS OLD — posted 2026-04-23 (confirmed via CL datetime). On market 3+ weeks with no apparent takers. Prolonged availability is a strong signal of a drawback.
 - **Poster:** individual/private landlord; preference stated for "young professional" — soft preference only; no red flags
 - **Income-restricted?:** No
 - **vs. market:** 1BR in Inner Sunset typically $2,800–$3,500; at $1,950 significantly below market, though utilities are shared (adds ~$50–100/mo effective)
@@ -214,7 +214,7 @@ Total runs: 59
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-16 (Run 59)
+- **Last verified:** 2026-05-16 (Run 60)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -930,3 +930,4 @@ Total runs: 59
 | 57 | 2026-05-15 | 0 | 0 | 0 | 318 Spear St #8E $1,800 all-utils+in-unit W/D 806sqft | Inner Sunset 3BR/2BA $4,650 |
 | 58 | 2026-05-15 | 1 | 0 | 3 | Inner Sunset Studio 550sqft $1,500 (water+garbage incl., effective ~$1,450) | Inner Sunset 3BR/2BA $4,650 |
 | 59 | 2026-05-16 | 0 | 0 | 1 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
+| 60 | 2026-05-16 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
