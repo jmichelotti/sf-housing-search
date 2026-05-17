@@ -1,10 +1,10 @@
 # SF Housing Search
-Last updated: 2026-05-17 13:15 (Run 65 — 1 new solo, 0 group, 0 removed; all 7 actives verified live)
-Total runs: 65
+Last updated: 2026-05-17 19:15 (Run 66 — 0 new solo, 0 group, 1 removed; 6 solo + 1 group verified live)
+Total runs: 66
 
 ## Best Current Listings
 - **Solo:** 620 Jones St #808 — Nob Hill furnished studio, $1,700/mo (all utilities incl.: water, garbage, electricity → effective ~$1,500). In-building laundry, kitchenette, 8th floor city views, rent-controlled, MMG management (highly credible). 1-year lease.
-- **Group (3BR/2+BA):** Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; current tenant seeking 2 new roommates). In-unit W/D, full kitchen, park view, July 1. ⚠️ Now 15 days old — contact immediately or it will likely fill/expire.
+- **Group (3BR/2+BA):** Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; current tenant seeking 2 new roommates). In-unit W/D, full kitchen, park view, July 1. ⚠️ Now 16 days old — contact immediately or it will likely fill/expire.
 
 ---
 
@@ -16,7 +16,7 @@ Total runs: 65
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-17 (Run 65)
+- **Last verified:** 2026-05-17 (Run 66)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -44,7 +44,7 @@ Total runs: 65
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-17 (Run 65)
+- **Last verified:** 2026-05-17 (Run 66)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -72,7 +72,7 @@ Total runs: 65
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-compact-studio-shared/7934718425.html
 - **First found:** 2026-05-05 (original; now on 15th URL as of Run 62)
-- **Last verified:** 2026-05-17 (Run 65)
+- **Last verified:** 2026-05-17 (Run 66)
 - **Type:** Studio
 - **Location:** 540 Leavenworth St #303, Nob Hill — lat 37.785965, lng -122.414695 (confirmed Nob Hill)
 - **Size:** 200 sq ft (compact)
@@ -94,41 +94,13 @@ Total runs: 65
 
 ---
 
-### Newly Renovated 2BR In-Law Unit — Inner Sunset — $1,700/mo — Craigslist
-- **Rank:** 4
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-newly-renovated-2br-in/7934835465.html
-- **First found:** 2026-05-17
-- **Last verified:** 2026-05-17 (Run 65)
-- **Type:** In-law unit (2BR)
-- **Location:** Inner Sunset — lat 37.761128, lng -122.476951 (confirmed Inner Sunset — accepted neighborhood)
-- **Size:** not listed
-- **BR/BA:** 2BR/1BA (private bathroom — standalone in-law unit with private entrance)
-- **Rent:** $1,700/mo (utilities not stated as included)
-- **Deposit:** not listed
-- **Lease:** monthly
-- **Available:** Now
-- **Laundry:** on-site (shared W/D with one other unit — qualifies)
-- **Parking:** street only
-- **Pet policy:** cats OK, dogs OK
-- **Other amenities:** fully equipped kitchen (dishwasher, gas range, stainless appliances), private entrance, built-in closet shelving, full bathroom with walk-in shower, recessed lighting, individual heating/thermostat controls per room, AC
-- **Photos:** open house listings (May 16–18) suggest active showings
-- **Posting age:** 1 day (posted 2026-05-16)
-- **Poster:** private landlord — direct phone contact requested; open house approach suggests genuine listing
-- **Income-restricted?:** No
-- **vs. market:** 2BR in Inner Sunset typically $3,000–$4,000; at $1,700 for an entire 2BR in-law, this is 40–55% below typical 2BR market. Even vs. studios ($1,600–$2,200), exceptional value for the space.
-- **Notes:** Fresh listing (1 day old). Open houses May 16–18 (Sat–Mon) — showing this weekend. A 2BR in-law means an extra bedroom/home office at solo pricing. Full kitchen with dishwasher. On-site laundry shared with one neighbor only. Monthly lease (flexible). Cats and dogs welcome. AC. Highly recommend visiting this weekend.
-
----
-
 ### Charming Off-Street Studio — Nob Hill — $1,800/mo — Craigslist
-- **Rank:** 5
+- **Rank:** 4
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-17 (Run 65)
+- **Last verified:** 2026-05-17 (Run 66)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -142,7 +114,7 @@ Total runs: 65
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** two-burner stovetop, microwave, refrigerator, hardwood floors, elevator, large closet, rent-controlled (SF Rent Ordinance)
 - **Photos:** Meridian Management Group listing (professional)
-- **Posting age:** 2 days (posted ~2026-05-15)
+- **Posting age:** 3 days (posted ~2026-05-15)
 - **Poster:** Yoli Handoko / MMG (Meridian Management Group) — same credible management as 620 Jones #808. $30 application fee.
 - **Income-restricted?:** No
 - **vs. market:** studios in Nob Hill typically $1,800–$2,400; at $1,800 with water+trash included (effective ~$1,750), at the low end for the neighborhood and management quality
@@ -151,12 +123,12 @@ Total runs: 65
 ---
 
 ### Studio — 531 Hyde St — Nob Hill — $1,875/mo — Craigslist
-- **Rank:** 6
+- **Rank:** 5
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-building-elevator/7931474098.html
 - **First found:** 2026-05-06
-- **Last verified:** 2026-05-17 (Run 65)
+- **Last verified:** 2026-05-17 (Run 66)
 - **Type:** Studio
 - **Location:** 531 Hyde St, Nob Hill / Lower Nob Hill — lat 37.785806, lng -122.416648 (confirmed Nob Hill)
 - **Size:** not listed; described as "spacious" with ample closet space and tall ceilings
@@ -170,7 +142,7 @@ Total runs: 65
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** separate kitchen with plenty of storage, tall ceilings with crown molding, large windows, large quiet community backyard, garden with mature avocado tree, 16-unit historic building (built 1923), within 6 blocks of Whole Foods, 1 block from Trader Joe's
 - **Photos:** not counted separately (managed building listing)
-- **Posting age:** 10 days (posted ~2026-05-06)
+- **Posting age:** 11 days (posted ~2026-05-06)
 - **Poster:** Management company listing via automated system — professional management implied
 - **Income-restricted?:** No
 - **vs. market:** studios in Nob Hill / Lower Nob Hill typically $1,800–$2,400; at $1,875 with separate kitchen and on-site laundry, slightly below mid-market
@@ -179,12 +151,12 @@ Total runs: 65
 ---
 
 ### In-Law 1BR/1BA — Near 22nd Ave & Judah — Inner Sunset — $1,950/mo — Craigslist ⚠️ STALE
-- **Rank:** 7
+- **Rank:** 6
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1950-comfortable-studio/7929792304.html
 - **First found:** 2026-05-14 (posting appears to have been live since ~late April based on low PID)
-- **Last verified:** 2026-05-17 (Run 65)
+- **Last verified:** 2026-05-17 (Run 66)
 - **Type:** In-law unit
 - **Location:** Near 22nd Ave & Judah St, Inner Sunset — lat 37.759300, lng -122.483600 (confirmed Inner Sunset — accepted neighborhood)
 - **Size:** not listed
@@ -198,7 +170,7 @@ Total runs: 65
 - **Pet policy:** no pets, no smoking
 - **Other amenities:** gas stove, full kitchen, separate entrance, loads of storage, 1 block from Golden Gate Park, Muni 7/28/29/N nearby, N streetcar 3 blocks, Irving Street restaurants 1 block
 - **Photos:** not listed (no photo count available from search)
-- **Posting age:** ⚠️ NOW 25+ DAYS OLD — posted 2026-04-23 (confirmed via CL datetime). On market nearly 4 weeks with no apparent takers. Prolonged availability is a strong signal of a drawback.
+- **Posting age:** ⚠️ NOW 26+ DAYS OLD — posted 2026-04-23 (confirmed via CL datetime). On market over 4 weeks with no apparent takers. Prolonged availability is a strong signal of a drawback.
 - **Poster:** individual/private landlord; preference stated for "young professional" — soft preference only; no red flags
 - **Income-restricted?:** No
 - **vs. market:** 1BR in Inner Sunset typically $2,800–$3,500; at $1,950 significantly below market, though utilities are shared (adds ~$50–100/mo effective)
@@ -214,7 +186,7 @@ Total runs: 65
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-17 (Run 65)
+- **Last verified:** 2026-05-17 (Run 66)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -228,15 +200,25 @@ Total runs: 65
 - **Pet policy:** not listed — inquire
 - **Other amenities:** gas stove, dishwasher, stainless steel refrigerator, granite countertop kitchen, park view from living room (leather sofa set), master bedroom + large bedroom with backyard entrance, $50 application fee, N-Judah 3 blocks, GGPark 4 blocks, 10 min walk to UCSF
 - **Photos:** personal listing (current tenant seeking roommates)
-- **Posting age:** 15 days (posted 2026-05-03) ⚠️ NOW 15 DAYS OLD — contact immediately if interested
+- **Posting age:** 16 days (posted 2026-05-03) ⚠️ NOW 16 DAYS OLD — contact immediately if interested
 - **Poster:** current tenant seeking 2 new roommates — individual listing; no professional management flags; legitimate
 - **Income-restricted?:** No
 - **vs. market:** 3BR houses in Inner Sunset typically $5,500–$7,000+; at $4,650 this is 20–35% below market — strong value
-- **Notes:** First qualifying group listing found in 52 runs. This is a roommate situation — current tenant is seeking 2 new roommates to fill the other 2 bedrooms; the group would not be renting the unit fresh from a landlord. ⚠️ "Middle room with a sunroom" bedroom description is ambiguous — may be a sunroom-style room rather than a traditional enclosed bedroom. Confirm with poster before applying. July 1 availability. $50 application fee. ⚠️ NOW 15 DAYS OLD (Run 65) — contact immediately or this will likely expire/fill soon.
+- **Notes:** First qualifying group listing found in 52 runs. This is a roommate situation — current tenant is seeking 2 new roommates to fill the other 2 bedrooms; the group would not be renting the unit fresh from a landlord. ⚠️ "Middle room with a sunroom" bedroom description is ambiguous — may be a sunroom-style room rather than a traditional enclosed bedroom. Confirm with poster before applying. July 1 availability. $50 application fee. ⚠️ NOW 16 DAYS OLD (Run 66) — contact immediately or this will likely expire/fill soon.
 
 ---
 
 ## Expired / No Longer Available
+
+### Newly Renovated 2BR In-Law Unit — Inner Sunset — $1,700/mo — Craigslist
+- **Mode:** Solo
+- **Status:** REMOVED
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-newly-renovated-2br-in/7934835465.html
+- **First found:** 2026-05-17
+- **Removed:** 2026-05-17
+- **Notes:** Flagged for removal (Run 66). Added and removed same day — listing had open houses Sat–Mon (May 16–18), almost certainly rented during the weekend showings. Had 2BR/1BA, $1,700/mo, monthly, dogs+cats OK, full kitchen (dishwasher, gas range), private entrance, on-site laundry, AC — exceptional value that clearly attracted immediate interest.
+
+---
 
 ### Elegant Studio — Lower Pacific Heights near Alta Plaza Park — $1,450/mo — Craigslist
 - **Mode:** Solo
@@ -966,3 +948,4 @@ Total runs: 65
 | 63 | 2026-05-17 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
 | 64 | 2026-05-17 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
 | 65 | 2026-05-17 | 1 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
+| 66 | 2026-05-17 | 0 | 0 | 1 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
