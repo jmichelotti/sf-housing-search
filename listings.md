@@ -1,10 +1,10 @@
 # SF Housing Search
-Last updated: 2026-05-18 13:10 (Run 69 — 1 new solo, 0 group, 0 removed; 6 solo + 1 group verified live + 1 new solo added)
-Total runs: 69
+Last updated: 2026-05-18 19:10 (Run 70 — 0 new solo, 0 group, 1 removed; 6 solo + 1 group verified live)
+Total runs: 70
 
 ## Best Current Listings
 - **Solo:** 620 Jones St #808 — Nob Hill furnished studio, $1,700/mo (all utilities incl.: water, garbage, electricity → effective ~$1,500). In-building laundry, kitchenette, 8th floor city views, rent-controlled, MMG management (highly credible). 1-year lease.
-- **Group (3BR/2+BA):** Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; current tenant seeking 2 new roommates). In-unit W/D, full kitchen, park view, July 1. ⚠️ Now 19 days old — contact immediately or it will likely fill/expire.
+- **Group (3BR/2+BA):** Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; current tenant seeking 2 new roommates). In-unit W/D, full kitchen, park view, July 1. ⚠️ Now 20 days old — contact immediately or it will likely fill/expire.
 
 ---
 
@@ -16,7 +16,7 @@ Total runs: 69
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-18 (Run 69)
+- **Last verified:** 2026-05-18 (Run 70)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -44,7 +44,7 @@ Total runs: 69
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-18 (Run 69)
+- **Last verified:** 2026-05-18 (Run 70)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -71,8 +71,8 @@ Total runs: 69
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-compact-studio-shared/7934718425.html
-- **First found:** 2026-05-05 (original; now on 15th URL as of Run 62)
-- **Last verified:** 2026-05-18 (Run 69)
+- **First found:** 2026-05-05 (original; now on 16th URL as of Run 70 — fresh post 7935133679 appeared today while 7934718425 still live)
+- **Last verified:** 2026-05-18 (Run 70)
 - **Type:** Studio
 - **Location:** 540 Leavenworth St #303, Nob Hill — lat 37.785965, lng -122.414695 (confirmed Nob Hill)
 - **Size:** 200 sq ft (compact)
@@ -86,7 +86,7 @@ Total runs: 69
 - **Pet policy:** cats OK, dogs OK (up to 70 lbs; $25/mo cat, $50/mo dog; breed restrictions apply)
 - **Other amenities:** LVP flooring, updated bathroom, shared rooftop deck, rent-controlled building, Matterport virtual tour available
 - **Photos:** Matterport virtual tour available
-- **Posting age:** relisted 11 days after original post (May 5); now on 15th URL as of May 16
+- **Posting age:** relisted repeatedly; now on 16th URL as of Run 70 (May 18). Fresh URL 7935133679 posted today alongside still-active 7934718425
 - **Poster:** Pieter Vos / Brick + Timber (DRE# 02213247) — professional management; highly credible
 - **Income-restricted?:** No
 - **vs. market:** studios in Nob Hill typically $1,800–$2,400; at $1,590 this is notably below market
@@ -100,7 +100,7 @@ Total runs: 69
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-18 (Run 69)
+- **Last verified:** 2026-05-18 (Run 70)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -128,7 +128,7 @@ Total runs: 69
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-building-elevator/7931474098.html
 - **First found:** 2026-05-06
-- **Last verified:** 2026-05-18 (Run 69)
+- **Last verified:** 2026-05-18 (Run 70)
 - **Type:** Studio
 - **Location:** 531 Hyde St, Nob Hill / Lower Nob Hill — lat 37.785806, lng -122.416648 (confirmed Nob Hill)
 - **Size:** not listed; described as "spacious" with ample closet space and tall ceilings
@@ -150,41 +150,13 @@ Total runs: 69
 
 ---
 
-### Bright 1BR/1BA — 439 Greenwich St #3A — Telegraph Hill — $1,899/mo — Craigslist
-- **Rank:** 6
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-1br-1ba-near-coit/7935045334.html
-- **First found:** 2026-05-18
-- **Last verified:** 2026-05-18 (Run 69)
-- **Type:** 1BR apartment
-- **Location:** 439 Greenwich St #3A, Telegraph Hill — lat 37.802617, lng -122.407057 (confirmed Telegraph Hill / North Beach — accepted neighborhood)
-- **Size:** not listed
-- **BR/BA:** 1BR/1BA (private bathroom — standalone unit)
-- **Rent:** $1,899/mo (utilities not stated as included)
-- **Deposit:** not listed
-- **Lease:** monthly
-- **Available:** now
-- **Laundry:** in-building (laundry in the building — confirmed in body text; attrs show w/d hookups as well)
-- **Parking:** off-street available for extra fee
-- **Pet policy:** not listed — inquire
-- **Other amenities:** semi-open galley kitchen with stainless steel appliances, hardwood floors, shared deck, AC, EV charging, 2nd floor
-- **Photos:** not counted (individual listing)
-- **Posting age:** fresh — posted 2026-05-18
-- **Poster:** individual landlord ("text me your phone number") — minor flag; no other red flags
-- **Income-restricted?:** No
-- **vs. market:** 1BR in Telegraph Hill / North Beach typically $2,800–$3,500; at $1,899 this is significantly below market
-- **Notes:** Fresh post today. Open house Thu 5/21 (6:15–6:30pm). Semi-open galley kitchen with SS appliances confirms kitchen requirement. In-building laundry confirmed. Private 1BR/1BA standalone unit. Contact style ("text me your number") is informal but not a confirmed scam indicator. No utilities included. Excellent neighborhood (Telegraph Hill, near Coit Tower, North Beach, Embarcadero). Act quickly — fresh listing in premium area.
-
----
-
 ### In-Law 1BR/1BA — Near 22nd Ave & Judah — Inner Sunset — $1,950/mo — Craigslist ⚠️ STALE
-- **Rank:** 7
+- **Rank:** 6
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1950-comfortable-studio/7929792304.html
 - **First found:** 2026-05-14 (posting appears to have been live since ~late April based on low PID)
-- **Last verified:** 2026-05-18 (Run 69)
+- **Last verified:** 2026-05-18 (Run 70)
 - **Type:** In-law unit
 - **Location:** Near 22nd Ave & Judah St, Inner Sunset — lat 37.759300, lng -122.483600 (confirmed Inner Sunset — accepted neighborhood)
 - **Size:** not listed
@@ -198,7 +170,7 @@ Total runs: 69
 - **Pet policy:** no pets, no smoking
 - **Other amenities:** gas stove, full kitchen, separate entrance, loads of storage, 1 block from Golden Gate Park, Muni 7/28/29/N nearby, N streetcar 3 blocks, Irving Street restaurants 1 block
 - **Photos:** not listed (no photo count available from search)
-- **Posting age:** ⚠️ NOW 27+ DAYS OLD — posted 2026-04-23 (confirmed via CL datetime). On market nearly 4 weeks with no apparent takers. Prolonged availability is a strong signal of a drawback.
+- **Posting age:** ⚠️ NOW 28+ DAYS OLD — posted 2026-04-23 (confirmed via CL datetime). On market over 4 weeks with no takers. Strong signal of a drawback.
 - **Poster:** individual/private landlord; preference stated for "young professional" — soft preference only; no red flags
 - **Income-restricted?:** No
 - **vs. market:** 1BR in Inner Sunset typically $2,800–$3,500; at $1,950 significantly below market, though utilities are shared (adds ~$50–100/mo effective)
@@ -214,7 +186,7 @@ Total runs: 69
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-18 (Run 69)
+- **Last verified:** 2026-05-18 (Run 70)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -228,15 +200,25 @@ Total runs: 69
 - **Pet policy:** not listed — inquire
 - **Other amenities:** gas stove, dishwasher, stainless steel refrigerator, granite countertop kitchen, park view from living room (leather sofa set), master bedroom + large bedroom with backyard entrance, $50 application fee, N-Judah 3 blocks, GGPark 4 blocks, 10 min walk to UCSF
 - **Photos:** personal listing (current tenant seeking roommates)
-- **Posting age:** 19 days (posted 2026-05-01 est.) ⚠️ NOW 19 DAYS OLD — contact immediately if interested
+- **Posting age:** 20 days (posted 2026-05-01 est.) ⚠️ NOW 20 DAYS OLD — contact immediately if interested
 - **Poster:** current tenant seeking 2 new roommates — individual listing; no professional management flags; legitimate
 - **Income-restricted?:** No
 - **vs. market:** 3BR houses in Inner Sunset typically $5,500–$7,000+; at $4,650 this is 20–35% below market — strong value
-- **Notes:** First qualifying group listing found in 52 runs. This is a roommate situation — current tenant is seeking 2 new roommates to fill the other 2 bedrooms; the group would not be renting the unit fresh from a landlord. ⚠️ "Middle room with a sunroom" bedroom description is ambiguous — may be a sunroom-style room rather than a traditional enclosed bedroom. Confirm with poster before applying. July 1 availability. $50 application fee. ⚠️ NOW 19 DAYS OLD (Run 69) — contact immediately or this will likely expire/fill soon.
+- **Notes:** First qualifying group listing found in 52 runs. This is a roommate situation — current tenant is seeking 2 new roommates to fill the other 2 bedrooms; the group would not be renting the unit fresh from a landlord. ⚠️ "Middle room with a sunroom" bedroom description is ambiguous — may be a sunroom-style room rather than a traditional enclosed bedroom. Confirm with poster before applying. July 1 availability. $50 application fee. ⚠️ NOW 20 DAYS OLD (Run 70) — contact immediately or this will likely expire/fill soon.
 
 ---
 
 ## Expired / No Longer Available
+
+### Bright 1BR/1BA — 439 Greenwich St #3A — Telegraph Hill — $1,899/mo — Craigslist
+- **Mode:** Solo
+- **Status:** REMOVED
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-1br-1ba-near-coit/7935045334.html
+- **First found:** 2026-05-18
+- **Removed:** 2026-05-18
+- **Notes:** Flagged for removal by Craigslist within hours of posting (Run 70). Added Run 69, gone by Run 70 same day. Telegraph Hill 1BR/1BA at $1,899/mo with in-building laundry, galley kitchen, AC, EV charging. Fast flagging on a fresh post is a strong scam/policy-violation signal — consistent with the pattern seen on other same-day removals.
+
+---
 
 ### Newly Renovated 2BR In-Law Unit — Inner Sunset — $1,700/mo — Craigslist
 - **Mode:** Solo
@@ -980,3 +962,4 @@ Total runs: 69
 | 67 | 2026-05-17 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
 | 68 | 2026-05-18 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
 | 69 | 2026-05-18 | 1 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
+| 70 | 2026-05-18 | 0 | 0 | 1 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
