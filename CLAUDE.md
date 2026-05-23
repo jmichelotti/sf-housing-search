@@ -113,6 +113,7 @@ South-Central SF (selective):
 - Twin Peaks
 
 **Rejected neighborhoods (do not add listings from these areas):**
+- Tenderloin / Civic Center — anything in the area bounded by Geary (north), Mason (east), Market (south), Larkin (west) is Tenderloin and rejected, **regardless of how the listing self-labels.** Listings often market TL units as "Lower Nob Hill" or "Union Square" — verify with coordinates. Rule of thumb: if an address is south of Geary and east of Larkin (roughly lat < 37.787 between lng -122.418 and -122.408), treat it as Tenderloin.
 - Central Sunset / Parkside
 - Outer Sunset / Outer Parkside
 - Diamond Heights / Glen Park
