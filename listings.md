@@ -1,5 +1,5 @@
 # SF Housing Search
-Last updated: 2026-05-23 13:30 (Run 89 — 0 new solo, 0 group, 0 removed)
+Last updated: 2026-05-23 (manual update — 2245 Larkin moved to Expired after scam confirmed via direct email outreach)
 Total runs: 89
 
 ## Best Current Listings
@@ -9,34 +9,6 @@ Total runs: 89
 ---
 
 ## Active Listings — Solo (cap 20)
-
-### Russian Hill Studio — 2245 Larkin St — 500sqft — $1,758/mo utilities incl. — Craigslist ♻️ RELISTED
-- **Rank:** 2
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-studio-on-site/7935979668.html
-- **First found:** 2026-05-12 (original; now relisted as of 2026-05-22 with 4 new URLs)
-- **Last verified:** 2026-05-23 (Run 89)
-- **Type:** Studio
-- **Location:** 2245 Larkin St, Russian Hill — lat 37.798700, lng -122.420600 (confirmed Russian Hill, near Union/Larkin)
-- **Size:** 500 sq ft
-- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit)
-- **Rent:** $1,758/mo (body-confirmed); CL header shows $1,748–1,768 across multiple postings; owner pays water, gas & trash → effective ~$1,758 (no additional utility costs for water/gas/trash)
-- **Deposit:** $1,350
-- **Lease:** 12 months (6 months possible)
-- **Available:** Now
-- **Laundry:** on-site (laundry on site — confirmed in CL attrs)
-- **Parking:** street only
-- **Pet policy:** cats OK, dogs OK
-- **Other amenities:** hardwood floors, separate kitchen, solar hot water, AC, top-floor unit, 2 closets, Edwardian building, rent-controlled (SF Rent Ordinance)
-- **Photos:** individual landlord listing
-- **Posting age:** relisted 2026-05-22 (4 simultaneous URLs: 7935979668, 7935981367, 7935982175, 7935984035). Originally first found 2026-05-12. Now 11 days since original first found.
-- **Poster:** individual landlord — no name; move-in requirements (good credit, income ≥1.5x rent, positive rental history)
-- **Income-restricted?:** No
-- **vs. market:** Studios in Russian Hill typically $1,900–$2,400; at $1,758 with owner-paid water+gas+trash (effective ~$1,758 all-in for utilities), this is below market
-- **Notes:** RELISTED. Previously in Expired — first found 2026-05-12, removed 2026-05-14 (flagged by CL). Off market ~8 days, now relisted with 4 URLs simultaneously (same aggressive multi-posting pattern as prior removal). Separate kitchen confirmed. Private bath confirmed. On-site laundry confirmed. Owner pays water, gas & trash (no utility overhead). Rent-controlled. ⚠️ CL multi-posting pattern may trigger another flagging. Act quickly if interested.
-
----
 
 ### Furnished Studio — 620 Jones St #808 — Nob Hill — $1,700/mo all utilities incl. — Craigslist
 - **Rank:** 1
@@ -67,7 +39,7 @@ Total runs: 89
 ---
 
 ### Nob Hill Studio with Kitchenette — 692 Bush St #306 — $1,595/mo — Craigslist
-- **Rank:** 3
+- **Rank:** 2
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
@@ -95,7 +67,7 @@ Total runs: 89
 ---
 
 ### Compact Kitchenette Studio — 540 Leavenworth #303 — Nob Hill — $1,590/mo — Craigslist ♻️ RELISTED (21st+ URL)
-- **Rank:** 4
+- **Rank:** 3
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-540-leavenworth-private/7935389059.html
@@ -123,7 +95,7 @@ Total runs: 89
 ---
 
 ### Haight-Ashbury Victorian Room — Private Bath — Full Kitchen — $1,500/mo + utils — Craigslist
-- **Rank:** 5
+- **Rank:** 4
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-bedroom-available/7936186919.html
@@ -151,7 +123,7 @@ Total runs: 89
 ---
 
 ### Charming Off-Street Studio — Nob Hill — $1,800/mo — Craigslist
-- **Rank:** 6
+- **Rank:** 5
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
@@ -179,7 +151,7 @@ Total runs: 89
 ---
 
 ### Studio — 531 Hyde St — Nob Hill — $1,875/mo — Craigslist
-- **Rank:** 7
+- **Rank:** 6
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-building-elevator/7931474098.html
@@ -207,7 +179,7 @@ Total runs: 89
 ---
 
 ### Lower Nob Hill Studio — 1008 Larkin #404 — 435sqft — $1,895/mo — Craigslist ♻️ RELISTED
-- **Rank:** 8
+- **Rank:** 7
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-coming-soon-lower-nob/7936134158.html
@@ -235,7 +207,7 @@ Total runs: 89
 ---
 
 ### Light-Filled Studio w/ Bay Windows + Full Kitchen — Nob Hill — $1,950/mo + RUBS — Craigslist
-- **Rank:** 9
+- **Rank:** 8
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lightfilled-studio-bay/7935727806.html
@@ -263,7 +235,7 @@ Total runs: 89
 ---
 
 ### Nob Hill Studio — 925 Geary St #102 — 318sqft — $1,995/mo — Craigslist ♻️ RELISTED
-- **Rank:** 10
+- **Rank:** 9
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7936081985.html
@@ -291,7 +263,7 @@ Total runs: 89
 ---
 
 ### Lower Nob Hill Studio — 1050 Post St #42 — 282sqft — $1,995/mo — Craigslist
-- **Rank:** 11
+- **Rank:** 10
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1050-post-street-42/7935815185.html
@@ -656,7 +628,17 @@ Total runs: 89
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-top-floor-studio-closets/7933721864.html
 - **First found:** 2026-05-12
 - **Removed:** 2026-05-14
-- **Notes:** Flagged for removal (Run 54). Was 2 days old at last verification. Had separate kitchen, on-site laundry, solar hot water, pets OK, rent-controlled. ♻️ RELISTED 2026-05-22 (Run 85) — now actively tracked as Rank 3 in Active Listings under new URLs (7935979668 etc.).
+- **Notes:** Original posting flagged for removal (Run 54). Was 2 days old at last verification. Had separate kitchen, on-site laundry, solar hot water, pets OK, rent-controlled. ♻️ RELISTED 2026-05-22 (Run 85) — then re-removed 2026-05-23 after scam pattern confirmed via direct outreach (see entry below).
+
+---
+
+### Russian Hill Studio — 2245 Larkin St — 500sqft — $1,758/mo — Craigslist (relisted, scam-confirmed)
+- **Mode:** Solo
+- **Status:** REMOVED (scam)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-studio-on-site/7935979668.html
+- **First found:** 2026-05-22 (relisting; original first found 2026-05-12)
+- **Removed:** 2026-05-23
+- **Notes:** Removed after direct email exchange (donaldcutler090@gmail.com) confirmed scam pattern: refused live video or in-person showing under "respecting current tenant's privacy" script, offered only a pre-recorded virtual tour, demanded $65 upfront application fee per applicant paid to a personal Gmail, used urgency framing ("secure it before others"). Personal Gmail, no PM company, no business domain — combined with the aggressive multi-URL posting pattern noted on the relisting (4 simultaneous URLs), this is a classic rental scam. Polite decline sent 2026-05-23. **Do not re-add if it relists again under any URL — flag immediately as scam.** Outreach archived in outreach/2245-larkin.txt.
 
 ---
 

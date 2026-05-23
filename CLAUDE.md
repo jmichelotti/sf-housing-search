@@ -240,6 +240,9 @@ Run **both** the solo and group searches listed above. For each promising find:
 - Poster has no history or the posting uses a generic email relay with suspicious language
 - Listing asks for money before viewing, demands wire transfer, or says landlord is "overseas"
 - Text is copied from another legitimate listing (compare against already-tracked listings)
+- Refuses live video call or in-person showing under "respecting current tenant's privacy" pretext and offers only a pre-recorded virtual tour (classic scam script — privacy framing is the tell)
+- Charges an upfront application fee paid directly to a personal Gmail address rather than via a screening service (SmartMove, RentSpree, AppFolio); legit landlords/PMs almost never collect fees this way
+- Multi-URL aggressive reposting from the same individual landlord (e.g. 3+ simultaneous CL URLs for the same address) combined with any of the above
 
 ### Step 4 — Update listings.md
 
