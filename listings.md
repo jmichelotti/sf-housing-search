@@ -1,10 +1,10 @@
 # SF Housing Search
-Last updated: 2026-05-24 (Run 94)
-Total runs: 94
+Last updated: 2026-05-25 (Run 95)
+Total runs: 95
 
 ## Best Current Listings
-- **Solo:** 620 Jones St #808 Nob Hill Studio — $1,700/mo ALL utilities included (effective ~$1,500/mo), in-building laundry, rent-controlled, MMG management, now 12 days on market — contact today.
-- **Group (3BR/2+BA):** Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; current tenant seeking 2 new roommates). In-unit W/D, full kitchen, park view, July 1. ⚠️ NOW 32+ DAYS OLD — contact URGENTLY; may fill or expire any day.
+- **Solo:** 620 Jones St #808 Nob Hill Studio — $1,700/mo ALL utilities included (effective ~$1,500/mo), in-building laundry, rent-controlled, MMG management, now 13 days on market — contact today.
+- **Group (3BR/2+BA):** Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; current tenant seeking 2 new roommates). In-unit W/D, full kitchen, park view, July 1. ⚠️ NOW 33+ DAYS OLD — contact URGENTLY; may fill or expire any day.
 
 ---
 
@@ -16,7 +16,7 @@ Total runs: 94
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -30,11 +30,11 @@ Total runs: 94
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** furnished (if desired), hardwood floors, 3 elevators, package room, big windows with good natural light, huge walk-in closet, high floor with city light views, rent-controlled (SF Rent Ordinance)
 - **Photos:** not separately counted (managed building listing)
-- **Posting age:** 12 days (posted 2026-05-12) ⚠️ Now 12 days on market — act soon (still active Run 94)
+- **Posting age:** 13 days (posted 2026-05-12) ⚠️ Now 13 days on market — act soon (still active Run 95)
 - **Poster:** Yoli Handoko / MMG 203 / CalDRE #990193 (Meridian Management Group) — highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,700 all-utilities-included (effective ~$1,500–1,550), this is 35–45% below market for the all-in cost
-- **Notes:** All utilities included (water, garbage, electricity) — strong effective-cost deal. Private bath (standalone 0BR/1BA). Kitchen is a kitchenette — qualifies under minimum kitchen requirement. In-building laundry. Furnished or unfurnished (flexible). Rent-controlled. Huge walk-in closet. International students welcome. 1-year lease. Now 11 days old — act soon.
+- **Notes:** All utilities included (water, garbage, electricity) — strong effective-cost deal. Private bath (standalone 0BR/1BA). Kitchen is a kitchenette — qualifies under minimum kitchen requirement. In-building laundry. Furnished or unfurnished (flexible). Rent-controlled. Huge walk-in closet. International students welcome. 1-year lease. Now 13 days old — act soon.
 
 ---
 
@@ -44,7 +44,7 @@ Total runs: 94
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -58,11 +58,11 @@ Total runs: 94
 - **Pet policy:** no pets
 - **Other amenities:** kitchenette ("perfect for simple home cooking"), cozy and efficient layout, great natural light
 - **Photos:** showinghotline.com — scheduling service suggests legitimate management
-- **Posting age:** 17 days (posted 2026-05-07) ⚠️ STALE — 17 days on market, may be close to renting
+- **Posting age:** 18 days (posted 2026-05-07) ⚠️ STALE — 18 days on market, may be close to renting
 - **Poster:** Rentals Inc. (Broker #02124746, Rentalsinc.com) — licensed SF property management; highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,595 with water+trash included (effective ~$1,565), notably below market
-- **Notes:** Kitchenette confirmed — qualifies per minimum kitchen requirement. Private bath confirmed. Laundry in building. Water and trash included. No pets. 190 sq ft is very small. 1-year lease. Now 15 days old — ⚠️ STALE; may be close to renting. Verify availability before contacting.
+- **Notes:** Kitchenette confirmed — qualifies per minimum kitchen requirement. Private bath confirmed. Laundry in building. Water and trash included. No pets. 190 sq ft is very small. 1-year lease. Now 18 days old — ⚠️ STALE; may be close to renting. Verify availability before contacting.
 
 ---
 
@@ -72,7 +72,7 @@ Total runs: 94
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-bedroom-available/7936186919.html
 - **First found:** 2026-05-23
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Room
 - **Location:** Haight-Ashbury / Cole Valley — lat 37.771200, lng -122.441300 (confirmed accepted neighborhood; near N Judah, 1 block from GGP)
 - **Size:** not listed
@@ -86,7 +86,7 @@ Total runs: 94
 - **Pet policy:** no pets
 - **Other amenities:** full kitchen confirmed, shared backyard/garden with fire pit, rooftop access, 3BR Victorian apartment
 - **Photos:** individual listing
-- **Posting age:** 1 day (posted 2026-05-23)
+- **Posting age:** 2 days (posted 2026-05-23)
 - **Poster:** individual (full-time artist and grad student, 1 current roommate) — specific and credible description, no scam flags
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Haight-Ashbury typically $1,700–2,100+; at $1,500 + utilities (effective ~$1,580–1,600) this is meaningfully below market
@@ -100,7 +100,7 @@ Total runs: 94
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -114,11 +114,11 @@ Total runs: 94
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** two-burner stovetop, microwave, refrigerator, hardwood floors, elevator, large closet, rent-controlled (SF Rent Ordinance)
 - **Photos:** Meridian Management Group listing (professional)
-- **Posting age:** 9 days (posted 2026-05-15)
+- **Posting age:** 10 days (posted 2026-05-15)
 - **Poster:** Yoli Handoko / MMG (Meridian Management Group) — same credible management as 620 Jones #808. $30 application fee.
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,800 with water+trash included (effective ~$1,750), at the low end for the neighborhood and management quality
-- **Notes:** Standalone studio, private bath confirmed. Kitchenette (two-burner stovetop + microwave + refrigerator) qualifies per minimum kitchen requirement. On-site laundry (in-building). Water and trash included. 1 year → month-to-month (flexible after year). Rent-controlled. MMG management (highly credible). 400 sqft. June 1 availability. Now 9 days old — ⚠️ approaching stale threshold.
+- **Notes:** Standalone studio, private bath confirmed. Kitchenette (two-burner stovetop + microwave + refrigerator) qualifies per minimum kitchen requirement. On-site laundry (in-building). Water and trash included. 1 year → month-to-month (flexible after year). Rent-controlled. MMG management (highly credible). 400 sqft. June 1 availability. Now 10 days old — ⚠️ approaching stale threshold.
 
 ---
 
@@ -128,7 +128,7 @@ Total runs: 94
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-coming-soon-lower-nob/7936134158.html
 - **First found:** 2026-05-19 (original URL 7935497972; relisted 2026-05-23 as URL 7936134158)
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Studio
 - **Location:** 1008 Larkin St #404, Lower Nob Hill / Polk Gulch — lat 37.787200, lng -122.418300 (confirmed accepted neighborhood; on Larkin at Geary, just north of TL boundary)
 - **Size:** 435 sq ft
@@ -142,7 +142,7 @@ Total runs: 94
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** dishwasher (confirmed Run 94 listing title), remodeled kitchen and bathroom with modern fixtures, hardwood floors, window coverings, walk to Muni and Financial District
 - **Photos:** RentSFNow management listing (professional)
-- **Posting age:** relisted 2026-05-23 (new URL 7936134158); original first listed 2026-05-19 (5 days total market time)
+- **Posting age:** relisted 2026-05-23 (new URL 7936134158; 2 days since relist); original first listed 2026-05-19 (6 days total market time)
 - **Poster:** RentSFNow (Kealani) — professional SF property management; highly credible; non-TL confirmed by coordinates
 - **Income-restricted?:** No
 - **vs. market:** Studios in Lower Nob Hill / Polk Gulch typically $1,800–$2,200; at $1,895 with monthly lease, pets OK, and 435sqft this is at the low end of market
@@ -150,13 +150,41 @@ Total runs: 94
 
 ---
 
-### Light-Filled Studio w/ Bay Windows + Full Kitchen — Nob Hill — $1,950/mo + RUBS — Craigslist
+### Lower Nob Hill Jr 1BR — 711 Leavenworth #1 — 400sqft — $1,895 + $100 utils — Craigslist
 - **Rank:** 6
+- **Mode:** Solo
+- **Status:** ACTIVE
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7936447899.html
+- **First found:** 2026-05-25
+- **Last verified:** 2026-05-25 (Run 95)
+- **Type:** Jr 1BR (studio with sleeping area)
+- **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth)
+- **Size:** 400 sq ft
+- **BR/BA:** Jr 1BR/1BA (private bathroom — standalone 1BR/1BA unit)
+- **Rent:** $1,895/mo + $100/mo flat utility fee (all utilities: gas, electric, water, sewer, garbage, heat) → effective $1,995/mo all-in
+- **Deposit:** $1,775
+- **Lease:** Monthly
+- **Available:** June 1, 2026
+- **Laundry:** in-building (laundry facilities in building)
+- **Parking:** street only
+- **Pet policy:** no pets
+- **Other amenities:** gas range, microwave, refrigerator, large closets, rent-controlled, elevator, gated/controlled access
+- **Photos:** The Apartment Plug (TAP) scheduling app — professional management listing
+- **Posting age:** 1 day (posted 2026-05-24)
+- **Poster:** GRM Properties LLC / Beam Properties, Inc — legitimate professional SF property management
+- **Income-restricted?:** No
+- **vs. market:** Jr 1BRs in Lower Nob Hill typically $2,000–$2,500; at $1,895 stated ($1,995 all-in with fixed utilities), this is at the low end
+- **Notes:** Jr 1 bedroom with separate kitchen ("living area, kitchen, bedroom, bathroom, and closet space"). Kitchen confirmed (gas range + microwave + fridge). Private bath (1BR/1BA standalone unit). In-building laundry. Coords lat 37.787639 just barely above TL boundary (37.787 threshold). Rent-controlled. No pets. Fixed $100/mo utility flat fee covers all utilities — no variable RUBS risk. First floor unit.
+
+---
+
+### Light-Filled Studio w/ Bay Windows + Full Kitchen — Nob Hill — $1,950/mo + RUBS — Craigslist
+- **Rank:** 7
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lightfilled-studio-bay/7935727806.html
 - **First found:** 2026-05-21
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed Nob Hill, near Union Square)
 - **Size:** 315 sq ft
@@ -170,7 +198,7 @@ Total runs: 94
 - **Pet policy:** cats OK, dogs OK (negotiable)
 - **Other amenities:** full-size kitchen appliances, bay windows with open city views, hardwood floors, high ceilings, breakfast bar, full bathroom with tub + window, rent-controlled, furnished option likely
 - **Photos:** not counted separately (individual listing, ~4 hours old at discovery)
-- **Posting age:** 4 days (posted 2026-05-20)
+- **Posting age:** 5 days (posted 2026-05-20)
 - **Poster:** individual landlord; $25 application fee; no name listed — no obvious red flags
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,950 this is at the low end nominally, but RUBS overhead pushes effective cost to ~$2,050–2,150
@@ -179,12 +207,12 @@ Total runs: 94
 ---
 
 ### Nob Hill Studio — 925 Geary St #102 — 318sqft — $1,995/mo — Craigslist ♻️ RELISTED
-- **Rank:** 7
+- **Rank:** 8
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7936081985.html
 - **First found:** 2026-05-21 (original URL 7935615630 deleted by author today; relisted same day as 7936081985)
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Studio
 - **Location:** 925 Geary St #102, Lower Nob Hill/Polk Gulch — lat 37.786050, lng -122.418492 (confirmed; same building as previously tracked #310; on Geary at the northern boundary of accepted area)
 - **Size:** 318 sq ft
@@ -198,21 +226,21 @@ Total runs: 94
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** hardwood floors, gas range, refrigerator, kitchen hood, walk-in closet, elevator, gated entry, bike storage, garden space, rooftop space, online payment portal, Matterport virtual tour
 - **Photos:** Matterport virtual tour available (professional quality)
-- **Posting age:** 4 days (posted 2026-05-20); relisted 2026-05-22 with new URL
+- **Posting age:** 5 days (posted 2026-05-20); relisted 2026-05-22 with new URL
 - **Poster:** Brick + Timber (contact Shanna) — highly credible management; $57 application fee
 - **Income-restricted?:** No
 - **vs. market:** Studios in Lower Nob Hill typically $1,800–$2,200; at $1,995 (no utilities) this is at market rate — not a steal, but professionally managed
-- **Notes:** RELISTED — original URL (7935615630) deleted by author and immediately reposted as new URL (7936081985) same session. Gas range + refrigerator confirm full kitchen. Private bath (standalone studio). Walk-in closet. ⚠️ $1,995 at very top of budget; no utilities means effective ~$2,100+. Now 2 days since original post date.
+- **Notes:** RELISTED — original URL (7935615630) deleted by author and immediately reposted as new URL (7936081985) same session. Gas range + refrigerator confirm full kitchen. Private bath (standalone studio). Walk-in closet. ⚠️ $1,995 at very top of budget; no utilities means effective ~$2,100+. Now 5 days since original post date.
 
 ---
 
 ### Lower Nob Hill Studio — 1050 Post St #42 — 282sqft — $1,995/mo — Craigslist
-- **Rank:** 8
+- **Rank:** 9
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1050-post-street-42/7935815185.html
 - **First found:** 2026-05-22
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Studio
 - **Location:** 1050 Post St #42, Lower Nob Hill / Polk Gulch — lat 37.786931, lng -122.419116 (confirmed accepted neighborhood; near Larkin/Post intersection)
 - **Size:** 282 sq ft
@@ -226,19 +254,19 @@ Total runs: 94
 - **Pet policy:** cats OK, dogs OK (up to 70 lbs; breed restrictions; $25 cats / $50 dogs per month pet rent)
 - **Other amenities:** hardwood floors, gas range, refrigerator, kitchen hood, elevator, gated entry, storage, Matterport virtual tour, online payment portal
 - **Photos:** Matterport virtual tour available (professional quality)
-- **Posting age:** 2 days (posted 2026-05-22)
+- **Posting age:** 3 days (posted 2026-05-22)
 - **Poster:** Brick + Timber (contact Shanna) — same firm as 925 Geary St #102; highly credible; $57 application fee
 - **Income-restricted?:** No
 - **vs. market:** Studios in Lower Nob Hill / Polk Gulch typically $1,800–$2,200; at $1,995 (no utilities) this is at market rate — not a steal, but a professionally managed legitimate option
 - **Notes:** Standalone studio with private bath confirmed. Gas range + refrigerator confirm full kitchen. In-building laundry. Same Brick+Timber management as 925 Geary #102 (Rank 7). Slightly smaller (282 sqft vs 318 sqft) at same price point — 925 Geary #102 is a better deal at the same price. ⚠️ No utilities included; effective cost ~$2,100+/mo. Pets OK at extra cost.
 
 ### Updated & Spacious Polk Gulch Studio — Gas Kitchen — $1,995/mo — Craigslist
-- **Rank:** 9
+- **Rank:** 10
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-updated-spacious-polk/7933493759.html
 - **First found:** 2026-05-24
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Studio
 - **Location:** Polk Gulch, 729 Ellis St #102 — lat 37.784177, lng -122.418180 (confirmed west of Larkin — Polk Gulch, NOT Tenderloin; borderline but coordinates place it fractionally west of Larkin boundary)
 - **Size:** not listed
@@ -252,11 +280,11 @@ Total runs: 94
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** gas stove and oven, remodeled kitchen, first-floor unit with sidewalk-facing natural light, Polk Street restaurant/bar access
 - **Photos:** schedule-a-tour.com link (professional PM tool, legitimate)
-- **Posting age:** ~14 days (posted ~2026-05-10)
+- **Posting age:** ~15 days (posted ~2026-05-10)
 - **Poster:** individual landlord via schedule-a-tour.com — no obvious scam flags
 - **Income-restricted?:** No
 - **vs. market:** Studios in Polk Gulch typically $1,800–$2,200; at $1,995 (no utilities) this is at market rate — not a steal
-- **Notes:** Gas stove and oven confirmed (kitchen confirmed ✓). Standalone studio, private bath confirmed. On-site shared laundry ✓. Pets OK. ⚠️ Ground floor, first-floor unit facing sidewalk — noise/privacy concern. ⚠️ No utilities included; effective cost ~$2,100+/mo (pushes over budget). ⚠️ Right on the Larkin/TL boundary — coordinates (lng -122.418180) place it just west of Larkin, consistent with Polk Gulch claim. ⚠️ 14+ days on market — slow to fill. Same Brick+Timber-adjacent price tier as Rank 7–8 but without the Matterport tour professionalism.
+- **Notes:** Gas stove and oven confirmed (kitchen confirmed ✓). Standalone studio, private bath confirmed. On-site shared laundry ✓. Pets OK. ⚠️ Ground floor, first-floor unit facing sidewalk — noise/privacy concern. ⚠️ No utilities included; effective cost ~$2,100+/mo (pushes over budget). ⚠️ Right on the Larkin/TL boundary — coordinates (lng -122.418180) place it just west of Larkin, consistent with Polk Gulch claim. ⚠️ 15+ days on market — slow to fill. Same Brick+Timber-adjacent price tier as Rank 7–8 but without the Matterport tour professionalism.
 
 ---
 
@@ -268,7 +296,7 @@ Total runs: 94
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-24 (Run 94)
+- **Last verified:** 2026-05-25 (Run 95)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -282,11 +310,11 @@ Total runs: 94
 - **Pet policy:** not listed — inquire
 - **Other amenities:** gas stove, dishwasher, stainless steel refrigerator, granite countertop kitchen, park view from living room (leather sofa set), master bedroom + large bedroom with backyard entrance, $50 application fee, N-Judah 3 blocks, GGPark 4 blocks, 10 min walk to UCSF
 - **Photos:** personal listing (current tenant seeking roommates)
-- **Posting age:** ~32 days (posted ~2026-04-23 est.) ⚠️ NOW 32+ DAYS OLD (Run 94, 2026-05-24) — CONTACT URGENTLY; imminent expiry/fill
+- **Posting age:** ~33 days (posted ~2026-04-23 est.) ⚠️ NOW 33+ DAYS OLD (Run 95, 2026-05-25) — CONTACT URGENTLY; imminent expiry/fill
 - **Poster:** current tenant seeking 2 new roommates — individual listing; no professional management flags; legitimate
 - **Income-restricted?:** No
 - **vs. market:** 3BR houses in Inner Sunset typically $5,500–$7,000+; at $4,650 this is 20–35% below market — strong value
-- **Notes:** First qualifying group listing found in 52 runs. This is a roommate situation — current tenant is seeking 2 new roommates to fill the other 2 bedrooms; the group would not be renting the unit fresh from a landlord. ⚠️ "Middle room with a sunroom" bedroom description is ambiguous — may be a sunroom-style room rather than a traditional enclosed bedroom. Confirm with poster before applying. July 1 availability. $50 application fee. ⚠️ NOW 32+ DAYS OLD (Run 94, 2026-05-24) — contact URGENTLY; imminent expiry/fill. No new group listings found in SF market this run.
+- **Notes:** First qualifying group listing found in 52 runs. This is a roommate situation — current tenant is seeking 2 new roommates to fill the other 2 bedrooms; the group would not be renting the unit fresh from a landlord. ⚠️ "Middle room with a sunroom" bedroom description is ambiguous — may be a sunroom-style room rather than a traditional enclosed bedroom. Confirm with poster before applying. July 1 availability. $50 application fee. ⚠️ NOW 33+ DAYS OLD (Run 95, 2026-05-25) — contact URGENTLY; imminent expiry/fill. No new group listings found in SF market this run.
 
 ---
 
@@ -1239,3 +1267,4 @@ Total runs: 94
 | 92 | 2026-05-24 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
 | 93 | 2026-05-24 | 1 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
 | 94 | 2026-05-24 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
+| 95 | 2026-05-25 | 1 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
