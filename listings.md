@@ -1,10 +1,10 @@
 # SF Housing Search
-Last updated: 2026-05-25 (Run 97)
-Total runs: 97
+Last updated: 2026-05-25 (Run 98)
+Total runs: 98
 
 ## Best Current Listings
 - **Solo:** 620 Jones St #808 Nob Hill Studio — $1,700/mo ALL utilities included (effective ~$1,500/mo), in-building laundry, rent-controlled, MMG management, now 14 days on market — contact today.
-- **Group (3BR/2+BA):** Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; current tenant seeking 2 new roommates). In-unit W/D, full kitchen, park view, July 1. ⚠️ NOW 34+ DAYS OLD — contact URGENTLY; may fill or expire any day.
+- **Group (3BR/2+BA):** Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; current tenant seeking 2 new roommates). In-unit W/D, full kitchen, park view, July 1. ⚠️ NOW 36+ DAYS OLD — contact URGENTLY; may fill or expire any day.
 
 ---
 
@@ -16,7 +16,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -30,7 +30,7 @@ Total runs: 97
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** furnished (if desired), hardwood floors, 3 elevators, package room, big windows with good natural light, huge walk-in closet, high floor with city light views, rent-controlled (SF Rent Ordinance)
 - **Photos:** not separately counted (managed building listing)
-- **Posting age:** 14 days (posted 2026-05-12) ⚠️ Now 14 days on market — act soon (still active Run 96)
+- **Posting age:** 13 days (posted 2026-05-12) ⚠️ Now 13 days on market — act soon (still active Run 98)
 - **Poster:** Yoli Handoko / MMG 203 / CalDRE #990193 (Meridian Management Group) — highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,700 all-utilities-included (effective ~$1,500–1,550), this is 35–45% below market for the all-in cost
@@ -44,7 +44,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -58,7 +58,7 @@ Total runs: 97
 - **Pet policy:** no pets
 - **Other amenities:** kitchenette ("perfect for simple home cooking"), cozy and efficient layout, great natural light
 - **Photos:** showinghotline.com — scheduling service suggests legitimate management
-- **Posting age:** 18 days (posted 2026-05-07) ⚠️ STALE — 18 days on market, may be close to renting
+- **Posting age:** 18 days (posted 2026-05-07) ⚠️ STALE — 18 days on market, may be close to renting (still active Run 98)
 - **Poster:** Rentals Inc. (Broker #02124746, Rentalsinc.com) — licensed SF property management; highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,595 with water+trash included (effective ~$1,565), notably below market
@@ -72,7 +72,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-bedroom-available/7936186919.html
 - **First found:** 2026-05-23
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Room
 - **Location:** Haight-Ashbury / Cole Valley — lat 37.771200, lng -122.441300 (confirmed accepted neighborhood; near N Judah, 1 block from GGP)
 - **Size:** not listed
@@ -100,7 +100,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -128,7 +128,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-coming-soon-lower-nob/7936134158.html
 - **First found:** 2026-05-19 (original URL 7935497972; relisted 2026-05-23 as URL 7936134158)
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Studio
 - **Location:** 1008 Larkin St #404, Lower Nob Hill / Polk Gulch — lat 37.787200, lng -122.418300 (confirmed accepted neighborhood; on Larkin at Geary, just north of TL boundary)
 - **Size:** 435 sq ft
@@ -156,7 +156,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7936447899.html
 - **First found:** 2026-05-25
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth)
 - **Size:** 400 sq ft
@@ -184,7 +184,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lightfilled-studio-bay/7935727806.html
 - **First found:** 2026-05-21
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed Nob Hill, near Union Square)
 - **Size:** 315 sq ft
@@ -212,7 +212,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7936081985.html
 - **First found:** 2026-05-21 (original URL 7935615630 deleted by author today; relisted same day as 7936081985)
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Studio
 - **Location:** 925 Geary St #102, Lower Nob Hill/Polk Gulch — lat 37.786050, lng -122.418492 (confirmed; same building as previously tracked #310; on Geary at the northern boundary of accepted area)
 - **Size:** 318 sq ft
@@ -240,7 +240,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1050-post-street-42/7935815185.html
 - **First found:** 2026-05-22
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Studio
 - **Location:** 1050 Post St #42, Lower Nob Hill / Polk Gulch — lat 37.786931, lng -122.419116 (confirmed accepted neighborhood; near Larkin/Post intersection)
 - **Size:** 282 sq ft
@@ -258,7 +258,7 @@ Total runs: 97
 - **Poster:** Brick + Timber (contact Shanna) — same firm as 925 Geary St #102; highly credible; $57 application fee
 - **Income-restricted?:** No
 - **vs. market:** Studios in Lower Nob Hill / Polk Gulch typically $1,800–$2,200; at $1,995 (no utilities) this is at market rate — not a steal, but a professionally managed legitimate option
-- **Notes:** Standalone studio with private bath confirmed. Gas range + refrigerator confirm full kitchen. In-building laundry. Same Brick+Timber management as 925 Geary #102 (Rank 7). Slightly smaller (282 sqft vs 318 sqft) at same price point — 925 Geary #102 is a better deal at the same price. ⚠️ No utilities included; effective cost ~$2,100+/mo. Pets OK at extra cost.
+- **Notes:** Standalone studio with private bath confirmed. Gas range + refrigerator confirm full kitchen. In-building laundry. Same Brick+Timber management as 925 Geary #102 (Rank 7). Slightly smaller (282 sqft vs 318 sqft) at same price point — 925 Geary #102 is a better deal at the same price. ⚠️ No utilities included; effective cost ~$2,100+/mo. Pets OK at extra cost. ♻️ RELIST NOTE (Run 98): Brick+Timber relisted same unit as URL 7936669958 (contact Jason; price/terms unchanged).
 
 ### Updated & Spacious Polk Gulch Studio — Gas Kitchen — $1,995/mo — Craigslist
 - **Rank:** 10
@@ -266,7 +266,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-updated-spacious-polk/7933493759.html
 - **First found:** 2026-05-24
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Studio
 - **Location:** Polk Gulch, 729 Ellis St #102 — lat 37.784177, lng -122.418180 (confirmed west of Larkin — Polk Gulch, NOT Tenderloin; borderline but coordinates place it fractionally west of Larkin boundary)
 - **Size:** not listed
@@ -296,7 +296,7 @@ Total runs: 97
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-25 (Run 97)
+- **Last verified:** 2026-05-25 (Run 98)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -310,11 +310,11 @@ Total runs: 97
 - **Pet policy:** not listed — inquire
 - **Other amenities:** gas stove, dishwasher, stainless steel refrigerator, granite countertop kitchen, park view from living room (leather sofa set), master bedroom + large bedroom with backyard entrance, $50 application fee, N-Judah 3 blocks, GGPark 4 blocks, 10 min walk to UCSF
 - **Photos:** personal listing (current tenant seeking roommates)
-- **Posting age:** ~35 days (posted ~2026-04-23 est.) ⚠️ NOW 35+ DAYS OLD (Run 97, 2026-05-25) — CONTACT URGENTLY; imminent expiry/fill
+- **Posting age:** ~36 days (posted ~2026-04-23 est.) ⚠️ NOW 36+ DAYS OLD (Run 98, 2026-05-25) — CONTACT URGENTLY; imminent expiry/fill
 - **Poster:** current tenant seeking 2 new roommates — individual listing; no professional management flags; legitimate
 - **Income-restricted?:** No
 - **vs. market:** 3BR houses in Inner Sunset typically $5,500–$7,000+; at $4,650 this is 20–35% below market — strong value
-- **Notes:** First qualifying group listing found in 52 runs. This is a roommate situation — current tenant is seeking 2 new roommates to fill the other 2 bedrooms; the group would not be renting the unit fresh from a landlord. ⚠️ "Middle room with a sunroom" bedroom description is ambiguous — may be a sunroom-style room rather than a traditional enclosed bedroom. Confirm with poster before applying. July 1 availability. $50 application fee. ⚠️ NOW 35+ DAYS OLD (Run 97, 2026-05-25) — contact URGENTLY; imminent expiry/fill. No new qualifying group listings found in SF market this run.
+- **Notes:** First qualifying group listing found in 52 runs. This is a roommate situation — current tenant is seeking 2 new roommates to fill the other 2 bedrooms; the group would not be renting the unit fresh from a landlord. ⚠️ "Middle room with a sunroom" bedroom description is ambiguous — may be a sunroom-style room rather than a traditional enclosed bedroom. Confirm with poster before applying. July 1 availability. $50 application fee. ⚠️ NOW 36+ DAYS OLD (Run 98, 2026-05-25) — contact URGENTLY; imminent expiry/fill. No new qualifying group listings found in SF market this run.
 
 ---
 
@@ -337,6 +337,16 @@ Total runs: 97
 - **First found:** 2026-05-06
 - **Removed:** 2026-05-24
 - **Notes:** Re-verified coordinates lat 37.785806, lng -122.416648 against CLAUDE.md strict TL rule (lat < 37.787 between lng -122.418 and -122.408): both conditions satisfied. CL neighborhood label is "tenderloin." Hyde St at this latitude is east of Larkin and south of Geary — confirmed Tenderloin. Previously tracked as "Nob Hill" — error corrected this run. Separate kitchen, on-site laundry, pets OK — would have been a strong listing if not in TL. Do not re-add any 531 Hyde St listing.
+
+---
+
+### Russian Hill Studio — 2245 Larkin St — 500sqft — $1,748/mo — Craigslist (scam relistings, URLs 7936580842 + 7936578403)
+- **Mode:** Solo
+- **Status:** REMOVED (scam)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-edwardian-studio/7936580842.html (also 7936578403)
+- **First found:** 2026-05-25
+- **Removed:** 2026-05-25
+- **Notes:** Two more new URLs for the confirmed 2245 Larkin scam address. Titles "Charming Edwardian Studio – Hardwood + Light" at $1,748. Same address and description as scam confirmed in Run 88. Do not click, do not contact, do not re-add — flag immediately as confirmed scam on sight.
 
 ---
 
@@ -1270,3 +1280,4 @@ Total runs: 97
 | 95 | 2026-05-25 | 1 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
 | 96 | 2026-05-25 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
 | 97 | 2026-05-25 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
+| 98 | 2026-05-25 | 0 | 0 | 0 | 620 Jones St #808 $1,700 all-utils (effective ~$1,500) | Inner Sunset 3BR/2BA $4,650 |
