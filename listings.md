@@ -1,10 +1,10 @@
 # SF Housing Search
-Last updated: 2026-05-29 (Run 112)
-Total runs: 112
+Last updated: 2026-05-29 (Run 113)
+Total runs: 113
 
 ## Best Current Listings
-- **Solo:** 620 Jones St #808 Nob Hill — $1,700/mo ALL utilities included (effective ~$1,500) — best all-in value; ⚠️ NOW 17 DAYS — contact MMG today. Runner-up: 692 Bush #306 $1,595 nominal (effective ~$1,565 w/water+trash) but 22 days on market — very stale, verify first.
-- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (verify price + 3rd BR; 17 days market). Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; CL refreshed to 26 days — still active with reply button; July 1 window narrowing).
+- **Solo:** 620 Jones St #808 Nob Hill — $1,700/mo ALL utilities included (effective ~$1,500) — best all-in value; ⚠️ NOW 17 DAYS — contact MMG today. Runner-up: 692 Bush #306 $1,595 nominal (effective ~$1,565 w/water+trash) but 22+ days on market — very stale, verify first.
+- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (verify price + 3rd BR; now 17 days). Inner Sunset 3BR/2BA at $4,650/mo (roommate situation; 26 days shown — still active; July 1 window is 33 days out — contact now).
 
 ---
 
@@ -16,7 +16,7 @@ Total runs: 112
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -30,7 +30,7 @@ Total runs: 112
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** furnished (if desired), hardwood floors, 3 elevators, package room, big windows with good natural light, huge walk-in closet, high floor with city light views, rent-controlled (SF Rent Ordinance)
 - **Photos:** not separately counted (managed building listing)
-- **Posting age:** 17 days (posted 2026-05-12) ⚠️ NOW 17 DAYS — CONTACT MMG TODAY
+- **Posting age:** 17 days (posted 2026-05-12) ⚠️ NOW 17 DAYS — CONTACT MMG TODAY (same age as Run 112 — CL counter may lag)
 - **Poster:** Yoli Handoko / MMG 203 / CalDRE #990193 (Meridian Management Group) — highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,700 all-utilities-included (effective ~$1,500–1,550), this is 35–45% below market for the all-in cost
@@ -44,7 +44,7 @@ Total runs: 112
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-studio-with/7932824654.html
 - **First found:** 2026-05-07
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Studio
 - **Location:** 692 Bush St #306, Nob Hill — lat 37.790171, lng -122.408702 (confirmed Nob Hill, steps from Union Square, Powell BART)
 - **Size:** 190 sq ft
@@ -58,7 +58,7 @@ Total runs: 112
 - **Pet policy:** no pets
 - **Other amenities:** kitchenette ("perfect for simple home cooking"), cozy and efficient layout, great natural light
 - **Photos:** showinghotline.com — scheduling service suggests legitimate management
-- **Posting age:** 22 days (posted 2026-05-07) ⚠️ VERY STALE — 22 days on market (CL shows 21 days)
+- **Posting age:** 22+ days (posted 2026-05-07) ⚠️ VERY STALE — 22+ days on market
 - **Poster:** Rentals Inc. (Broker #02124746, Rentalsinc.com) — licensed SF property management; highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,595 with water+trash included (effective ~$1,565), notably below market
@@ -72,7 +72,7 @@ Total runs: 112
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-bedroom-available/7936186919.html
 - **First found:** 2026-05-23
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Room
 - **Location:** Haight-Ashbury / Cole Valley — lat 37.771200, lng -122.441300 (confirmed accepted neighborhood; near N Judah, 1 block from GGP)
 - **Size:** not listed
@@ -86,7 +86,7 @@ Total runs: 112
 - **Pet policy:** no pets
 - **Other amenities:** full kitchen confirmed, shared backyard/garden with fire pit, rooftop access, 3BR Victorian apartment
 - **Photos:** individual listing
-- **Posting age:** 6 days (posted 2026-05-23; CL shows 6 days)
+- **Posting age:** 6 days (posted 2026-05-23)
 - **Poster:** individual (full-time artist and grad student, 1 current roommate) — specific and credible description, no scam flags
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Haight-Ashbury typically $1,700–2,100+; at $1,500 + utilities (effective ~$1,580–1,600) this is meaningfully below market
@@ -100,7 +100,7 @@ Total runs: 112
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7937301439.html
 - **First found:** 2026-05-26 (original URL 7936597890; relisted 2026-05-28 as URLs 7937147614 and 7937301439)
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Studio
 - **Location:** 925 Geary St #102, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; Brick+Timber managed, near Jefferson Square Park)
 - **Size:** 318–364 sq ft (size varies slightly between relist postings)
@@ -128,7 +128,7 @@ Total runs: 112
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -142,7 +142,7 @@ Total runs: 112
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** two-burner stovetop, microwave, refrigerator, hardwood floors, elevator, large closet, rent-controlled (SF Rent Ordinance)
 - **Photos:** Meridian Management Group listing (professional)
-- **Posting age:** 14 days (posted 2026-05-15; CL shows 14 days) — stale; contact MMG soon
+- **Posting age:** 14 days (posted 2026-05-15) ⚠️ 14 DAYS — contact MMG soon
 - **Poster:** Yoli Handoko / MMG (Meridian Management Group) — same credible management as 620 Jones #808. $30 application fee.
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,800 with water+trash included (effective ~$1,750), at the low end for the neighborhood and management quality
@@ -156,7 +156,7 @@ Total runs: 112
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7937030980.html
 - **First found:** 2026-05-25 (original URL 7936447899; deleted by author 2026-05-27; relisted same day as URL 7937030980)
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth, between Sutter and Post)
 - **Size:** 400 sq ft
@@ -170,7 +170,7 @@ Total runs: 112
 - **Pet policy:** no pets
 - **Other amenities:** gas range (stove), microwave, refrigerator, large closets, rent-controlled, hardwood floors, double pane windows
 - **Photos:** The Apartment Plug (TAP) scheduling app — professional management listing
-- **Posting age:** 2 days since relist (relisted 2026-05-27; CL shows "a day ago"); originally first listed 2026-05-25 (5 days total market time)
+- **Posting age:** 2 days since relist (relisted 2026-05-27); originally first listed 2026-05-25 (5 days total market time)
 - **Poster:** GRM Properties LLC / Beam Properties, Inc — legitimate professional SF property management
 - **Income-restricted?:** No
 - **vs. market:** Jr 1BRs in Lower Nob Hill typically $2,000–$2,500; at $1,895 stated ($1,995 all-in with fixed utilities), this is at the low end
@@ -178,13 +178,41 @@ Total runs: 112
 
 ---
 
-### Light-Filled Studio w/ Bay Windows + Full Kitchen — Nob Hill — $1,950/mo + RUBS — Craigslist
+### Mission Victorian House — Private Room + Private Bath — $1,850/mo + utils — Craigslist
 - **Rank:** 7
+- **Mode:** Solo
+- **Status:** ACTIVE
+- **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-private-bathroom/7937406014.html
+- **First found:** 2026-05-29
+- **Last verified:** 2026-05-29 (Run 113)
+- **Type:** Room
+- **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, 101 freeway)
+- **Size:** not listed (11x11 per body text; main-floor bedroom)
+- **BR/BA:** Room/1BA (private bathroom — "bedroom and a bathroom on each floor, so you will have your own" + "Has its own connected bathroom")
+- **Rent:** $1,850/mo + ~$120/mo utilities (water/PG&E/garbage/internet) → effective ~$1,970/mo
+- **Deposit:** $1,850 (1 month)
+- **Lease:** 1 year preferred
+- **Available:** July 1, 2026
+- **Laundry:** on-site (washer/dryer in laundry room on main floor — confirmed)
+- **Parking:** bike/motorcycle in garage only (no car space)
+- **Pet policy:** no pets
+- **Other amenities:** shared full kitchen on main floor (large, connected to small terrace), backyard with BBQ + fire pit + hammock + plum tree, partial furnishings negotiable (bed/dresser/TV stand from departing roommate), office space adjacent to room, great afternoon light
+- **Photos:** individual listing (no count)
+- **Posting age:** fresh (posted 2026-05-29; ~6h old at discovery)
+- **Poster:** professionals in their 30s–40s, 3-person Victorian house share; one roommate 8 years in house, one almost 2 years — credible, detailed description, no scam flags; listing via standard CL /roo/ posting
+- **Income-restricted?:** No
+- **vs. market:** Private rooms with private bath in Mission District typically $1,800–$2,300+; at $1,850 nominal (effective ~$1,970/mo with utilities), this is near the low end for confirmed private bath in an accepted neighborhood
+- **Notes:** 3-story Victorian house, 3 bedrooms + 3 bathrooms (one per floor). Available room is on the main floor. Private bathroom confirmed — "Has its own connected bathroom (seldom also used as a guest bathroom)." Kitchen is shared among the 3 housemates (on main floor) — same convention as Rank 3 (Haight Victorian). On-site W/D in dedicated laundry room. Backyard amenities are a genuine bonus. Single occupancy only. No pets. No couples. Age preference "30s give or take." July 1 availability — 33 days out. Effective cost ~$1,970/mo is near the $2,000 budget ceiling. Contact via CL reply.
+
+---
+
+### Light-Filled Studio w/ Bay Windows + Full Kitchen — Nob Hill — $1,950/mo + RUBS — Craigslist
+- **Rank:** 8
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lightfilled-studio-bay/7935727806.html
 - **First found:** 2026-05-21
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed NOT Tenderloin — lat 37.7917 is well above 37.787 threshold; CL now labels "tenderloin" which is incorrect)
 - **Size:** 315 sq ft
@@ -198,7 +226,7 @@ Total runs: 112
 - **Pet policy:** cats OK, dogs OK (negotiable)
 - **Other amenities:** full-size kitchen appliances, bay windows with open city views, hardwood floors, high ceilings, breakfast bar, full bathroom with tub + window, rent-controlled, furnished option likely
 - **Photos:** not counted separately (individual listing, ~4 hours old at discovery)
-- **Posting age:** 8 days (posted 2026-05-21; CL shows 8 days)
+- **Posting age:** 8 days (posted 2026-05-21)
 - **Poster:** individual landlord; $25 application fee; no name listed — no obvious red flags
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,950 this is at the low end nominally, but RUBS overhead pushes effective cost to ~$2,050–2,150
@@ -207,12 +235,12 @@ Total runs: 112
 ---
 
 ### Lower Nob Hill Studio — 925 Geary St #310 — 295sqft — $1,895/mo — Craigslist ♻️ RELISTED (10th+ URL, 6+ weeks)
-- **Rank:** 8
+- **Rank:** 9
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7937303707.html
 - **First found:** 2026-05-14 (original first found; relisted 10th+ time; most recent URL 7937303707 found Run 110)
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; same building as Ranks 4 and 9; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -242,7 +270,7 @@ Total runs: 112
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -256,7 +284,7 @@ Total runs: 112
 - **Pet policy:** not listed — inquire
 - **Other amenities:** gas stove, dishwasher, stainless steel refrigerator, granite countertop kitchen, park view from living room (leather sofa set), master bedroom + large bedroom with backyard entrance, $50 application fee, N-Judah 3 blocks, GGPark 4 blocks, 10 min walk to UCSF
 - **Photos:** personal listing (current tenant seeking roommates)
-- **Posting age:** CL now shows "Posted 26 days ago" (= posted ~2026-05-03, suggesting listing was refreshed/renewed); first found by tracker 2026-05-14; still active with reply button as of Run 112
+- **Posting age:** CL shows "Posted 26 days ago" (= posted ~2026-05-03); first found by tracker 2026-05-14; still active with reply button as of Run 113. July 1 availability is now ~33 days out — contact soon.
 - **Poster:** current tenant seeking 2 new roommates — individual listing; no professional management flags; legitimate
 - **Income-restricted?:** No
 - **vs. market:** 3BR houses in Inner Sunset typically $5,500–$7,000+; at $4,650 this is 20–35% below market — strong value
@@ -270,7 +298,7 @@ Total runs: 112
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lovely-bedroom-bath/7933763304.html
 - **First found:** 2026-05-26
-- **Last verified:** 2026-05-29 (Run 112)
+- **Last verified:** 2026-05-29 (Run 113)
 - **Type:** Apartment / Condo (upstairs unit in multi-unit building)
 - **Location:** Potrero Hill — lat 37.754571, lng -122.401589 (confirmed accepted neighborhood; near 22nd Caltrain, Dogpatch, Mission 24th St)
 - **Size:** 1,050 sq ft
@@ -284,7 +312,7 @@ Total runs: 112
 - **Pet policy:** cats OK, dogs OK (up to 20 lbs)
 - **Other amenities:** renovated kitchen (dishwasher, gas range/oven, refrigerator, wine fridge), renovated bathrooms, hardwood floors in living areas, new carpet in bedrooms, shared soaking pool + hot tub, gym, BBQ grill + patio set, private outdoor deck with gas line, walk score 88
 - **Photos:** individual landlord via TurboTenant
-- **Posting age:** 17 days (posted 2026-05-12; CL shows 17 days) ⚠️ contact to verify price discrepancy + 3rd BR status
+- **Posting age:** 17 days (posted 2026-05-12) ⚠️ contact to verify price discrepancy + 3rd BR status — now 17 days on market
 - **Poster:** individual landlord via TurboTenant — no name listed; no obvious scam flags
 - **Income-restricted?:** No
 - **vs. market:** 3BR/2BA in Potrero Hill typically $5,000–$6,500; at $3,850 listed (or $4,300 body text) this is 20–40% below market — if confirmed at CL price, exceptional value
@@ -1369,3 +1397,4 @@ Total runs: 112
 | 110 | 2026-05-28 | 0 new | 0 | 4 (Inner Richmond flagged + 201 Harrison + 925 Geary #102 $1,995 + 1050 Post #42) | 620 Jones #808 $1,700 all-utils ⚠️ 19d URGENT / Haight-Ashbury Room $1,500+utils (Sept 1) | Potrero Hill 3BR/2BA $3,850 (⚠️ 18d verify 3BR) / Inner Sunset 3BR/2BA $4,650 (⚠️ 45d+ ASSUME GONE) |
 | 111 | 2026-05-28 | 0 new | 0 | 1 (Nob Hill Large Studio flagged) | 620 Jones #808 $1,700 all-utils ⚠️ 20d URGENT | Potrero Hill 3BR/2BA $3,850 (⚠️ 19d verify 3BR) / Inner Sunset $4,650 (⚠️ 46d+ ARCHIVE NEXT RUN) |
 | 112 | 2026-05-29 | 0 new | 0 | 0 | 692 Bush #306 $1,595+utils (effective ~$1,565; ⚠️ 22d stale — verify) / 620 Jones #808 $1,700 all-utils ⚠️ 17d URGENT | Potrero Hill 3BR/2BA $3,850 (⚠️ 17d — verify price+3BR) / Inner Sunset $4,650 (CL refreshed; 26d shown — still active) |
+| 113 | 2026-05-29 | 1 new (solo) | 0 | 0 | 620 Jones #808 $1,700 all-utils ⚠️ 17d URGENT | Potrero Hill 3BR/2BA $3,850 (⚠️ 17d verify) / Inner Sunset $4,650 (July 1 ~33d out — contact now) |
