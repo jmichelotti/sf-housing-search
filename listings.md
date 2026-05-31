@@ -1,10 +1,10 @@
 # SF Housing Search
-Last updated: 2026-05-31 (Run 119)
-Total runs: 119
+Last updated: 2026-05-31 (Run 120)
+Total runs: 120
 
 ## Best Current Listings
-- **Solo:** 620 Jones St #808 Nob Hill — $1,700/mo ALL utilities included (effective ~$1,500) — best all-in value, ⚠️ NOW 21 DAYS — contact MMG today. NEW: Russian Hill room on Polk $1,700+utils (Rank 2, private bath confirmed, June 8, fresh today). NEW: Hayes Valley/Castro 1BR #505 $1,700 standalone with W/D in-unit + parking + AC (Rank 3, stove not explicitly confirmed — verify). 925 Geary #102 $1,695 (Rank 5, available now) and Haight Victorian $1,500+utils (Rank 4, Sept 1, bath ambiguity) follow.
-- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (⚠️ verify price + 3rd BR; now 21 days, availability window closing). Inner Sunset 3BR/2BA at $4,650/mo (roommate; July 1 — now 30 days, contact immediately).
+- **Solo:** 620 Jones St #808 Nob Hill — $1,700/mo ALL utilities included (effective ~$1,500) — best all-in value, ⚠️ NOW 21+ DAYS — contact MMG immediately. Russian Hill Polk Room $1,700+utils (Rank 2, private bath, June 8). Castro/Mission 1BR #505 $1,700 W/D+parking+AC (Rank 3, verify stove). 925 Geary #102 $1,695 (Rank 5, available now) and Haight Victorian $1,500+utils (Rank 4, Sept 1, bath ambiguity) follow. CL market very thin today — scam wave active.
+- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (⚠️ 21+ days on market — verify price + 3rd BR URGENTLY, availability window closing). Inner Sunset 3BR/2BA at $4,650/mo (roommate; July 1 — now ~29 days, contact today).
 
 ---
 
@@ -16,7 +16,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -44,7 +44,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-with-private-bath/7937728510.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Room
 - **Location:** Polk St, Russian Hill — lat 37.795675, lng -122.421920 (confirmed accepted neighborhood; near Polk/Broadway, half block from Walgreens + Bi-Rite, 2 min from 12/49 buses)
 - **Size:** ~12x11 ft room; 3BR/2BA apartment total
@@ -72,7 +72,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1br-hayes-valley-bedroom1/7937751992.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** 1BR apartment (standalone unit)
 - **Location:** Van Ness Ave / Mission-Castro border — lat 37.761576, lng -122.417142 (confirmed accepted neighborhood; near 16th–17th St, Mission/Castro/Dolores Park area)
 - **Size:** not listed; top floor (unit 505), corner unit, 5-story building
@@ -100,7 +100,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-bedroom-available/7936186919.html
 - **First found:** 2026-05-23
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Room
 - **Location:** Haight-Ashbury / Cole Valley — lat 37.771200, lng -122.441300 (confirmed accepted neighborhood; near N Judah, 1 block from GGP)
 - **Size:** not listed
@@ -128,7 +128,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7937301439.html
 - **First found:** 2026-05-26 (original URL 7936597890; relisted 2026-05-28 as URLs 7937147614 and 7937301439)
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Studio
 - **Location:** 925 Geary St #102, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; Brick+Timber managed, near Jefferson Square Park)
 - **Size:** 318–364 sq ft (size varies slightly between relist postings)
@@ -156,7 +156,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -184,7 +184,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-efficient-studio-with/7936786873.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Studio
 - **Location:** 729 Ellis St #509, Polk Gulch — lat 37.784177, lng -122.418180 (borderline Polk Gulch / TL boundary; same building previously accepted as Polk Gulch Run 101; east of Polk, just west of Larkin — not TL by strict east-of-Larkin rule)
 - **Size:** not listed; top floor (unit 509)
@@ -212,7 +212,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7937030980.html
 - **First found:** 2026-05-25 (original URL 7936447899; deleted by author 2026-05-27; relisted same day as URL 7937030980)
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth, between Sutter and Post)
 - **Size:** 400 sq ft
@@ -240,7 +240,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-private-bathroom/7937406014.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Room
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, 101 freeway)
 - **Size:** not listed (11x11 per body text; main-floor bedroom)
@@ -268,7 +268,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-in-theater-district/7937514812.html
 - **First found:** 2026-05-19 (original URL 7934713735; relisted 2026-05-29 as URL 7937514812)
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Studio
 - **Location:** Theater District / Lower Nob Hill — lat 37.787200, lng -122.411299 (confirmed just above TL boundary; Geary/Jones/Taylor area, south side of building overlooking Derby Alley)
 - **Size:** 410 sq ft
@@ -296,7 +296,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lightfilled-studio-bay/7935727806.html
 - **First found:** 2026-05-21
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed NOT Tenderloin — lat 37.7917 is well above 37.787 threshold; CL now labels "tenderloin" which is incorrect)
 - **Size:** 315 sq ft
@@ -324,7 +324,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7937548574.html
 - **First found:** 2026-05-14 (original first found; relisted 12th+ time; most recent URL 7937548574 found Run 115; still active Run 119)
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; same building as Ranks 4 and 9; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -354,7 +354,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -382,7 +382,7 @@ Total runs: 119
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lovely-bedroom-bath/7933763304.html
 - **First found:** 2026-05-26
-- **Last verified:** 2026-05-31 (Run 119)
+- **Last verified:** 2026-05-31 (Run 120)
 - **Type:** Apartment / Condo (upstairs unit in multi-unit building)
 - **Location:** Potrero Hill — lat 37.754571, lng -122.401589 (confirmed accepted neighborhood; near 22nd Caltrain, Dogpatch, Mission 24th St)
 - **Size:** 1,050 sq ft
@@ -1508,3 +1508,4 @@ Total runs: 119
 | 117 | 2026-05-30 | 0 | 0 | 1 (692 Bush #306 deleted) | 620 Jones #808 $1,700 all-utils ⚠️ 19d URGENT | Potrero Hill $3,850 (⚠️ 19d verify price+3BR) / Inner Sunset $4,650 (~28d, July 1 — CONTACT NOW) |
 | 118 | 2026-05-30 | 1 new (solo) | 0 | 0 | Mission Dolores 2BR/1BA $1,590 whole unit (NEW ⚠️ open house today — contact NOW) / 620 Jones #808 $1,700 all-utils ⚠️ 20d | Potrero Hill $3,850 (⚠️ 20d verify price+3BR) / Inner Sunset $4,650 (31d, July 1 — CONTACT NOW) |
 | 119 | 2026-05-31 | 2 new (solo) | 0 | 1 (Mission Dolores $1,590 flagged) | 620 Jones #808 $1,700 all-utils ⚠️ 21d URGENT / NEW: Russian Hill Polk Room $1,700+utils (Rank 2, June 8) / NEW: Castro/Mission 1BR #505 $1,700 W/D+parking+AC (Rank 3) | Potrero Hill $3,850 (⚠️ 21d verify price+3BR) / Inner Sunset $4,650 (30d, July 1 — contact now) |
+| 120 | 2026-05-31 | 0 | 0 | 0 | 620 Jones #808 $1,700 all-utils ⚠️ 21d+ URGENT — contact MMG now | Potrero Hill $3,850 (⚠️ 21d+ verify price+3BR URGENT) / Inner Sunset $4,650 (~29d, July 1 — contact today) |
