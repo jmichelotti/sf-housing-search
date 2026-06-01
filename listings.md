@@ -1,10 +1,10 @@
 # SF Housing Search
-Last updated: 2026-06-01 (Run 125)
-Total runs: 125
+Last updated: 2026-06-01 (Run 126)
+Total runs: 126
 
 ## Best Current Listings
-- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 20 DAYS — contact MMG today). NEW: Noe Valley 1BR/1BA $1,700, W/D in-unit + off-street parking + AC, open houses Mon–Wed (Rank 4). Mission Victorian Room price changed $1,850→$1,880 (effective ~$2,000 all-in). 1 new solo listing found; 1 price change; Facebook Marketplace blocked (login wall).
-- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (Rank 1 — ONLY ACTIVE GROUP — ⚠️ NOW 20 DAYS, price discrepancy + 3BR verify — contact today). No new group finds this run.
+- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 20 DAYS — contact MMG today). 0 new solo finds this run; all 12 active listings verified live. Facebook Marketplace partially loaded — no new qualifying SF listings found.
+- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (Rank 1 — ONLY ACTIVE GROUP — ⚠️ NOW 20 DAYS, price discrepancy + 3BR verify — contact today). 0 new group finds this run; multiple CL 3BRs checked and rejected (1BA only, wrong neighborhood, or no laundry).
 
 ---
 
@@ -16,7 +16,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -44,7 +44,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1bed-1bath-in-3bed-3bath/7937398788.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Room
 - **Location:** Mission District / Potrero Hill border — lat 37.753121, lng -122.404363 (confirmed accepted neighborhood; near 22nd St BART, Potrero Hill, Mission)
 - **Size:** not listed (room); apartment is 2,000 sq ft total per listing
@@ -72,7 +72,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-with-private-bath/7937728510.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Room
 - **Location:** Polk St, Russian Hill — lat 37.795675, lng -122.421920 (confirmed accepted neighborhood; near Polk/Broadway, half block from Walgreens + Bi-Rite, 2 min from 12/49 buses)
 - **Size:** ~12x11 ft room; 3BR/2BA apartment total
@@ -100,7 +100,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-noe-valley/7938017611.html
 - **First found:** 2026-06-01
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** 1BR apartment (garden level)
 - **Location:** Noe Valley — lat 37.744396, lng -122.428417 (confirmed accepted neighborhood; southern Noe Valley, garden-level unit)
 - **Size:** 600 sq ft
@@ -128,7 +128,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7937301439.html
 - **First found:** 2026-05-26 (original URL 7936597890; relisted 2026-05-28 as URLs 7937147614 and 7937301439)
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Studio
 - **Location:** 925 Geary St #102, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; Brick+Timber managed, near Jefferson Square Park)
 - **Size:** 318–364 sq ft (size varies slightly between relist postings)
@@ -156,7 +156,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -184,7 +184,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-efficient-studio-with/7936786873.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Studio
 - **Location:** 729 Ellis St #509, Polk Gulch — lat 37.784177, lng -122.418180 (borderline Polk Gulch / TL boundary; same building previously accepted as Polk Gulch Run 101; east of Polk, just west of Larkin — not TL by strict east-of-Larkin rule)
 - **Size:** not listed; top floor (unit 509)
@@ -212,7 +212,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7937030980.html
 - **First found:** 2026-05-25 (original URL 7936447899; deleted by author 2026-05-27; relisted same day as URL 7937030980)
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth, between Sutter and Post)
 - **Size:** 400 sq ft
@@ -240,7 +240,7 @@ Total runs: 125
 - **Status:** PRICE CHANGED ($1,850 → $1,880)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-private-bathroom/7937406014.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Room
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, 101 freeway)
 - **Size:** not listed (11x11 per body text; main-floor bedroom)
@@ -268,7 +268,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-in-theater-district/7937514812.html
 - **First found:** 2026-05-19 (original URL 7934713735; relisted 2026-05-29 as URL 7937514812)
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Studio
 - **Location:** Theater District / Lower Nob Hill — lat 37.787200, lng -122.411299 (confirmed just above TL boundary; Geary/Jones/Taylor area, south side of building overlooking Derby Alley)
 - **Size:** 410 sq ft
@@ -296,7 +296,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lightfilled-studio-bay/7935727806.html
 - **First found:** 2026-05-21
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed NOT Tenderloin — lat 37.7917 is well above 37.787 threshold; CL now labels "tenderloin" which is incorrect)
 - **Size:** 315 sq ft
@@ -324,7 +324,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7937548574.html
 - **First found:** 2026-05-14 (original first found; relisted 12th+ time; most recent URL 7937548574 found Run 115; still active Run 119)
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; same building as Ranks 4 and 9; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -354,7 +354,7 @@ Total runs: 125
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lovely-bedroom-bath/7933763304.html
 - **First found:** 2026-05-26
-- **Last verified:** 2026-06-01 (Run 125)
+- **Last verified:** 2026-06-01 (Run 126)
 - **Type:** Apartment / Condo (upstairs unit in multi-unit building)
 - **Location:** Potrero Hill — lat 37.754571, lng -122.401589 (confirmed accepted neighborhood; near 22nd Caltrain, Dogpatch, Mission 24th St)
 - **Size:** 1,050 sq ft
@@ -1558,3 +1558,4 @@ Total runs: 125
 | 123 | 2026-05-31 | 0 | 0 | 4 (Castro 1BR $1,450 + Castro/Mission #505 $1,700 + Pacific Heights $1,770 + Outer Richmond house $4,500 — all flagged) | 620 Jones #808 $1,700 all-utils ⚠️ 20d URGENT / Mission/Potrero Room $1,593 (Rank 2) | Potrero Hill $3,850 Rank 1 (⚠️ 20d verify price+3BR URGENT) / Inner Sunset $4,650 Rank 2 (~29d, July 1) |
 | 124 | 2026-06-01 | 0 | 0 | 2 (Haight-Ashbury Victorian $1,500 flagged + Inner Sunset 3BR/2BA $4,650 flagged after ~30d) | 620 Jones #808 $1,700 all-utils ⚠️ 21d URGENT | Potrero Hill $3,850 Rank 1 — ONLY GROUP (⚠️ 21d verify price+3BR URGENT) |
 | 125 | 2026-06-01 | 1 (Noe Valley 1BR $1,700 W/D+parking+AC) | 0 | 0 | 620 Jones #808 $1,700 all-utils ⚠️ 20d URGENT / NEW: Noe Valley 1BR $1,700 full apt+parking+AC (Rank 4) | Potrero Hill $3,850 Rank 1 (⚠️ 20d verify price+3BR URGENT) |
+| 126 | 2026-06-01 | 0 | 0 | 0 | 620 Jones #808 $1,700 all-utils ⚠️ 20d URGENT (all 12 verified active) | Potrero Hill $3,850 Rank 1 (⚠️ 20d verify price+3BR — ONLY GROUP) |
