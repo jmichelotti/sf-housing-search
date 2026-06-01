@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-05-31 (Run 122)
-Total runs: 122
+Last updated: 2026-05-31 (Run 123)
+Total runs: 123
 
 ## Best Current Listings
-- **Solo:** NEW — Castro 1BR/1BA $1,450/mo (914sqft, W/D in-unit, garage, AC, open houses today-Tuesday — Rank 2, freshest find). NEW — Mission/Potrero Hill room $1,593/mo (private en-suite bath, W/D in-unit, June 1 — Rank 3). 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ 19 DAYS, contact MMG today). 3 new solo adds; 1 removed (Noe Valley flagged same day).
-- **Group (3BR/2+BA):** NEW — Outer Richmond 3BR/2BA house $4,500/mo (877 44th Ave, 1648sqft, W/D+parking, Sunrise Mgmt, Rank 2). Potrero Hill 3BR/2BA at $3,850/mo (Rank 1 — ⚠️ 19 days, verify price+3BR URGENTLY).
+- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 20 DAYS — contact MMG today). Mission/Potrero Room $1,593/mo (private en-suite, W/D in-unit, June 1 — Rank 2). Russian Hill Polk room $1,700 (confirmed private bath, June 8 — Rank 3). 4 flagged removals this run (Castro 1BR $1,450, Castro/Mission #505 $1,700, Pacific Heights $1,770, Outer Richmond house $4,500 — all same-day CL flagging). No new qualifying finds.
+- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (Rank 1 — ⚠️ NOW 20 DAYS, price discrepancy + 3BR verify — contact today). Inner Sunset 3BR/2BA $4,650/mo (Rank 2 — ~29 days, July 1, roommate situation).
 
 ---
 
-## Active Listings — Solo (cap 20) — 15 active
+## Active Listings — Solo (cap 20) — 12 active
 
 ### Furnished Studio — 620 Jones St #808 — Nob Hill — $1,700/mo all utilities incl. — Craigslist
 - **Rank:** 1
@@ -16,7 +16,7 @@ Total runs: 122
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -30,49 +30,21 @@ Total runs: 122
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** furnished (if desired), hardwood floors, 3 elevators, package room, big windows with good natural light, huge walk-in closet, high floor with city light views, rent-controlled (SF Rent Ordinance)
 - **Photos:** not separately counted (managed building listing)
-- **Posting age:** 19 days (posted 2026-05-12) ⚠️ 19 DAYS — CONTACT MMG TODAY
+- **Posting age:** 20 days (posted 2026-05-12) ⚠️ 20 DAYS — CONTACT MMG TODAY
 - **Poster:** Yoli Handoko / MMG 203 / CalDRE #990193 (Meridian Management Group) — highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,700 all-utilities-included (effective ~$1,500–1,550), this is 35–45% below market for the all-in cost
-- **Notes:** All utilities included (water, garbage, electricity) — strong effective-cost deal. Private bath (standalone 0BR/1BA). Kitchen is a kitchenette — qualifies under minimum kitchen requirement. In-building laundry. Furnished or unfurnished (flexible). Rent-controlled. Huge walk-in closet. International students welcome. 1-year lease. ⚠️ NOW 19 DAYS OLD — contact MMG today before this rents.
-
----
-
-### Castro 1BR/1BA — Lower Flat — 914sqft — $1,450/mo — W/D In-Unit + Garage + AC — Craigslist
-- **Rank:** 2
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-beautifully-renovated-1br/7937882372.html
-- **First found:** 2026-05-31
-- **Last verified:** 2026-05-31 (Run 122)
-- **Type:** 1BR apartment (standalone unit — lower flat in 2-unit building)
-- **Location:** Castro / Eureka Valley — lat 37.765226, lng -122.435424 (confirmed accepted neighborhood; near Castro St, upper Market area, MUNI)
-- **Size:** 914 sq ft
-- **BR/BA:** 1BR/1BA (private bathroom — standalone 1BR/1BA unit with private entrance)
-- **Rent:** $1,450/mo; no utilities stated → effective ~$1,510–1,540/mo with PG&E
-- **Deposit:** not listed ($35 refundable app + $150 admin/holding fee)
-- **Lease:** monthly
-- **Available:** Now (open houses 5/31, 6/1, 6/2)
-- **Laundry:** in-unit (W/D in unit — confirmed in CL attrs)
-- **Parking:** off-street (attached garage — confirmed in CL attrs)
-- **Pet policy:** cats OK, dogs OK
-- **Other amenities:** AC, EV charging, private entrance, lower-level unit in 2-unit building; near Castro St shopping and MUNI lines
-- **Photos:** individual landlord listing (specific open house dates listed)
-- **Posting age:** <2 hours (posted 2026-05-31)
-- **Poster:** individual landlord — same $35/app + $150 admin fee structure and "text me your number" style as Ranks 5 and 6 (Castro/Mission and Pacific Heights) — appears to be same individual landlord with multiple units across SF
-- **Income-restricted?:** No
-- **vs. market:** 1BRs in Castro typically $2,800–$4,000+; at $1,450 (effective ~$1,510–1,540) this is 55–65% below market — almost certainly a rent-controlled unit relisted after long-term tenancy
-- **Notes:** Freshest listing this run — posted this morning. Lower flat in 2-unit building in Castro/Eureka Valley. 914sqft is very spacious for a 1BR. Private entrance. Full kitchen confirmed ("separate kitchen and living space"). W/D in unit + attached garage + AC + EV charging at $1,450 monthly is outstanding value. ⚠️ PRICE FLAG: $1,450 for 914sqft Castro 1BR is 55–65% below market — most likely rent-controlled. Same landlord posting style as Ranks 5 and 6 (those haven't been flagged). Open houses today, tomorrow, Tuesday — contact immediately.
+- **Notes:** All utilities included (water, garbage, electricity) — strong effective-cost deal. Private bath (standalone 0BR/1BA). Kitchen is a kitchenette — qualifies under minimum kitchen requirement. In-building laundry. Furnished or unfurnished (flexible). Rent-controlled. Huge walk-in closet. International students welcome. 1-year lease. ⚠️ NOW 20 DAYS OLD — contact MMG today before this rents.
 
 ---
 
 ### Mission / Potrero Hill Private Room — 3BD/3BA Apt — En-Suite Bath — $1,593/mo — Craigslist
-- **Rank:** 3
+- **Rank:** 2
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1bed-1bath-in-3bed-3bath/7937398788.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Room
 - **Location:** Mission District / Potrero Hill border — lat 37.753121, lng -122.404363 (confirmed accepted neighborhood; near 22nd St BART, Potrero Hill, Mission)
 - **Size:** not listed (room); apartment is 2,000 sq ft total per listing
@@ -95,12 +67,12 @@ Total runs: 122
 ---
 
 ### Russian Hill Private Room — Polk St 3BR/2BA — Private Bath — $1,700/mo + utils — Craigslist
-- **Rank:** 4
+- **Rank:** 3
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-with-private-bath/7937728510.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Room
 - **Location:** Polk St, Russian Hill — lat 37.795675, lng -122.421920 (confirmed accepted neighborhood; near Polk/Broadway, half block from Walgreens + Bi-Rite, 2 min from 12/49 buses)
 - **Size:** ~12x11 ft room; 3BR/2BA apartment total
@@ -114,7 +86,7 @@ Total runs: 122
 - **Pet policy:** not listed — inquire
 - **Other amenities:** large closet, quiet side of apartment (away from street), top-floor unit, near Bi-Rite + Trader Joe's + Whole Foods (~10 min), 12 bus to FiDi, 49 on Van Ness, 1 California ~5 min walk
 - **Photos:** individual listing (specific description, credible)
-- **Posting age:** <1 day (posted 2026-05-31)
+- **Posting age:** 1 day (posted 2026-05-31)
 - **Poster:** two professionals in their late 20s–30s (29M small business owner, 28M software engineer) — specific and credible, no scam flags; standard CL /roo/ posting
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Russian Hill typically $2,000–$2,500+; at $1,700 + minor utility split (effective ~$1,735–1,750), this is 15–30% below market for Russian Hill
@@ -122,69 +94,13 @@ Total runs: 122
 
 ---
 
-### Castro/Mission 1BR Standalone — #505 — $1,700/mo — W/D In-Unit + Parking + AC — Craigslist
-- **Rank:** 5
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1br-hayes-valley-bedroom1/7937751992.html
-- **First found:** 2026-05-31
-- **Last verified:** 2026-05-31 (Run 122)
-- **Type:** 1BR apartment (standalone unit)
-- **Location:** Van Ness Ave / Mission-Castro border — lat 37.761576, lng -122.417142 (confirmed accepted neighborhood; near 16th–17th St, Mission/Castro/Dolores Park area)
-- **Size:** not listed; top floor (unit 505), corner unit, 5-story building
-- **BR/BA:** 1BR/1BA (private bathroom — standalone 0BR/1BA unit; CL attrs: "1BR/1BA")
-- **Rent:** $1,700/mo; no utilities stated → effective ~$1,760–1,810/mo with PG&E + misc
-- **Deposit:** $29 (refundable application fee only — unusually low deposit; confirm actual security deposit with landlord)
-- **Lease:** monthly
-- **Available:** not stated (inquire)
-- **Laundry:** in-unit (W/D in unit — confirmed in CL attrs)
-- **Parking:** off-street (included — confirmed in CL attrs)
-- **Pet policy:** cats OK, dogs OK (CL attrs)
-- **Other amenities:** bay windows (main room + kitchen facing Larch St), hardwood floors, walk-in closet, multiple standard closets, small dining area in kitchen, AC, EV charging, wheelchair accessible; near 16th St BART, MUNI lines
-- **Photos:** individual listing
-- **Posting age:** <1 day (posted 2026-05-31)
-- **Poster:** individual landlord — informal tone ("If you interested please text me your number") — no PM company; title has unusual */* formatting characters (individual landlord CL style); $29 refundable app fee suggests low-friction process
-- **Income-restricted?:** No
-- **vs. market:** 1BR with W/D in-unit + parking + AC in Castro/Mission typically $2,500–$3,500+; at $1,700 monthly this is 35–50% below market — extremely good value if confirmed legitimate
-- **Notes:** Standalone 1BR/1BA unit on Van Ness (likely 17th St area, Mission/Castro border) — private bath confirmed (standalone unit). W/D in unit + off-street parking + AC + EV charging at $1,700 monthly is exceptional. Kitchen confirmed (ample cabinet space + small dining area in description) — ⚠️ stove/cooking appliances not explicitly listed; confirm gas range or cooktop before applying. Bay windows in main room and kitchen. Top-floor corner unit (#505 in 5-story building). Cats + dogs OK. Title has */* formatting (individual landlord aesthetic — not a scam indicator per se). ⚠️ VERIFY: confirm stove/cooking appliances, actual security deposit amount, and move-in date. Monthly lease is a strong positive. Fresh listing posted today.
-
----
-
-### Pacific Heights 1BR/1BA — Near Union Street — 550sqft — $1,770/mo — Craigslist
-- **Rank:** 6
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-timeless-pacific-heights/7937759912.html
-- **First found:** 2026-05-31
-- **Last verified:** 2026-05-31 (Run 122)
-- **Type:** 1BR apartment (standalone unit)
-- **Location:** Pacific Heights, near Union Street — lat 37.799900, lng -122.434200 (confirmed accepted neighborhood; Cow Hollow/Pacific Heights border; near Union St boutiques, cafes, restaurants)
-- **Size:** 550 sq ft
-- **BR/BA:** 1BR/1BA (private bathroom — standalone 1BR/1BA unit per CL attrs; separate toilet room noted)
-- **Rent:** $1,770/mo; no utilities stated → effective ~$1,830–1,880/mo with PG&E
-- **Deposit:** $150 admin/holding fee + $29 refundable app fee
-- **Lease:** monthly
-- **Available:** not stated (inquire)
-- **Laundry:** in-unit (W/D in unit — confirmed in CL attrs)
-- **Parking:** off-street (included — confirmed in CL attrs)
-- **Pet policy:** cats OK, dogs OK
-- **Other amenities:** marble countertops, stainless steel appliances, wine cooler, custom cabinetry, hardwood floors, recessed lighting, elegant trim, separate toilet room in bath, private porch opening to terraced garden, AC; walkable to Union St shopping/dining, easy access to parks
-- **Photos:** individual listing (detailed description, specific amenities)
-- **Posting age:** 1 day (posted 2026-05-30)
-- **Poster:** individual landlord ("If you interested please text me your number") — same informal tone as Castro/Mission 1BR Rank 4; $29 refundable app + $150 admin fee; no PM company
-- **Income-restricted?:** No
-- **vs. market:** 1BRs in Pacific Heights typically $3,500–$5,000+; at $1,770 (effective ~$1,830–1,880) this is 50%+ below market for the neighborhood — likely rent-controlled unit
-- **Notes:** Fresh listing posted yesterday. Standalone 1BR/1BA unit near Union Street in Pacific Heights — one of SF's premier neighborhoods. W/D in unit + off-street parking + AC + private porch with terraced garden at $1,770 is exceptional value. Full kitchen with marble countertops, stainless appliances, wine cooler. Private bath with separate toilet room. Posting style identical to Castro/Mission 1BR Rank 4 (same landlord likely — both have */* or *+* title formatting, $29 refundable app + $150 admin, "text me your number" language). Both listings may be from the same individual landlord with multiple units. Monthly lease. ⚠️ Price 50%+ below market — verify unit condition before applying. Contact quickly — Pacific Heights units at this price sell within 24–48 hours.
-
----
-
 ### Haight-Ashbury Victorian Room — Private Bath — Full Kitchen — $1,500/mo + utils — Craigslist
-- **Rank:** 7
+- **Rank:** 4
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-bedroom-available/7936186919.html
 - **First found:** 2026-05-23
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Room
 - **Location:** Haight-Ashbury / Cole Valley — lat 37.771200, lng -122.441300 (confirmed accepted neighborhood; near N Judah, 1 block from GGP)
 - **Size:** not listed
@@ -207,12 +123,12 @@ Total runs: 122
 ---
 
 ### 925 Geary St #102 — 318sqft — $1,695/mo — Brick+Timber — Craigslist ♻️ RELISTED (3rd+ URL)
-- **Rank:** 8
+- **Rank:** 5
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7937301439.html
 - **First found:** 2026-05-26 (original URL 7936597890; relisted 2026-05-28 as URLs 7937147614 and 7937301439)
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Studio
 - **Location:** 925 Geary St #102, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; Brick+Timber managed, near Jefferson Square Park)
 - **Size:** 318–364 sq ft (size varies slightly between relist postings)
@@ -235,12 +151,12 @@ Total runs: 122
 ---
 
 ### Charming Off-Street Studio — Nob Hill — $1,800/mo — Craigslist
-- **Rank:** 9
+- **Rank:** 6
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -254,7 +170,7 @@ Total runs: 122
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** two-burner stovetop, microwave, refrigerator, hardwood floors, elevator, large closet, rent-controlled (SF Rent Ordinance)
 - **Photos:** Meridian Management Group listing (professional)
-- **Posting age:** 17 days (posted 2026-05-15) ⚠️ 17 DAYS — contact MMG soon
+- **Posting age:** 17 days (posted 2026-05-15) ⚠️ 17 DAYS — contact MMG soon (June 1 availability — today)
 - **Poster:** Yoli Handoko / MMG (Meridian Management Group) — same credible management as 620 Jones #808. $30 application fee.
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,800 with water+trash included (effective ~$1,750), at the low end for the neighborhood and management quality
@@ -263,12 +179,12 @@ Total runs: 122
 ---
 
 ### Polk Gulch Kitchenette Studio — 729 Ellis St #509 — Top Floor — $1,795/mo — Craigslist
-- **Rank:** 10
+- **Rank:** 7
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-efficient-studio-with/7936786873.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Studio
 - **Location:** 729 Ellis St #509, Polk Gulch — lat 37.784177, lng -122.418180 (borderline Polk Gulch / TL boundary; same building previously accepted as Polk Gulch Run 101; east of Polk, just west of Larkin — not TL by strict east-of-Larkin rule)
 - **Size:** not listed; top floor (unit 509)
@@ -282,7 +198,7 @@ Total runs: 122
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** cooktop + mini fridge (kitchenette), top floor unit, elevator, controlled access; management uses schedule-a-tour.com
 - **Photos:** management listing (schedule-a-tour.com scheduling)
-- **Posting age:** 5 days (posted 2026-05-26)
+- **Posting age:** 6 days (posted 2026-05-26)
 - **Poster:** property management company (schedule-a-tour.com) — same operator as previous 729 Ellis #102 ($1,995, removed Run 101 when deleted by author)
 - **Income-restricted?:** No
 - **vs. market:** Studios in Polk Gulch / borderline Nob Hill typically $1,700–$2,100; at $1,795 (no utilities, effective ~$1,895–1,950) this is at the lower end for the area
@@ -291,12 +207,12 @@ Total runs: 122
 ---
 
 ### Lower Nob Hill Jr 1BR — 711 Leavenworth #1 — 400sqft — $1,895 + $100 utils — Craigslist ♻️ RELISTED (2nd URL)
-- **Rank:** 11
+- **Rank:** 8
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7937030980.html
 - **First found:** 2026-05-25 (original URL 7936447899; deleted by author 2026-05-27; relisted same day as URL 7937030980)
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth, between Sutter and Post)
 - **Size:** 400 sq ft
@@ -310,7 +226,7 @@ Total runs: 122
 - **Pet policy:** no pets
 - **Other amenities:** gas range (stove), microwave, refrigerator, large closets, rent-controlled, hardwood floors, double pane windows
 - **Photos:** The Apartment Plug (TAP) scheduling app — professional management listing
-- **Posting age:** 4 days since relist (relisted 2026-05-27); originally first listed 2026-05-25 (7 days total market time)
+- **Posting age:** 5 days since relist (relisted 2026-05-27); originally first listed 2026-05-25 (7 days total market time)
 - **Poster:** GRM Properties LLC / Beam Properties, Inc — legitimate professional SF property management
 - **Income-restricted?:** No
 - **vs. market:** Jr 1BRs in Lower Nob Hill typically $2,000–$2,500; at $1,895 stated ($1,995 all-in with fixed utilities), this is at the low end
@@ -319,12 +235,12 @@ Total runs: 122
 ---
 
 ### Mission Victorian House — Private Room + Private Bath — $1,850/mo + utils — Craigslist
-- **Rank:** 12
+- **Rank:** 9
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-private-bathroom/7937406014.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Room
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, 101 freeway)
 - **Size:** not listed (11x11 per body text; main-floor bedroom)
@@ -338,7 +254,7 @@ Total runs: 122
 - **Pet policy:** no pets
 - **Other amenities:** shared full kitchen on main floor (large, connected to small terrace), backyard with BBQ + fire pit + hammock + plum tree, partial furnishings negotiable (bed/dresser/TV stand from departing roommate), office space adjacent to room, great afternoon light
 - **Photos:** individual listing (no count)
-- **Posting age:** 2 days (posted 2026-05-29)
+- **Posting age:** 3 days (posted 2026-05-29)
 - **Poster:** professionals in their 30s–40s, 3-person Victorian house share; one roommate 8 years in house, one almost 2 years — credible, detailed description, no scam flags; listing via standard CL /roo/ posting
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Mission District typically $1,800–$2,300+; at $1,850 nominal (effective ~$1,970/mo with utilities), this is near the low end for confirmed private bath in an accepted neighborhood
@@ -347,12 +263,12 @@ Total runs: 122
 ---
 
 ### Studio in Theater District — 410sqft — $1,850/mo — Craigslist ♻️ RELISTED (2nd URL)
-- **Rank:** 13
+- **Rank:** 10
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-in-theater-district/7937514812.html
 - **First found:** 2026-05-19 (original URL 7934713735; relisted 2026-05-29 as URL 7937514812)
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Studio
 - **Location:** Theater District / Lower Nob Hill — lat 37.787200, lng -122.411299 (confirmed just above TL boundary; Geary/Jones/Taylor area, south side of building overlooking Derby Alley)
 - **Size:** 410 sq ft
@@ -366,7 +282,7 @@ Total runs: 122
 - **Pet policy:** no dogs; cats not mentioned (inquire)
 - **Other amenities:** granite countertops, gas range with built-in microwave above, maple cabinetry, laminated flooring throughout main room/hallway/closets, tiled kitchen and bathroom, two closets plus built-in office space with desk, south-facing windows overlooking Derby Alley; near Muni lines 38/2/3/27, BART, cable car
 - **Photos:** individual listing (description specific and credible)
-- **Posting age:** 2 days (relisted 2026-05-29); originally first listed 2026-05-19 (12 days total market time across 2 URLs)
+- **Posting age:** 3 days (relisted 2026-05-29); originally first listed 2026-05-19 (13 days total market time across 2 URLs)
 - **Poster:** individual landlord (owner-supervised building; private viewing available by email reply) — building described as "vintage, well-maintained quiet apartment building"; no PM company; no scam flags in description
 - **Income-restricted?:** No
 - **vs. market:** Studios in Theater District/Lower Nob Hill typically $1,800–$2,200; at $1,850 (no utils, effective ~$1,950–2,050), near the low end for the area and size
@@ -375,12 +291,12 @@ Total runs: 122
 ---
 
 ### Light-Filled Studio w/ Bay Windows + Full Kitchen — Nob Hill — $1,950/mo + RUBS — Craigslist
-- **Rank:** 14
+- **Rank:** 11
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lightfilled-studio-bay/7935727806.html
 - **First found:** 2026-05-21
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed NOT Tenderloin — lat 37.7917 is well above 37.787 threshold; CL now labels "tenderloin" which is incorrect)
 - **Size:** 315 sq ft
@@ -394,7 +310,7 @@ Total runs: 122
 - **Pet policy:** cats OK, dogs OK (negotiable)
 - **Other amenities:** full-size kitchen appliances, bay windows with open city views, hardwood floors, high ceilings, breakfast bar, full bathroom with tub + window, rent-controlled, furnished option likely
 - **Photos:** not counted separately (individual listing, ~4 hours old at discovery)
-- **Posting age:** 11 days (posted 2026-05-21)
+- **Posting age:** 11 days (posted 2026-05-21) ⚠️ approaching 2-week mark
 - **Poster:** individual landlord; $25 application fee; no name listed — no obvious red flags
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,950 this is at the low end nominally, but RUBS overhead pushes effective cost to ~$2,050–2,150
@@ -403,12 +319,12 @@ Total runs: 122
 ---
 
 ### Lower Nob Hill Studio — 925 Geary St #310 — 295sqft — $1,895/mo — Craigslist ♻️ RELISTED (10th+ URL, 7+ weeks)
-- **Rank:** 15
+- **Rank:** 12
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7937548574.html
 - **First found:** 2026-05-14 (original first found; relisted 12th+ time; most recent URL 7937548574 found Run 115; still active Run 119)
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; same building as Ranks 4 and 9; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -430,7 +346,7 @@ Total runs: 122
 
 ---
 
-## Active Listings — Group 3BR/2+BA (cap 10) — 3 active
+## Active Listings — Group 3BR/2+BA (cap 10) — 2 active
 
 ### Potrero Hill 3BR/2BA Upstairs Condo — 1,050sqft — $3,850/mo — Craigslist ⚠️ 3rd BR verify
 - **Rank:** 1
@@ -438,7 +354,7 @@ Total runs: 122
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lovely-bedroom-bath/7933763304.html
 - **First found:** 2026-05-26
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Apartment / Condo (upstairs unit in multi-unit building)
 - **Location:** Potrero Hill — lat 37.754571, lng -122.401589 (confirmed accepted neighborhood; near 22nd Caltrain, Dogpatch, Mission 24th St)
 - **Size:** 1,050 sq ft
@@ -452,7 +368,7 @@ Total runs: 122
 - **Pet policy:** cats OK, dogs OK (up to 20 lbs)
 - **Other amenities:** renovated kitchen (dishwasher, gas range/oven, refrigerator, wine fridge), renovated bathrooms, hardwood floors in living areas, new carpet in bedrooms, shared soaking pool + hot tub, gym, BBQ grill + patio set, private outdoor deck with gas line, walk score 88
 - **Photos:** individual landlord via TurboTenant
-- **Posting age:** 19 days (posted 2026-05-12) ⚠️ contact to verify price discrepancy + 3rd BR status — now 19 days on market ⚠️ URGENT
+- **Posting age:** 20 days (posted 2026-05-12) ⚠️ contact to verify price discrepancy + 3rd BR status — now 20 days on market ⚠️ URGENT
 - **Poster:** individual landlord via TurboTenant — no name listed; no obvious scam flags
 - **Income-restricted?:** No
 - **vs. market:** 3BR/2BA in Potrero Hill typically $5,000–$6,500; at $3,850 listed (or $4,300 body text) this is 20–40% below market — if confirmed at CL price, exceptional value
@@ -460,41 +376,13 @@ Total runs: 122
 
 ---
 
-### Outer Richmond 3BR/2BA House — 877 44th Ave — 1,648sqft — $4,500/mo — Craigslist
-- **Rank:** 2
-- **Mode:** Group
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-friendly-3br-2ba-charming/7937872941.html
-- **First found:** 2026-05-31
-- **Last verified:** 2026-05-31 (Run 122)
-- **Type:** Single-family house
-- **Location:** 877 44th Ave, Outer Richmond — lat 37.772059, lng -122.504575 (confirmed Outer Richmond — accepted neighborhood; near the ocean, Balboa/Cabrillo area, blocks from the beach)
-- **Size:** 1,648 sq ft
-- **BR/BA:** 3BR/2BA (confirmed in title and CL attrs)
-- **Rent:** $4,500/mo (no utilities stated)
-- **Deposit:** not listed ($39 refundable app + $200 admin/holding fee)
-- **Lease:** monthly
-- **Available:** Now (open houses 5/31, 6/1, 6/2)
-- **Laundry:** in-unit (W/D in unit — confirmed in CL attrs)
-- **Parking:** off-street (confirmed in CL attrs)
-- **Pet policy:** cats OK, dogs OK
-- **Other amenities:** beautiful parquet wood floors, built-in entry closet, formal living and dining area, ornamental fireplace, sunlit front steps; 1st time on rental market in 40 years; near beach and GG Park
-- **Photos:** professional management listing (open house dates)
-- **Posting age:** <3 hours (posted 2026-05-31)
-- **Poster:** Sunrise Management Company dba Sunrise Management — Broker Joseph S. Greenblatt (License No. 01064415); License 00927850 — highly credible professional management
-- **Income-restricted?:** No
-- **vs. market:** 3BR/2BA houses in Outer Richmond typically $5,000–$7,000+; at $4,500 this is 20–35% below market — strong value for the size and management quality
-- **Notes:** Freshest group listing this run — posted this morning. Full single-family house, 1,648sqft, 3BR/2BA confirmed. Outer Richmond neighborhood is accepted per CLAUDE.md (Richmond Inner/Central/Outer all accepted). W/D in unit + off-street parking. Cats+dogs OK. Professional management (Sunrise/Greenblatt — credible). "1st time on rental market in 40 years" — family-owned home coming to market fresh. Monthly lease. Description mentions parquet floors, formal living/dining, ornamental fireplace — well-maintained classic SF home. Open houses today, tomorrow, Tuesday — contact Sunrise Management immediately.
-
----
-
 ### Remodeled Park View 3BR/2BA House — Inner Sunset — $4,650/mo — Craigslist
-- **Rank:** 3
+- **Rank:** 2
 - **Mode:** Group
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-10min-walk-to-ucsf-remodeled/7931816932.html
 - **First found:** 2026-05-14
-- **Last verified:** 2026-05-31 (Run 122)
+- **Last verified:** 2026-05-31 (Run 123)
 - **Type:** Single-family house
 - **Location:** Inner Sunset — lat 37.758538, lng -122.463782 (confirmed Inner Sunset / Golden Gate Heights — accepted neighborhood)
 - **Size:** not listed
@@ -508,7 +396,7 @@ Total runs: 122
 - **Pet policy:** not listed — inquire
 - **Other amenities:** gas stove, dishwasher, stainless steel refrigerator, granite countertop kitchen, park view from living room (leather sofa set), master bedroom + large bedroom with backyard entrance, $50 application fee, N-Judah 3 blocks, GGPark 4 blocks, 10 min walk to UCSF
 - **Photos:** personal listing (current tenant seeking roommates)
-- **Posting age:** ~28 days (posted ~2026-05-03); first found by tracker 2026-05-14. July 1 availability is now ~31 days out — contact soon.
+- **Posting age:** ~29 days (posted ~2026-05-03); first found by tracker 2026-05-14. July 1 availability is now ~30 days out — contact soon.
 - **Poster:** current tenant seeking 2 new roommates — individual listing; no professional management flags; legitimate
 - **Income-restricted?:** No
 - **vs. market:** 3BR houses in Inner Sunset typically $5,500–$7,000+; at $4,650 this is 20–35% below market — strong value
@@ -517,6 +405,46 @@ Total runs: 122
 ---
 
 ## Expired / No Longer Available
+
+### Castro 1BR/1BA — Lower Flat — 914sqft — $1,450/mo — Craigslist
+- **Mode:** Solo
+- **Status:** REMOVED (flagged for removal)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-beautifully-renovated-1br/7937882372.html
+- **First found:** 2026-05-31
+- **Removed:** 2026-05-31 (Run 123)
+- **Notes:** Flagged by Craigslist within ~24 hours of posting. Was Rank 2 (solo) for one run. All three listings from this same individual landlord (Castro 1BR $1,450, Castro/Mission #505 $1,700, Pacific Heights $1,770) were flagged simultaneously — batch-flagging pattern consistent with CL detecting a landlord posting multiple similar listings at the same time. Strong specs otherwise: 914sqft, W/D in-unit, garage, AC, EV charging, Castro location.
+
+---
+
+### Castro/Mission 1BR Standalone — #505 — $1,700/mo — W/D In-Unit + Parking + AC — Craigslist
+- **Mode:** Solo
+- **Status:** REMOVED (flagged for removal)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-1br-hayes-valley-bedroom1/7937751992.html
+- **First found:** 2026-05-31
+- **Removed:** 2026-05-31 (Run 123)
+- **Notes:** Flagged by Craigslist within ~24 hours of posting alongside the Castro 1BR and Pacific Heights 1BR from the same individual landlord. Same batch-flagging pattern. Was Rank 5 (solo) for one run.
+
+---
+
+### Pacific Heights 1BR/1BA — Near Union Street — 550sqft — $1,770/mo — Craigslist
+- **Mode:** Solo
+- **Status:** REMOVED (flagged for removal)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-timeless-pacific-heights/7937759912.html
+- **First found:** 2026-05-31
+- **Removed:** 2026-05-31 (Run 123)
+- **Notes:** Flagged by Craigslist within ~24 hours of posting alongside the Castro 1BR and Castro/Mission #505 from the same individual landlord. Same batch-flagging pattern. Was Rank 6 (solo) for one run. 550sqft, W/D in-unit, garage, AC, terraced garden, Pacific Heights — strong specs, but all three of this landlord's listings flagged simultaneously.
+
+---
+
+### Outer Richmond 3BR/2BA House — 877 44th Ave — 1,648sqft — $4,500/mo — Craigslist
+- **Mode:** Group
+- **Status:** REMOVED (flagged for removal)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-friendly-3br-2ba-charming/7937872941.html
+- **First found:** 2026-05-31
+- **Removed:** 2026-05-31 (Run 123)
+- **Notes:** Flagged by Craigslist within ~24 hours of posting. Was Rank 2 (group) for one run. Sunrise Management / Broker Greenblatt listing — professional management. 1,648sqft, W/D in-unit, off-street parking, parquet floors, Outer Richmond. Fast flagging on a well-managed listing is unusual; may be a CL algorithmic error or duplicate posting flag.
+
+---
 
 ### Noe Valley 1BR/1BA — Sanchez St — 650sqft — $1,500/mo — Craigslist
 - **Mode:** Solo
@@ -1633,3 +1561,4 @@ Total runs: 122
 | 120 | 2026-05-31 | 0 | 0 | 0 | 620 Jones #808 $1,700 all-utils ⚠️ 21d+ URGENT — contact MMG now | Potrero Hill $3,850 (⚠️ 21d+ verify price+3BR URGENT) / Inner Sunset $4,650 (~29d, July 1 — contact today) |
 | 121 | 2026-05-31 | 2 new (solo) | 0 | 0 | Noe Valley 1BR $1,500+utils (NEW Rank 2, parking+AC+650sqft ⚠️ verify price) / 620 Jones #808 $1,700 all-utils ⚠️ 19d URGENT | Potrero Hill $3,850 (⚠️ 19d verify price+3BR) / Inner Sunset $4,650 (28d, July 1 — contact now) |
 | 122 | 2026-05-31 | 3 new (solo) | 1 new (group) | 1 (Noe Valley $1,500 flagged) | Castro 1BR/1BA $1,450 914sqft W/D+garage+AC (NEW Rank 2) / Mission/Potrero Room $1,593 en-suite (NEW Rank 3) / 620 Jones #808 $1,700 all-utils ⚠️ 19d | NEW: Outer Richmond 3BR/2BA house $4,500 Rank 2 / Potrero Hill $3,850 Rank 1 (⚠️ 19d verify URGENT) |
+| 123 | 2026-05-31 | 0 | 0 | 4 (Castro 1BR $1,450 + Castro/Mission #505 $1,700 + Pacific Heights $1,770 + Outer Richmond house $4,500 — all flagged) | 620 Jones #808 $1,700 all-utils ⚠️ 20d URGENT / Mission/Potrero Room $1,593 (Rank 2) | Potrero Hill $3,850 Rank 1 (⚠️ 20d verify price+3BR URGENT) / Inner Sunset $4,650 Rank 2 (~29d, July 1) |
