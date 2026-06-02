@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-01 (Run 126)
-Total runs: 126
+Last updated: 2026-06-01 (Run 127)
+Total runs: 127
 
 ## Best Current Listings
-- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 20 DAYS — contact MMG today). 0 new solo finds this run; all 12 active listings verified live. Facebook Marketplace partially loaded — no new qualifying SF listings found.
-- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (Rank 1 — ONLY ACTIVE GROUP — ⚠️ NOW 20 DAYS, price discrepancy + 3BR verify — contact today). 0 new group finds this run; multiple CL 3BRs checked and rejected (1BA only, wrong neighborhood, or no laundry).
+- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 20 DAYS — contact MMG today). 0 new solo finds this run; 925 Geary #102 deleted by author (removed). Facebook Marketplace — no new qualifying SF listings found.
+- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (Rank 1 — ONLY ACTIVE GROUP — ⚠️ NOW 20 DAYS, price discrepancy + 3BR verify — contact today). 0 new group finds this run; all checked 3BRs rejected (1BA only, wrong neighborhood, or no laundry).
 
 ---
 
-## Active Listings — Solo (cap 20) — 12 active
+## Active Listings — Solo (cap 20) — 11 active
 
 ### Furnished Studio — 620 Jones St #808 — Nob Hill — $1,700/mo all utilities incl. — Craigslist
 - **Rank:** 1
@@ -16,7 +16,7 @@ Total runs: 126
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -44,7 +44,7 @@ Total runs: 126
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1bed-1bath-in-3bed-3bath/7937398788.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Room
 - **Location:** Mission District / Potrero Hill border — lat 37.753121, lng -122.404363 (confirmed accepted neighborhood; near 22nd St BART, Potrero Hill, Mission)
 - **Size:** not listed (room); apartment is 2,000 sq ft total per listing
@@ -72,7 +72,7 @@ Total runs: 126
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-with-private-bath/7937728510.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Room
 - **Location:** Polk St, Russian Hill — lat 37.795675, lng -122.421920 (confirmed accepted neighborhood; near Polk/Broadway, half block from Walgreens + Bi-Rite, 2 min from 12/49 buses)
 - **Size:** ~12x11 ft room; 3BR/2BA apartment total
@@ -100,7 +100,7 @@ Total runs: 126
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-noe-valley/7938017611.html
 - **First found:** 2026-06-01
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** 1BR apartment (garden level)
 - **Location:** Noe Valley — lat 37.744396, lng -122.428417 (confirmed accepted neighborhood; southern Noe Valley, garden-level unit)
 - **Size:** 600 sq ft
@@ -122,41 +122,13 @@ Total runs: 126
 
 ---
 
-### 925 Geary St #102 — 318sqft — $1,695/mo — Brick+Timber — Craigslist ♻️ RELISTED (3rd+ URL)
-- **Rank:** 5
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7937301439.html
-- **First found:** 2026-05-26 (original URL 7936597890; relisted 2026-05-28 as URLs 7937147614 and 7937301439)
-- **Last verified:** 2026-06-01 (Run 126)
-- **Type:** Studio
-- **Location:** 925 Geary St #102, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; Brick+Timber managed, near Jefferson Square Park)
-- **Size:** 318–364 sq ft (size varies slightly between relist postings)
-- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit)
-- **Rent:** $1,695/mo (no utilities included → effective ~$1,800–1,850/mo with PG&E + water/trash est.)
-- **Deposit:** $1,000 with approved credit
-- **Lease:** monthly
-- **Available:** Now
-- **Laundry:** in-building (common area laundry)
-- **Parking:** street only
-- **Pet policy:** cats OK, dogs OK (up to 70 lbs; breed restrictions; pet rent applies)
-- **Other amenities:** gas range, refrigerator, kitchen hood, hardwood floors, walk-in closet, elevator, gated entry, storage, Matterport virtual tour, online payment portal, rent-controlled
-- **Photos:** Matterport virtual tour available (professional quality)
-- **Posting age:** 3 days since last relist (relisted 2026-05-29); original first listed 2026-05-26 (6 days market time across URLs)
-- **Poster:** Brick + Timber (contact Pieter) — highly credible management; $58 application fee
-- **Income-restricted?:** No
-- **vs. market:** Studios in Lower Nob Hill typically $1,800–$2,200; at $1,695 (no utilities) this is notably below market for Brick+Timber quality management
-- **Notes:** ♻️ RELISTED — third+ URL cycle. Original URL 7936597890 still active; new relists 7937147614 and 7937301439 appeared Run 110. Brick+Timber refreshing CL position. Gas range + refrigerator confirm full kitchen. Private bath (standalone studio). Walk-in closet. Monthly lease. Pets OK. Reduced $1,000 security deposit with approved credit. Contact Pieter at Brick+Timber.
-
----
-
 ### Charming Off-Street Studio — Nob Hill — $1,800/mo — Craigslist
-- **Rank:** 6
+- **Rank:** 5
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -170,7 +142,7 @@ Total runs: 126
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** two-burner stovetop, microwave, refrigerator, hardwood floors, elevator, large closet, rent-controlled (SF Rent Ordinance)
 - **Photos:** Meridian Management Group listing (professional)
-- **Posting age:** 17 days (posted 2026-05-15) ⚠️ 17 DAYS — contact MMG soon (June 1 availability)
+- **Posting age:** 17 days (posted 2026-05-15) ⚠️ 17 DAYS — contact MMG soon (June 1 availability — may be rented)
 - **Poster:** Yoli Handoko / MMG (Meridian Management Group) — same credible management as 620 Jones #808. $30 application fee.
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,800 with water+trash included (effective ~$1,750), at the low end for the neighborhood and management quality
@@ -179,12 +151,12 @@ Total runs: 126
 ---
 
 ### Polk Gulch Kitchenette Studio — 729 Ellis St #509 — Top Floor — $1,795/mo — Craigslist
-- **Rank:** 7
+- **Rank:** 6
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-efficient-studio-with/7936786873.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Studio
 - **Location:** 729 Ellis St #509, Polk Gulch — lat 37.784177, lng -122.418180 (borderline Polk Gulch / TL boundary; same building previously accepted as Polk Gulch Run 101; east of Polk, just west of Larkin — not TL by strict east-of-Larkin rule)
 - **Size:** not listed; top floor (unit 509)
@@ -207,12 +179,12 @@ Total runs: 126
 ---
 
 ### Lower Nob Hill Jr 1BR — 711 Leavenworth #1 — 400sqft — $1,895 + $100 utils — Craigslist ♻️ RELISTED (2nd URL)
-- **Rank:** 8
+- **Rank:** 7
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7937030980.html
 - **First found:** 2026-05-25 (original URL 7936447899; deleted by author 2026-05-27; relisted same day as URL 7937030980)
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth, between Sutter and Post)
 - **Size:** 400 sq ft
@@ -235,12 +207,12 @@ Total runs: 126
 ---
 
 ### Mission Victorian House — Private Room + Private Bath — $1,880/mo + utils — Craigslist ⚠️ PRICE CHANGED
-- **Rank:** 9
+- **Rank:** 8
 - **Mode:** Solo
 - **Status:** PRICE CHANGED ($1,850 → $1,880)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-private-bathroom/7937406014.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Room
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, 101 freeway)
 - **Size:** not listed (11x11 per body text; main-floor bedroom)
@@ -263,12 +235,12 @@ Total runs: 126
 ---
 
 ### Studio in Theater District — 410sqft — $1,850/mo — Craigslist ♻️ RELISTED (2nd URL)
-- **Rank:** 10
+- **Rank:** 9
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-in-theater-district/7937514812.html
 - **First found:** 2026-05-19 (original URL 7934713735; relisted 2026-05-29 as URL 7937514812)
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Studio
 - **Location:** Theater District / Lower Nob Hill — lat 37.787200, lng -122.411299 (confirmed just above TL boundary; Geary/Jones/Taylor area, south side of building overlooking Derby Alley)
 - **Size:** 410 sq ft
@@ -291,12 +263,12 @@ Total runs: 126
 ---
 
 ### Light-Filled Studio w/ Bay Windows + Full Kitchen — Nob Hill — $1,950/mo + RUBS — Craigslist
-- **Rank:** 11
+- **Rank:** 10
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lightfilled-studio-bay/7935727806.html
 - **First found:** 2026-05-21
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed NOT Tenderloin — lat 37.7917 is well above 37.787 threshold; CL now labels "tenderloin" which is incorrect)
 - **Size:** 315 sq ft
@@ -318,13 +290,13 @@ Total runs: 126
 
 ---
 
-### Lower Nob Hill Studio — 925 Geary St #310 — 295sqft — $1,895/mo — Craigslist ♻️ RELISTED (10th+ URL, 7+ weeks)
-- **Rank:** 12
+### Lower Nob Hill Studio — 925 Geary St #310 — 295sqft — $1,895/mo — Craigslist ♻️ RELISTED (13th+ URL, 7+ weeks)
+- **Rank:** 11
 - **Mode:** Solo
 - **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7937548574.html
-- **First found:** 2026-05-14 (original first found; relisted 12th+ time; most recent URL 7937548574 found Run 115; still active Run 119)
-- **Last verified:** 2026-06-01 (Run 126)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7938162572.html
+- **First found:** 2026-05-14 (original first found; relisted 13th+ time; latest URL 7938162572 found Run 127; prior URL 7937548574 also still active)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; same building as Ranks 4 and 9; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -338,11 +310,11 @@ Total runs: 126
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** separated kitchen (confirmed in body), dishwasher (title), hardwood floors, rent-controlled, Matterport virtual tour, 13-min walk to Union Square
 - **Photos:** Matterport virtual tour (professional quality)
-- **Posting age:** fresh relist (current URL 7937548574 appeared 2026-05-29); originally first listed 2026-05-14 — now 7 weeks total market time across 12+ URLs ⚠️ EXTREME STALENESS
+- **Posting age:** fresh relist (current URL 7938162572 appeared 2026-06-01, ~3h ago); originally first listed 2026-05-14 — now 7+ weeks total market time across 13+ URLs ⚠️ EXTREME STALENESS
 - **Poster:** Brick + Timber (contact Pieter) — highly credible management
 - **Income-restricted?:** No
 - **vs. market:** Studios in Lower Nob Hill typically $1,800–$2,200; at $1,895 (no utilities) this is near mid-market for the area — not a steal
-- **Notes:** ♻️ RELISTED (12th+ URL) — this unit was first tracked 2026-05-14 and pruned in Run 52 for cap reasons. Has been continuously relisted under new CL URLs every few days since. 7 weeks on market without renting is a ⚠️ EXTREME STALENESS FLAG — strongly suggests condition, access, or pricing issues not apparent from the listing. Reduced $1,000 security deposit with approved credit suggests landlord is motivated. Separated kitchen and dishwasher (confirmed in title/body) are genuine positives. Monthly lease and pets OK add flexibility. But compared to the Rank 4 listing ($1,695, same building) this is worse value at $1,895 with no additional benefits. Rank 11 reflects extreme staleness; only contact as a last resort.
+- **Notes:** ♻️ RELISTED (13th+ URL) — this unit was first tracked 2026-05-14. Has been continuously relisted under new CL URLs every few days since. 7+ weeks on market without renting is a ⚠️ EXTREME STALENESS FLAG — strongly suggests condition, access, or pricing issues. Reduced $1,000 security deposit with approved credit suggests landlord is motivated. Separated kitchen and dishwasher (confirmed in title/body) are genuine positives. Monthly lease and pets OK add flexibility. Rank 11 reflects extreme staleness; only contact as a last resort.
 
 ---
 
@@ -354,7 +326,7 @@ Total runs: 126
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lovely-bedroom-bath/7933763304.html
 - **First found:** 2026-05-26
-- **Last verified:** 2026-06-01 (Run 126)
+- **Last verified:** 2026-06-01 (Run 127)
 - **Type:** Apartment / Condo (upstairs unit in multi-unit building)
 - **Location:** Potrero Hill — lat 37.754571, lng -122.401589 (confirmed accepted neighborhood; near 22nd Caltrain, Dogpatch, Mission 24th St)
 - **Size:** 1,050 sq ft
@@ -368,7 +340,7 @@ Total runs: 126
 - **Pet policy:** cats OK, dogs OK (up to 20 lbs)
 - **Other amenities:** renovated kitchen (dishwasher, gas range/oven, refrigerator, wine fridge), renovated bathrooms, hardwood floors in living areas, new carpet in bedrooms, shared soaking pool + hot tub, gym, BBQ grill + patio set, private outdoor deck with gas line, walk score 88
 - **Photos:** individual landlord via TurboTenant
-- **Posting age:** 20 days (posted 2026-05-12) ⚠️ contact to verify price discrepancy + 3rd BR status — now 20 days on market ⚠️ URGENT
+- **Posting age:** 20 days (posted 2026-05-12) ⚠️ contact to verify price discrepancy + 3rd BR status — now 20+ days on market ⚠️ URGENT
 - **Poster:** individual landlord via TurboTenant — no name listed; no obvious scam flags
 - **Income-restricted?:** No
 - **vs. market:** 3BR/2BA in Potrero Hill typically $5,000–$6,500; at $3,850 listed (or $4,300 body text) this is 20–40% below market — if confirmed at CL price, exceptional value
@@ -379,6 +351,16 @@ Total runs: 126
 ---
 
 ## Expired / No Longer Available
+
+### 925 Geary St #102 — 318sqft — $1,695/mo — Brick+Timber — Craigslist
+- **Mode:** Solo
+- **Status:** REMOVED
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-102/7937301439.html
+- **First found:** 2026-05-26 (original URL 7936597890; relisted multiple times; final URL 7937301439)
+- **Removed:** 2026-06-01 (Run 127)
+- **Notes:** Deleted by its author. Was Solo Rank 5. Brick+Timber studio at 925 Geary St #102, 318–364sqft, $1,695/mo, Lower Nob Hill. Monthly lease, pets OK, gas range, walk-in closet, rent-controlled. In-building laundry. Had been relisted 3+ times since first found 2026-05-26 (6 days total on market across URLs). Likely rented.
+
+---
 
 ### Remodeled Park View 3BR/2BA House — Inner Sunset — $4,650/mo — Craigslist
 - **Mode:** Group
@@ -1559,3 +1541,4 @@ Total runs: 126
 | 124 | 2026-06-01 | 0 | 0 | 2 (Haight-Ashbury Victorian $1,500 flagged + Inner Sunset 3BR/2BA $4,650 flagged after ~30d) | 620 Jones #808 $1,700 all-utils ⚠️ 21d URGENT | Potrero Hill $3,850 Rank 1 — ONLY GROUP (⚠️ 21d verify price+3BR URGENT) |
 | 125 | 2026-06-01 | 1 (Noe Valley 1BR $1,700 W/D+parking+AC) | 0 | 0 | 620 Jones #808 $1,700 all-utils ⚠️ 20d URGENT / NEW: Noe Valley 1BR $1,700 full apt+parking+AC (Rank 4) | Potrero Hill $3,850 Rank 1 (⚠️ 20d verify price+3BR URGENT) |
 | 126 | 2026-06-01 | 0 | 0 | 0 | 620 Jones #808 $1,700 all-utils ⚠️ 20d URGENT (all 12 verified active) | Potrero Hill $3,850 Rank 1 (⚠️ 20d verify price+3BR — ONLY GROUP) |
+| 127 | 2026-06-01 | 0 | 0 | 1 (925 Geary #102 $1,695 deleted by author) | 620 Jones #808 $1,700 all-utils ⚠️ 20d CONTACT MMG TODAY | Potrero Hill $3,850 Rank 1 (⚠️ 20d+ verify price+3BR URGENT — ONLY GROUP) |
