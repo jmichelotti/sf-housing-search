@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-04 (Run 138)
-Total runs: 138
+Last updated: 2026-06-04 (Run 139)
+Total runs: 139
 
 ## Best Current Listings
-- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 23+ DAYS — contact MMG today). Chinatown 3BR/2BA private room $1,150/mo (Rank 2 — best price on board; Aug 1 availability, female preferred, no window).
-- **Group (3BR/2+BA):** Potrero Hill 3BR/2BA at $3,850/mo (Rank 1 — ONLY ACTIVE GROUP — ⚠️ NOW 23+ DAYS, price discrepancy + 3BR verify — contact today). 0 new group finds Run 138; all CL and FB 3BRs checked rejected (Bayview, 1BA only, Fairfax/non-SF, wrong neighborhood, or outside SF).
+- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 24+ DAYS — contact MMG today). Chinatown 3BR/2BA private room $1,150/mo (Rank 2 — best price on board; Aug 1 availability, female preferred, no window).
+- **Group (3BR/2+BA):** NONE — group section empty. Potrero Hill 3BR/2BA flagged for removal Run 139. All CL/FB 3BR/2+BA checked: Bayview lat 37.735, Oceanview lat 37.719, lat 37.708 Visitacion Valley, 1BA-only units, non-SF (Daly City/Fairfax/Cupertino), lat 37.719 community complex — all rejected.
 
 ---
 
-## Active Listings — Solo (cap 20) — 9 active (unchanged Run 138)
+## Active Listings — Solo (cap 20) — 9 active (all verified Run 139)
 
 ### Furnished Studio — 620 Jones St #808 — Nob Hill — $1,700/mo all utilities incl. — Craigslist
 - **Rank:** 1
@@ -16,7 +16,7 @@ Total runs: 138
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -30,11 +30,11 @@ Total runs: 138
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** furnished (if desired), hardwood floors, 3 elevators, package room, big windows with good natural light, huge walk-in closet, high floor with city light views, rent-controlled (SF Rent Ordinance)
 - **Photos:** not separately counted (managed building listing)
-- **Posting age:** 24 days (posted 2026-05-12) ⚠️ 24 DAYS — CONTACT MMG IMMEDIATELY
+- **Posting age:** 23 days (posted 2026-05-12) ⚠️ 23 DAYS — CONTACT MMG IMMEDIATELY
 - **Poster:** Yoli Handoko / MMG 203 / CalDRE #990193 (Meridian Management Group) — highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,700 all-utilities-included (effective ~$1,500–1,550), this is 35–45% below market for the all-in cost
-- **Notes:** All utilities included (water, garbage, electricity) — strong effective-cost deal. Private bath (standalone 0BR/1BA). Kitchen is a kitchenette — qualifies under minimum kitchen requirement. In-building laundry. Furnished or unfurnished (flexible). Rent-controlled. Huge walk-in closet. International students welcome. 1-year lease. ⚠️ NOW 24 DAYS OLD — contact MMG immediately before this rents.
+- **Notes:** All utilities included (water, garbage, electricity) — strong effective-cost deal. Private bath (standalone 0BR/1BA). Kitchen is a kitchenette — qualifies under minimum kitchen requirement. In-building laundry. Furnished or unfurnished (flexible). Rent-controlled. Huge walk-in closet. International students welcome. 1-year lease. ⚠️ NOW 23 DAYS OLD — contact MMG immediately before this rents.
 
 ---
 
@@ -44,7 +44,7 @@ Total runs: 138
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -72,7 +72,7 @@ Total runs: 138
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1bed-1bath-in-3bed-3bath/7937398788.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Room
 - **Location:** Mission District / Potrero Hill border — lat 37.753121, lng -122.404363 (confirmed accepted neighborhood; near 22nd St BART, Potrero Hill, Mission)
 - **Size:** not listed (room); apartment is 2,000 sq ft total per listing
@@ -100,7 +100,7 @@ Total runs: 138
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-with-private-bath/7937728510.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Room
 - **Location:** Polk St, Russian Hill — lat 37.795675, lng -122.421920 (confirmed accepted neighborhood; near Polk/Broadway, half block from Walgreens + Bi-Rite, 2 min from 12/49 buses)
 - **Size:** ~12x11 ft room; 3BR/2BA apartment total
@@ -128,7 +128,7 @@ Total runs: 138
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -142,7 +142,7 @@ Total runs: 138
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** two-burner stovetop, microwave, refrigerator, hardwood floors, elevator, large closet, rent-controlled (SF Rent Ordinance)
 - **Photos:** Meridian Management Group listing (professional)
-- **Posting age:** 21 days (posted 2026-05-15) ⚠️ 21 DAYS — contact MMG soon (June 1 availability window has passed — may already be rented)
+- **Posting age:** 20 days (posted 2026-05-15) ⚠️ 20 DAYS — contact MMG soon (June 1 availability window has passed — may already be rented)
 - **Poster:** Yoli Handoko / MMG (Meridian Management Group) — same credible management as 620 Jones #808. $30 application fee.
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,800 with water+trash included (effective ~$1,750), at the low end for the neighborhood and management quality
@@ -156,7 +156,7 @@ Total runs: 138
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-efficient-studio-with/7936786873.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Studio
 - **Location:** 729 Ellis St #509, Polk Gulch — lat 37.784177, lng -122.418180 (borderline Polk Gulch / TL boundary; same building previously accepted as Polk Gulch Run 101; east of Polk, just west of Larkin — not TL by strict east-of-Larkin rule)
 - **Size:** not listed; top floor (unit 509)
@@ -184,7 +184,7 @@ Total runs: 138
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7937030980.html
 - **First found:** 2026-05-25 (original URL 7936447899; deleted by author 2026-05-27; relisted same day as URL 7937030980)
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth, between Sutter and Post)
 - **Size:** 400 sq ft
@@ -212,7 +212,7 @@ Total runs: 138
 - **Status:** PRICE CHANGED ($1,850 → $1,880)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-private-bathroom/7937406014.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Room
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, 101 freeway)
 - **Size:** not listed (11x11 per body text; main-floor bedroom)
@@ -240,7 +240,7 @@ Total runs: 138
 - **Status:** PRICE CHANGED ($1,895 → $1,795 on 2026-06-04 under new URL)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7938763718.html
 - **First found:** 2026-05-14 (original first found; 19th+ relist; two new URLs today: 7938763718 + 7938707319; latest URL 7938763718 found Run 138)
-- **Last verified:** 2026-06-04 (Run 138)
+- **Last verified:** 2026-06-04 (Run 139)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; same building as Ranks 4 and 9; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -254,7 +254,7 @@ Total runs: 138
 - **Pet policy:** cats OK, dogs OK
 - **Other amenities:** separated kitchen (confirmed in body), dishwasher (title), hardwood floors, rent-controlled, Matterport virtual tour, 13-min walk to Union Square
 - **Photos:** Matterport virtual tour (professional quality)
-- **Posting age:** current URL 7938763718 (relisted 2026-06-04 — TWO new relists today) — 19th+ relists total; originally first listed 2026-05-14 — now 7+ weeks total market time ⚠️ EXTREME STALENESS
+- **Posting age:** current URL 7938763718 (relisted 2026-06-04 — 20th+ relists total, THIRD new URL noted today: 7938847421 also appeared Run 139 search) — originally first listed 2026-05-14 — now 7+ weeks total market time ⚠️ EXTREME STALENESS
 - **Poster:** Brick + Timber (contact Pieter) — highly credible management
 - **Income-restricted?:** No
 - **vs. market:** Studios in Lower Nob Hill typically $1,800–$2,200; at $1,795 (↓ $100, no utilities; effective ~$1,895–1,950) now slightly below mid-market for the area
@@ -262,39 +262,25 @@ Total runs: 138
 
 ---
 
-## Active Listings — Group 3BR/2+BA (cap 10) — 1 active (unchanged Run 138)
+## Active Listings — Group 3BR/2+BA (cap 10) — 0 active (Potrero Hill removed Run 139)
 
-### Potrero Hill 3BR/2BA Upstairs Condo — 1,050sqft — $3,850/mo — Craigslist ⚠️ 3rd BR verify
-- **Rank:** 1
-- **Mode:** Group
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lovely-bedroom-bath/7933763304.html
-- **First found:** 2026-05-26
-- **Last verified:** 2026-06-04 (Run 138)
-- **Type:** Apartment / Condo (upstairs unit in multi-unit building)
-- **Location:** Potrero Hill — lat 37.754571, lng -122.401589 (confirmed accepted neighborhood; near 22nd Caltrain, Dogpatch, Mission 24th St)
-- **Size:** 1,050 sq ft
-- **BR/BA:** 3BR/2BA (confirmed in CL attrs; ⚠️ 3rd bedroom currently used as office/flex — "opens up to living room, option to close off as 3rd bedroom" — verify enclosed privacy before applying)
-- **Rent:** $3,850/mo (CL listing price) ⚠️ PRICE DISCREPANCY: body text says "$4,300/mo" — verify actual rent with landlord before applying
-- **Deposit:** 1 month rent
-- **Lease:** 1-year minimum
-- **Available:** Early June 2026 (flexible)
-- **Laundry:** on-site (building laundry) + w/d hookups in unit (can install own W/D)
-- **Parking:** detached garage (1 spot in gated community) + easy street parking
-- **Pet policy:** cats OK, dogs OK (up to 20 lbs)
-- **Other amenities:** renovated kitchen (dishwasher, gas range/oven, refrigerator, wine fridge), renovated bathrooms, hardwood floors in living areas, new carpet in bedrooms, shared soaking pool + hot tub, gym, BBQ grill + patio set, private outdoor deck with gas line, walk score 88
-- **Photos:** individual landlord via TurboTenant
-- **Posting age:** 24 days (posted 2026-05-12) ⚠️ contact to verify price discrepancy + 3rd BR status — now 24 days on market ⚠️ URGENT
-- **Poster:** individual landlord via TurboTenant — no name listed; no obvious scam flags
-- **Income-restricted?:** No
-- **vs. market:** 3BR/2BA in Potrero Hill typically $5,000–$6,500; at $3,850 listed (or $4,300 body text) this is 20–40% below market — if confirmed at CL price, exceptional value
-- **Notes:** ⚠️ TWO ISSUES REQUIRING VERIFICATION BEFORE APPLYING: (1) PRICE DISCREPANCY — CL header says $3,850 but body text says $4,300/mo. Verify actual asking rent with landlord. (2) 3RD BEDROOM AMBIGUITY — currently configured as office/open space that "opens up to living room" with "option to close off as 3rd bedroom." Per tracker rules, must verify this is a fully enclosed, private bedroom before counting it. If the 3rd room cannot be fully closed off as a private bedroom, this is only a 2BR and does not qualify for group mode. Despite these flags, the listing has strong underlying metrics: Potrero Hill location, 2 confirmed bathrooms, 1,050sqft, on-site laundry + hookups, full kitchen, pets OK, garage parking, shared amenities. Now 22 days on market without renting — consistent with price confusion. Contact TurboTenant link to clarify both issues. "Early June" availability has arrived — act immediately.
+*No active group listings. Potrero Hill 3BR/2BA was flagged for removal by Craigslist on 2026-06-04 (Run 139). All new 3BR/2+BA searches this run rejected: Bayview lat 37.735, Oceanview lat 37.719, Visitacion Valley lat 37.708, 1BA-only units, non-SF locations. Group market remains thin.*
 
 ---
 
 ---
 
 ## Expired / No Longer Available
+
+### Potrero Hill 3BR/2BA Upstairs Condo — 1,050sqft — $3,850/mo — Craigslist
+- **Mode:** Group
+- **Status:** REMOVED (flagged for removal)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-lovely-bedroom-bath/7933763304.html
+- **First found:** 2026-05-26
+- **Removed:** 2026-06-04 (Run 139)
+- **Notes:** Flagged for removal by Craigslist after ~24 days on market (posted ~2026-05-12). Was Group Rank 1 — the only active group listing. Had two outstanding issues: (1) price discrepancy ($3,850 CL header vs $4,300 body text), (2) 3rd bedroom currently used as open office/flex space requiring verification of enclosed privacy. Potrero Hill location, 1,050sqft, 2 confirmed baths, on-site laundry + W/D hookups, garage parking, pets OK. Long market time consistent with price confusion; flagging may indicate landlord resolved the discrepancy by removing to relist.
+
+---
 
 ### Noe Valley 1BR/1BA Garden Apartment — 600sqft — W/D In-Unit + Parking + AC — $1,700/mo — Craigslist
 - **Mode:** Solo
@@ -1527,3 +1513,4 @@ Total runs: 138
 | 136 | 2026-06-04 | 0 | 0 | 0 (all 9 solo + 1 group verified ACTIVE; new scam pattern: "Rio Grande Apartments Palmdale" template; 535 Geary TL-border reject) | 620 Jones #808 $1,700 all-utils ⚠️ 24d CONTACT MMG IMMEDIATELY / Chinatown Room $1,150 Rank 2 | Potrero Hill $3,850 Rank 1 (⚠️ 24d verify price+3BR — ONLY GROUP, act now) |
 | 137 | 2026-06-04 | 0 | 0 | 0 (all 9 solo + 1 group verified ACTIVE; scam wave: $700–$910 fake 1BRs in Haight/Marina/Noe; Tarzana-LA copy-paste scam in Marina; shared-bath SRO near FiDi rejected; FB 3BR $1,500 = room w/shared bath) | 620 Jones #808 $1,700 all-utils ⚠️ 23+d CONTACT MMG TODAY / Chinatown Room $1,150 Rank 2 | Potrero Hill $3,850 Rank 1 (⚠️ 23+d verify price+3BR — ONLY GROUP, act now) |
 | 138 | 2026-06-04 | 0 | 0 | 0 (all 9 solo + 1 group verified ACTIVE; 925 Geary #310 relisted twice today = 19th+ URL; CL rejects: TL-border 535 Geary, shared-bath NoPa 2BR, laundromat-only rooms, Nob Hill short-term toaster-oven kitchen, Bayview/Fairfax group; FB: room-only 3BR $1,500 Inner Sunset, laundromat NoPa 2BR; 798 Post 1BR kitchen ambiguous = skip) | 620 Jones #808 $1,700 all-utils ⚠️ 23d CONTACT MMG TODAY / Chinatown Room $1,150 Rank 2 | Potrero Hill $3,850 Rank 1 (⚠️ 23d verify price+3BR — ONLY GROUP, act now) |
+| 139 | 2026-06-04 | 0 | 0 | 1 (Potrero Hill 3BR/2BA $3,850 flagged for removal) (CL solo: SRO communal kitchen, Central Sunset lat 37.757, NV in-law shared bath+over budget, TL 344 Ellis, TL 225 Taylor, no-private-bath rooms; CL group: Bayview lat 37.735, Oceanview lat 37.719, Visitacion lat 37.708, 1BA-only units, non-SF; FB solo: shared bath rooms, Parkmerced near SFSU; FB group: 1BA-only, scam-priced; 925 Geary #310 20th+ relist URL 7938847421 noted) | 620 Jones #808 $1,700 all-utils ⚠️ 24d CONTACT MMG TODAY / Chinatown Room $1,150 Rank 2 | NONE — group section empty (Potrero Hill removed) |
