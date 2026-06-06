@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-06 (Run 143)
-Total runs: 143
+Last updated: 2026-06-06 (Run 144)
+Total runs: 144
 
 ## Best Current Listings
-- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 26 DAYS — contact MMG immediately). All 10 solo listings verified ACTIVE Run 143. Scam wave: Berkeley/East Bay reference template (3+ PIDs same day: 7939096385, 7939093812, 7939096931 — do not engage). No new qualifying listings found.
+- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 27 DAYS — contact MMG immediately). All 10 solo listings verified ACTIVE Run 144. Scam waves: "text me your number#" copy-paste template (10+ listings Pacific Heights/North Beach/Richmond $600–$1,265 — same operation); NY-address spam (Brooklyn/Bronx/Hempstead/Valley Stream/SI listings in SF section — ignore). No new qualifying listings found.
 - **Group (3BR/2+BA):** NONE — group section empty. Run 143: CL/FB 3BR/2+BA checked: all Bayview/Ingleside/Sunset/rejected-neighborhood; SoMa 3BR/1BA-only; FB all room-shares or 1BA-only or non-SF. Group market remains empty.
 
 ---
 
-## Active Listings — Solo (cap 20) — 10 active (all 10 reverified Run 143; no new; no removals)
+## Active Listings — Solo (cap 20) — 10 active (all 10 reverified Run 144; no new; no removals)
 
 ### Furnished Studio — 620 Jones St #808 — Nob Hill — $1,700/mo all utilities incl. — Craigslist
 - **Rank:** 1
@@ -16,7 +16,7 @@ Total runs: 143
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -30,7 +30,7 @@ Total runs: 143
 - **Pet policy:** cats OK (dogs not mentioned — inquire)
 - **Other amenities:** furnished (if desired), hardwood floors, 3 elevators, package room, big windows with good natural light, huge walk-in closet, high floor with city light views, rent-controlled (SF Rent Ordinance)
 - **Photos:** not separately counted (managed building listing)
-- **Posting age:** 26 days (posted 2026-05-12) ⚠️ 26 DAYS — CONTACT MMG IMMEDIATELY
+- **Posting age:** 26 days (posted 2026-05-12) ⚠️ 26+ DAYS — CONTACT MMG IMMEDIATELY
 - **Poster:** Yoli Handoko / MMG 203 / CalDRE #990193 (Meridian Management Group) — highly credible
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,700 all-utilities-included (effective ~$1,500–1,550), this is 35–45% below market for the all-in cost
@@ -44,7 +44,7 @@ Total runs: 143
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -72,7 +72,7 @@ Total runs: 143
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1bed-1bath-in-3bed-3bath/7937398788.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Room
 - **Location:** Mission District / Potrero Hill border — lat 37.753121, lng -122.404363 (confirmed accepted neighborhood; near 22nd St BART, Potrero Hill, Mission)
 - **Size:** not listed (room); apartment is 2,000 sq ft total per listing
@@ -100,7 +100,7 @@ Total runs: 143
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-modern-bed-condo-in-the/7938917305.html
 - **First found:** 2026-06-05
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** 1BR
 - **Location:** 1380 Greenwich St #404, Russian Hill — lat 37.800862, lng -122.422444 (confirmed accepted neighborhood; near Hyde St cable car, Polk St corridor, Trader Joe's ~3 blocks)
 - **Size:** 814 sq ft
@@ -128,7 +128,7 @@ Total runs: 143
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-welcome-home-bedroom/7938994888.html
 - **First found:** 2026-06-05
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Room
 - **Location:** 9th Ave & Noriega St, Inner Sunset — lat 37.754709, lng -122.465662 (confirmed accepted neighborhood; near Moraga Steps, Golden Gate Heights Park, N Judah ~15 min walk, 6 bus direct)
 - **Size:** 11'9" x 15' (largest bedroom in apartment)
@@ -156,7 +156,7 @@ Total runs: 143
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -184,7 +184,7 @@ Total runs: 143
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-efficient-studio-with/7936786873.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Studio
 - **Location:** 729 Ellis St #509, Polk Gulch — lat 37.784177, lng -122.418180 (borderline Polk Gulch / TL boundary; same building previously accepted as Polk Gulch Run 101; east of Polk, just west of Larkin — not TL by strict east-of-Larkin rule)
 - **Size:** not listed; top floor (unit 509)
@@ -212,7 +212,7 @@ Total runs: 143
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7937030980.html
 - **First found:** 2026-05-25 (original URL 7936447899; deleted by author 2026-05-27; relisted same day as URL 7937030980)
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth, between Sutter and Post)
 - **Size:** 400 sq ft
@@ -240,7 +240,7 @@ Total runs: 143
 - **Status:** PRICE CHANGED ($1,850 → $1,880)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-private-bathroom/7937406014.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Room
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, 101 freeway)
 - **Size:** not listed (11x11 per body text; main-floor bedroom)
@@ -268,7 +268,7 @@ Total runs: 143
 - **Status:** PRICE CHANGED ($1,895 → $1,795 on 2026-06-04 under new URL)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7938763718.html
 - **First found:** 2026-05-14 (original first found; 23rd+ relist; Run 142 new URL noted: 7938965561)
-- **Last verified:** 2026-06-06 (Run 143)
+- **Last verified:** 2026-06-06 (Run 144)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; same building as Ranks 4 and 9; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -1556,3 +1556,4 @@ Total runs: 143
 | 141 | 2026-06-05 | 1 (Russian Hill 1BR/1BA 1380 Greenwich #404 $1,895 garage+W/D+814sqft) | 0 | 0 (all 9 existing solo verified ACTIVE; CL solo: massive scam wave — Golden Gate Rentals/Marcus Sterling all "!!" listings, NY-address fake SF listings $800-900; Noe Valley in-law $1,800 shared bath Home Match nonprofit; Nob Hill room $1,650 short-term+toaster oven only; Inner Sunset 3-bed flat $1,550 no private bath; Upper Haight room $1,900 no private bath; Hayes Valley 1BR $1,600 copy-paste scam body; CL group: Bayview 1566 Newcomb confirmed Bayview, 3BR/1BA-only, excelsior/outer mission; FB solo: co-living 20 Mission shared bath, Stonestown $1,700 private room rejected neighborhood, Bayview/Silver Terrace $1,200 shared bath; FB group: 3BR/1BA only, South SF, scam-priced) | 620 Jones #808 $1,700 all-utils ⚠️ 24d CONTACT MMG NOW / NEW Rank 5: Russian Hill 1BR $1,895 garage+W/D (contact TurboTenant immediately) | NONE — group section empty |
 | 142 | 2026-06-05 | 1 (Inner Sunset Room 9th&Noriega $1,650+utils private bath Rank 5) | 0 | 1 (Rank 4 Russian Hill Room $1,700 deleted by author — likely rented; CL solo: Noe Valley in-law $1,800 shared bath, Fort Mason 4BR house no private bath per room, Inner Sunset 3-bed flat no private bath, TL/Ingleside rejects; CL group: Bayview 1566 Newcomb $4,290 lat 37.735 confirmed Bayview reject; FB solo: Twin Peaks room $1,201 explicitly shared bath; FB group: $4,500 3BR/2BA SF = seeking post not rental; 925 Geary #310 23rd+ relist URL 7938965561 noted) | 620 Jones #808 $1,700 all-utils ⚠️ 25d CONTACT MMG TODAY / NEW Rank 5: Inner Sunset Room $1,650 private bath (contact today) | NONE — group section empty |
 | 143 | 2026-06-06 | 0 | 0 | 0 (all 10 solo verified ACTIVE; Berkeley/East Bay reference scam template 3+ PIDs today: 7939096385/7939093812/7939096931 — same scammer, skip on sight; CL solo: Noe Valley in-law $1,800 shared bath Home Match nonprofit, Nob Hill room $1,650 short-term+toaster oven kitchen, $950 Parkside shared shower+no laundry, $2,000 Cole Valley studio = exactly at cap not under, 1050 Post $1,350/$1,520/$1,560 same scam, 1BR 203sqft Lower Nob Hill $1,845 ambiguous kitchen no stove; CL group: SoMa 3BR/1BA-only, Bayview/Ingleside all rejected; FB solo: Bayview room $1,300 shared bath, Bayview $1,500 8-person house, Inner Sunset $1,500 3BR shared hall bath; FB group: room sublets 37 nights, 3BR/1BA-only, South SF, Alameda) | 620 Jones #808 $1,700 all-utils ⚠️ 26d CONTACT MMG TODAY | NONE — group section empty |
+| 144 | 2026-06-06 | 0 | 0 | 0 (all 10 solo verified ACTIVE; scam wave: "text me your number#" copy-paste template 10+ listings across Pacific Heights/North Beach/Russian Hill/Inner Richmond $600–$1,265 — same operation, skip on sight; NY-address spam wave: Brooklyn/Bronx/Hempstead/Valley Stream/Staten Island/Astoria listings in SF section — ignore all; CL group: all non-SF or 1BA-only; 798 Post $1,845 0BR/203sqft — only microwave+fridge, no stove/oven listed, kitchen not confirmed; FB: no qualifying listings) | 620 Jones #808 $1,700 all-utils ⚠️ 26+d CONTACT MMG TODAY | NONE — group section empty |
