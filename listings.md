@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-08 (Run 152)
-Total runs: 152
+Last updated: 2026-06-08 (Run 153)
+Total runs: 153
 
 ## Best Current Listings
-- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 34 DAYS — contact MMG immediately). Run 152: 0 new solo finds. 0 removals. 10 solo active. OMM/City & Side Realty Group + NY-address spam wave + "text me your number" scam template dominating CL today.
-- **Group (3BR/2+BA):** Outer Richmond 3BR/2BA Flat $4,500/mo (Craigslist, 1,200sqft, 2 full baths confirmed, full kitchen, on-site laundry, attached garage, July 1 — verified ACTIVE Run 152, now 2 days old). Run 152: 0 new group finds.
+- **Solo:** 620 Jones #808 $1,700 all-utils (effective ~$1,500 — Rank 1, ⚠️ NOW 34 DAYS — contact MMG immediately). Run 153: 1 new solo find (Castro/Eureka Valley Studio $1,500 Rank 3). 1 removal (Inner Sunset Studio 7939198896 flagged for removal — 3rd URL for 1645 Irving). 10 solo active.
+- **Group (3BR/2+BA):** Outer Richmond 3BR/2BA Flat $4,500/mo (Craigslist, 1,200sqft, 2 full baths confirmed, full kitchen, on-site laundry, attached garage, July 1 — verified ACTIVE Run 153, now 2 days old). Run 153: 0 new group finds.
 
 ---
 
-## Active Listings — Solo (cap 20) — 10 active (10 verified ACTIVE Run 152; 0 new; 0 removed; OMM/City & Side Realty Group + NY-address spam wave + "text me your number" scam template dominating CL)
+## Active Listings — Solo (cap 20) — 10 active (9 carried from Run 152 + 1 new Castro/Eureka Studio $1,500; Inner Sunset Studio 7939198896 flagged for removal; 925 Geary #310 new relist URL 7939619444 = 24th+ URL noted)
 
 ### Furnished Studio — 620 Jones St #808 — Nob Hill — $1,700/mo all utilities incl. — Craigslist
 - **Rank:** 1
@@ -16,7 +16,7 @@ Total runs: 152
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-remodeled-furnished/7933678688.html
 - **First found:** 2026-05-12
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Studio
 - **Location:** 620 Jones St #808, Nob Hill — lat 37.787093, lng -122.413235 (confirmed accepted neighborhood; near Union Square, Powell BART)
 - **Size:** not listed; 8th floor
@@ -45,7 +45,7 @@ Total runs: 152
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -67,31 +67,31 @@ Total runs: 152
 
 ---
 
-### Inner Sunset Studio — 362sqft — Full Kitchen + AC — $1,500/mo — Craigslist
+### Castro/Eureka Valley Studio — 300sqft — Separate Kitchen + AC + Parking — $1,500/mo — Craigslist
 - **Rank:** 3
 - **Mode:** Solo
 - **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-inner-sunset-studio-cozy/7939198896.html
-- **First found:** 2026-06-07 (Run 147)
-- **Last verified:** 2026-06-08 (Run 152)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-update-apartment-in-the/7939558937.html
+- **First found:** 2026-06-08
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Studio
-- **Location:** Inner Sunset — lat 37.762000, lng -122.483000 (confirmed accepted neighborhood; near UCSF, Golden Gate Park, N Judah Streetcar)
-- **Size:** 362 sq ft
-- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit, "one bathroom with stall shower")
-- **Rent:** $1,500/mo; no utilities stated → effective ~$1,600–1,650/mo with PG&E + water share
-- **Deposit:** not listed
-- **Lease:** monthly
+- **Location:** Castro / Upper Market / Eureka Valley — lat 37.765197, lng -122.430961 (confirmed accepted neighborhood; near Dolores Park, Castro BART, multiple bus/MUNI/BART lines; Walk Score 97)
+- **Size:** 300 sq ft
+- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit)
+- **Rent:** $1,500/mo; water & garbage included → effective ~$1,600–1,650/mo with PG&E
+- **Deposit:** $1,500 (1 month)
+- **Lease:** 1 year → month-to-month
 - **Available:** Now
-- **Laundry:** on-site (laundry on site — confirmed CL attr)
-- **Parking:** attached garage (confirmed CL attr)
-- **Pet policy:** cats OK, dogs OK
-- **Other amenities:** stove/oven, refrigerator, dishwasher (full kitchen confirmed), air conditioning, EV charging, wheelchair accessible, double-paned windows, faux hardwood floors; back-of-property unit (set in back)
-- **Photos:** open house held 2026-06-06 (Saturday); individual listing
-- **Posting age:** 1 day (posted 2026-06-06)
-- **Poster:** individual landlord (specific property description, no scam flags, open house held)
+- **Laundry:** on-site shared (coin-op laundry shared with one other unit in garage)
+- **Parking:** off-street (confirmed CL attr)
+- **Pet policy:** cats considered (body text says "cats considered" — CL attrs show dogs OK too but body text is more restrictive; clarify with landlord)
+- **Other amenities:** separate kitchen (confirmed), air conditioning, EV charging, common area backyard, no smoking (interior and exterior), wheelchair accessible
+- **Photos:** 8 photos (individual landlord listing, open house held 2026-06-08)
+- **Posting age:** <1 day (posted 2026-06-08)
+- **Poster:** individual landlord — 6-unit building, specific description, open house today (June 8), no scam flags
 - **Income-restricted?:** No
-- **vs. market:** Studios in Inner Sunset typically $1,700–$2,100; at $1,500 with full kitchen + AC + garage + EV charging + on-site laundry, this is 25–40% below market for the amenity set
-- **Notes:** ♻️ RELISTED — same address as expired URL 7939140044 (1645 Irving, flagged for removal same-day on 2026-06-06). New URL 7939198896 appears to be the landlord relisting after the original was flagged by CL. Full standalone studio at back of property — private bath confirmed (stall shower). Full kitchen confirmed (stove/oven + refrigerator + dishwasher). On-site laundry. Attached garage (rare for Inner Sunset). AC + EV charging. Pets OK (cats + dogs). Monthly lease. Close to UCSF, Golden Gate Park, Irving St shops/restaurants, N Judah Streetcar. ⚠️ Prior same-day flagging of first URL warrants caution — contact landlord to confirm legitimacy before investing time.
+- **vs. market:** Studios in Castro/Eureka Valley typically $1,900–$2,400; at $1,500 with water+garbage included (effective ~$1,600–1,650), this is 30–40% below market for a standalone studio with AC, EV, and parking
+- **Notes:** Newly remodeled standalone studio on first floor of intimate 6-unit building. Separate kitchen confirmed in listing body ("with separate kitchen"). On-site coin laundry shared with one other unit (not laundromat). Water & garbage included. AC + EV charging + off-street parking. Common area backyard. 1-year lease then month-to-month. Walk Score 97 / Transit 95 / Bike 95. Open house held today (June 8). ⚠️ Posted hours ago — contact immediately via CL reply. No income restrictions.
 
 ---
 
@@ -101,7 +101,7 @@ Total runs: 152
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1bed-1bath-in-3bed-3bath/7937398788.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Room
 - **Location:** Mission District / Potrero Hill border — lat 37.753121, lng -122.404363 (confirmed accepted neighborhood; near 22nd St BART, Potrero Hill, Mission)
 - **Size:** not listed (room); apartment is 2,000 sq ft total per listing
@@ -130,7 +130,7 @@ Total runs: 152
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-welcome-home-bedroom/7938994888.html
 - **First found:** 2026-06-05
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Room
 - **Location:** 9th Ave & Noriega St, Inner Sunset — lat 37.754709, lng -122.465662 (confirmed accepted neighborhood; near Moraga Steps, Golden Gate Heights Park, N Judah ~15 min walk, 6 bus direct)
 - **Size:** 11'9" x 15' (largest bedroom in apartment)
@@ -158,7 +158,7 @@ Total runs: 152
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -186,7 +186,7 @@ Total runs: 152
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-efficient-studio-with/7936786873.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Studio
 - **Location:** 729 Ellis St #509, Polk Gulch — lat 37.784177, lng -122.418180 (borderline Polk Gulch / TL boundary; same building previously accepted as Polk Gulch Run 101; east of Polk, just west of Larkin — not TL by strict east-of-Larkin rule)
 - **Size:** not listed; top floor (unit 509)
@@ -214,7 +214,7 @@ Total runs: 152
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-renovated-jr-bedroom-711/7937030980.html
 - **First found:** 2026-05-25 (original URL 7936447899; deleted by author 2026-05-27; relisted same day as URL 7937030980)
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Jr 1BR (studio with sleeping area)
 - **Location:** 711 Leavenworth St #1, Lower Nob Hill — lat 37.787639, lng -122.415226 (confirmed above TL boundary; near Geary/Leavenworth, between Sutter and Post)
 - **Size:** 400 sq ft
@@ -242,7 +242,7 @@ Total runs: 152
 - **Status:** PRICE CHANGED ($1,850 → $1,880)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-bedroom-private-bathroom/7937406014.html
 - **First found:** 2026-05-29
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Room
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, 101 freeway)
 - **Size:** not listed (11x11 per body text; main-floor bedroom)
@@ -270,7 +270,7 @@ Total runs: 152
 - **Status:** PRICE CHANGED ($1,895 → $1,795 on 2026-06-04 under new URL)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7938763718.html
 - **First found:** 2026-05-14 (original first found; 23rd+ relist; Run 142 new URL noted: 7938965561)
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -288,7 +288,7 @@ Total runs: 152
 - **Poster:** Brick + Timber (contact Pieter) — highly credible management
 - **Income-restricted?:** No
 - **vs. market:** Studios in Lower Nob Hill typically $1,800–$2,200; at $1,795 (↓ $100, no utilities; effective ~$1,895–1,950) now slightly below mid-market for the area
-- **Notes:** ♻️ RELISTED (21st+ URL) — this unit was first tracked 2026-05-14. Has been continuously relisted under new CL URLs every few days since; now at $1,795 (down from $1,895). Run 140 confirmed three simultaneous active URLs (7938763718, 7938847421, 7938871208). 7+ weeks on market without renting is a ⚠️ EXTREME STALENESS FLAG — strongly suggests condition, access, or pricing issues. The $100 price drop may indicate a motivated landlord. Reduced $1,000 security deposit with approved credit. Separated kitchen and dishwasher (confirmed in body) are genuine positives. Monthly lease and pets OK add flexibility. Rank 9 reflects extreme staleness; only contact as a last resort.
+- **Notes:** ♻️ RELISTED (24th+ URL) — this unit was first tracked 2026-05-14. Has been continuously relisted under new CL URLs every few days since; now at $1,795 (down from $1,895). Run 140 confirmed three simultaneous active URLs (7938763718, 7938847421, 7938871208). Run 153 spotted new relist URL 7939619444 (labeled "Downtown" — same unit). 7+ weeks on market without renting is a ⚠️ EXTREME STALENESS FLAG — strongly suggests condition, access, or pricing issues. The $100 price drop may indicate a motivated landlord. Reduced $1,000 security deposit with approved credit. Separated kitchen and dishwasher (confirmed in body) are genuine positives. Monthly lease and pets OK add flexibility. Rank 10 reflects extreme staleness; only contact as a last resort.
 
 ---
 
@@ -300,7 +300,7 @@ Total runs: 152
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-beautiful-secluded/7939494213.html
 - **First found:** 2026-06-08
-- **Last verified:** 2026-06-08 (Run 152)
+- **Last verified:** 2026-06-08 (Run 153)
 - **Type:** Apartment (second-story flat in multi-unit building)
 - **Location:** Outer Richmond — lat 37.773702, lng -122.500386 (confirmed accepted neighborhood; near 5-Fulton and 38-Geary lines, Golden Gate Park)
 - **Size:** 1,200 sq ft
@@ -325,6 +325,16 @@ Total runs: 152
 ---
 
 ## Expired / No Longer Available
+
+### Inner Sunset Studio — 1645 Irving St — 362sqft — $1,500/mo — Craigslist (3rd URL, flagged again)
+- **Mode:** Solo
+- **Status:** REMOVED (flagged for removal)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-inner-sunset-studio-cozy/7939198896.html
+- **First found:** 2026-06-07 (Run 147; original URL 7939140044 flagged same-day Run 146; 2nd URL 7939198896 active Run 147–152)
+- **Removed:** 2026-06-08 (Run 153)
+- **Notes:** Third CL flagging for this address (1645 Irving St, Inner Sunset). URL 7939140044 flagged same-day Jun 6; relisted as 7939198896 Jun 7, active for ~24 hours, then flagged again Jun 8. Pattern consistent with repeated policy violation — landlord keeps relisting a unit CL keeps flagging. Would have been Rank 3 (standalone ADU, $1,500/mo, full kitchen, garage, AC, EV charging, pets OK). Do not re-add any new URL for 1645 Irving unless the flagging pattern breaks.
+
+---
 
 ### Russian Hill 1BR/1BA — 1380 Greenwich St #404 — 814sqft — $1,895/mo — Craigslist
 - **Mode:** Solo
@@ -1611,3 +1621,4 @@ Total runs: 152
 | 150 | 2026-06-08 | 0 | 1 (NEW: Outer Richmond 3BR/2BA $4,500 CL 7939494213 — 1st group find since Run 139) | 0 (all 11 solo verified ACTIVE; solo rejects: Noe Valley in-law $1,800 shared bath, Nob Hill room $1,650 toaster-oven kitchen, Inner Sunset flat $1,550 no private bath, Fort Mason 4BR/2BA house shared bath by room, FB 70 Sycamore Mission $1,600 shared bath, FB $1,400 4BR Central Sunset rejected neighborhood; group rejects: Bayview 1566 Newcomb $4,290 lat 37.735 again, FB Marketplace: 1BA-only/non-SF/income-restricted; OMM/City & Side Realty Group scam + Marcus Sterling/GGR + NY-address spam ongoing) | 620 Jones #808 $1,700 all-utils ⚠️ 33d CONTACT MMG IMMEDIATELY | NEW: Outer Richmond 3BR/2BA $4,500 (1,200sqft, 2 full baths confirmed, full kitchen, July 1 — contact immediately) |
 | 151 | 2026-06-08 | 0 | 0 | 1 (Russian Hill 1BR 1380 Greenwich #404 $1,895 expired/deleted — was Rank 5, 3d on market, likely rented fast; CL solo: NY-address spam wave, OMM/City & Side Realty Group scam ×3, "text me your number" template, Excelsior 2BR in-law, Inner Sunset flat no private bath, Nob Hill room toaster oven; CL group: OMM scam ×2 1BA-only Bayview/Parkside; FB solo: Excelsior/shared bath, Bayview shared bath ×2, Stonestown rejected neighborhood; FB group: Bayview/all non-qualifying) | 620 Jones #808 $1,700 all-utils ⚠️ 34d CONTACT MMG IMMEDIATELY | Outer Richmond 3BR/2BA $4,500 (verified ACTIVE — 1 day old, contact now) |
 | 152 | 2026-06-08 | 0 | 0 | 0 (all 10 solo + 1 group verified ACTIVE; CL solo: massive NY-address spam wave (NY/Brooklyn/Queens/Staten Island listings in SF section), OMM/City & Side Realty Group scam ×4 ("text me your number" template, CO license, lat 37.730–37.734), "text me your number" scam template widespread, Sacramento-location copy-paste scams; CL group: OMM scam ×2 (1BA-only, lat 37.730–37.734); FB solo: Excelsior shared-bath, Bayview shared-bath ×2, Bayview/3rd St roommate listing; FB group: room-only listings in SF, no qualifying 3BR/2+BA SF units under $5k) | 620 Jones #808 $1,700 all-utils ⚠️ 34d CONTACT MMG IMMEDIATELY | Outer Richmond 3BR/2BA $4,500 (verified ACTIVE — 2 days old, contact now) |
+| 153 | 2026-06-08 | 1 (Castro/Eureka Valley Studio $1,500 Rank 3) | 0 | 1 (Inner Sunset Studio 7939198896 flagged for removal — 3rd URL for 1645 Irving; CL solo: 2BR Inner Sunset $1,103 wrong config, no-laundry Nob Hill 1BR $1,995 TL-border, Inner Sunset room no-private-bath $1,550, Mission room 1.5BA no-private-bath $1,600; CL group: Daly City/Bayview/Glen Park all rejected; FB solo: Excelsior/Ingleside area rooms, $900 1BR SF suspiciously cheap; FB group: room-only and non-SF listings) | 620 Jones #808 $1,700 all-utils ⚠️ 34d CONTACT MMG IMMEDIATELY / NEW Rank 3: Castro Studio $1,500 AC+EV+parking (contact today, open house today) | Outer Richmond 3BR/2BA $4,500 (verified ACTIVE — 2 days old, contact now) |
