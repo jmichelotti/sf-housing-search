@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-12 (Run 166)
-Total runs: 166
+Last updated: 2026-06-12 (Run 167)
+Total runs: 167
 
 ## Best Current Listings
-- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest price, private bath confirmed, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveat: Aug 1, no window, women preferred). Best practical pick: NoPa 1BR/1BA 980sqft $1,500 (Rank 2 — full standalone apartment, water+garbage incl., garage+EV+AC, available now, 55%+ below market). Run 166: 1 new solo (Mission Studio $1,280 relisted). 0 removed. 12 solo active.
-- **Group (3BR/2+BA):** Outer Richmond 3BR/2BA Flat $4,500/mo (Craigslist, 1,200sqft, 2 full baths confirmed, full kitchen, on-site laundry, attached garage, July 1 — verified ACTIVE Run 166, now 5 days old). Run 166: 0 new group finds.
+- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest price, private bath confirmed, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveat: Aug 1, no window, women preferred). Best practical pick: NoPa 1BR/1BA 980sqft $1,500 (Rank 2 — full standalone apartment, water+garbage incl., garage+EV+AC, available now, 55%+ below market). Run 167: 0 new solo. 1 removed (Mission Studio $1,280 Capp&24th — flagged 2nd time; 3rd relist same day, not added due to triple-flag pattern). 11 solo active.
+- **Group (3BR/2+BA):** Outer Richmond 3BR/2BA Flat $4,500/mo (Craigslist, 1,200sqft, 2 full baths confirmed, full kitchen, on-site laundry, attached garage, July 1 — verified ACTIVE Run 167, now 5 days old). Run 167: 0 new group finds.
 
 ---
 
-## Active Listings — Solo (cap 20) — 12 active (11 carry-over verified ACTIVE; 1 new [Mission Studio $1,280 Capp&24th relisted]; 0 removed; Run 166)
+## Active Listings — Solo (cap 20) — 11 active (11 carry-over verified ACTIVE; 0 new; 1 removed [Mission Studio $1,280 Capp&24th — 2nd consecutive same-day flag, 3rd relist not added]; Run 167)
 
 ### Chinatown Private Room in 3BR/2BA — Private Bath — $1,150/mo + utils — Craigslist
 - **Rank:** 1
@@ -17,7 +17,7 @@ Total runs: 166
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -39,13 +39,13 @@ Total runs: 166
 
 ---
 
-### NoPa 1BR/1BA — 980sqft — Garage + AC + EV + Laundry — $1,500/mo — Craigslist (NEW)
+### NoPa 1BR/1BA — 980sqft — Garage + AC + EV + Laundry — $1,500/mo — Craigslist
 - **Rank:** 2
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-welcome-to-new-panhandle/7940227968.html
 - **First found:** 2026-06-11
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Apartment (1BR condo)
 - **Location:** NoPa (North Panhandle) — lat 37.769000, lng -122.442000 (confirmed accepted neighborhood; near Golden Gate Park, USF campus, Kaiser Permanente, Fell St freeway access)
 - **Size:** 980 sq ft
@@ -67,42 +67,13 @@ Total runs: 166
 
 ---
 
-### Mission District Studio — Capp & 24th St — 420sqft — $1,280/mo — Craigslist ♻️ RELISTED
-- **Rank:** 3
-- **Mode:** Solo
-- **Status:** ACTIVE
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-large-studio-with-bath/7940353034.html
-- **Note:** ♻️ RELISTED — prior URL 7940170254 flagged same-day on 2026-06-11 (Run 165); this new URL 7940353034 posted ~2026-06-11 and verified active Run 166. Individual owner relisting after CL flag.
-- **First found:** 2026-06-11 (original)
-- **Last verified:** 2026-06-12 (Run 166)
-- **Type:** Studio
-- **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; Capp & 24th St, near 24th St BART, Dolores Park, Valencia St)
-- **Size:** 420 sq ft
-- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit)
-- **Rent:** $1,280/mo; water + trash included → effective ~$1,380–1,430/mo with PG&E+internet
-- **Deposit:** not listed
-- **Lease:** 1 year
-- **Available:** Now
-- **Laundry:** on-site (laundry on site — CL attr confirmed)
-- **Parking:** street only
-- **Pet policy:** cats OK (CL attr)
-- **Other amenities:** large eat-in kitchen with gas stove + built-in microwave, owner pays water+trash, 100 Walk Score / 85 Transit / 100 Bike Score, easy freeway access (I-280, HWY101), near 24th St BART
-- **Photos:** not specified (individual owner)
-- **Posting age:** ~1 day (posted ~2026-06-11); relisted under new URL after prior URL 7940170254 flagged same-day
-- **Poster:** individual owner — specific address (Capp & 24th St), personal description; standard individual-landlord listing
-- **Income-restricted?:** No
-- **vs. market:** Studios in Mission District typically $1,800–$2,200+; at $1,280 with water+trash included (effective ~$1,380–1,430), this is 35–45% below market for a standalone studio with gas stove — unusual but possible for rent-controlled unit
-- **Notes:** ♻️ RELISTED from Expired. Prior URL (7940170254) was flagged by CL same day it was posted on 2026-06-11 — notes indicated "unusual pricing may have triggered algorithmic flag." The underlying unit appears legitimate: Capp & 24th St, Mission District; eat-in kitchen with gas stove; on-site laundry; cats OK; 1-year lease; water+trash included. ⚠️ CAUTION: prior same-day flagging is a concern; verify in-person before applying. Rank 3 reflects the low price point if legitimate — $1,280 for a standalone studio with gas stove and on-site laundry in the Mission is exceptional value.
-
----
-
 ### Castro/Eureka Valley Studio — 300sqft — Separate Kitchen + AC + Parking — $1,500/mo — Craigslist
-- **Rank:** 4
+- **Rank:** 3
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-update-apartment-in-the/7939558937.html
 - **First found:** 2026-06-08
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Studio
 - **Location:** Castro / Upper Market / Eureka Valley — lat 37.765197, lng -122.430961 (confirmed accepted neighborhood; near Dolores Park, Castro BART, multiple bus/MUNI/BART lines; Walk Score 97)
 - **Size:** 300 sq ft
@@ -125,12 +96,12 @@ Total runs: 166
 ---
 
 ### Mission / Potrero Hill Private Room — 3BD/3BA Apt — En-Suite Bath — $1,593/mo — Craigslist
-- **Rank:** 5
+- **Rank:** 4
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1bed-1bath-in-3bed-3bath/7937398788.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Room
 - **Location:** Mission District / Potrero Hill border — lat 37.753121, lng -122.404363 (confirmed accepted neighborhood; near 22nd St BART, Potrero Hill, Mission)
 - **Size:** not listed (room); apartment is 2,000 sq ft total per listing
@@ -154,12 +125,12 @@ Total runs: 166
 ---
 
 ### Inner Sunset Private Room — 9th & Noriega 3BR/2BA — Private Bath — $1,650/mo + utils — Craigslist
-- **Rank:** 6
+- **Rank:** 5
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-welcome-home-bedroom/7938994888.html
 - **First found:** 2026-06-05
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Room
 - **Location:** 9th Ave & Noriega St, Inner Sunset — lat 37.754709, lng -122.465662 (confirmed accepted neighborhood; near Moraga Steps, Golden Gate Heights Park, N Judah ~15 min walk, 6 bus direct)
 - **Size:** 11'9" x 15' (largest bedroom in apartment)
@@ -182,12 +153,12 @@ Total runs: 166
 ---
 
 ### Charming Off-Street Studio — Nob Hill — $1,800/mo — Craigslist
-- **Rank:** 7
+- **Rank:** 6
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-charming-off-street/7934358831.html
 - **First found:** 2026-05-15
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789766, lng -122.411875 (confirmed Nob Hill; near Union Square, Powell BART)
 - **Size:** 400 sq ft
@@ -210,12 +181,12 @@ Total runs: 166
 ---
 
 ### Lower Nob Hill Private Room — 2BR/2BA — West-Facing Bay Windows — $1,825/mo + utils — Craigslist
-- **Rank:** 8
+- **Rank:** 7
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-room-in-lower-nob/7939730157.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Room
 - **Location:** Lower Nob Hill — lat 37.787800, lng -122.415500 (confirmed accepted neighborhood; above TL boundary lat 37.787; near Polk St, Huntington Park)
 - **Size:** not listed (large room, west-facing bay windows, small closet)
@@ -238,12 +209,12 @@ Total runs: 166
 ---
 
 ### Sutro Heights Room in 4BD/3BA House — Ocean + GGP Views — $1,850/mo — Craigslist
-- **Rank:** 9
+- **Rank:** 8
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-sutro-heights-room-for/7939735621.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Room
 - **Location:** Sutro Heights / Outer Richmond — lat 37.777300, lng -122.498300 (confirmed accepted neighborhood; near Land's End, Golden Gate Park, Outer Richmond; ocean beach views)
 - **Size:** not listed (room in 4BR house)
@@ -266,12 +237,12 @@ Total runs: 166
 ---
 
 ### Inner Sunset Private Room — 7th & Hugo — 2BR/2BA — Private Bath — $1,910/mo + utils — Craigslist
-- **Rank:** 10
+- **Rank:** 9
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bathroom-in/7939928008.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Room
 - **Location:** 7th Ave & Hugo St, Inner Sunset — lat 37.765067, lng -122.464237 (confirmed accepted neighborhood; 1 block from Golden Gate Park, near Irving St shops/restaurants)
 - **Size:** 850 sq ft total apartment; room is small (fits queen bed, semi walk-in closet, very little floor space)
@@ -294,12 +265,12 @@ Total runs: 166
 ---
 
 ### Pacific Heights Furnished Bedroom — 2BD Flat — Lafayette Park Views — $1,975/mo — Craigslist
-- **Rank:** 11
+- **Rank:** 10
 - **Mode:** Solo
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-pacific-hts-furnished/7937394651.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Room
 - **Location:** Upper Pacific Heights — lat 37.785600, lng -122.435800 (confirmed accepted neighborhood; Lafayette Park 50 steps away, near Fillmore & Polk Sts, Union St)
 - **Size:** 18' × 13' (large bedroom)
@@ -322,12 +293,12 @@ Total runs: 166
 ---
 
 ### Lower Nob Hill Studio — 925 Geary St #310 — 252sqft — $1,795/mo — Craigslist ♻️ RELISTED (25th+ URL, 9+ weeks) ⚠️ PRICE CHANGED
-- **Rank:** 12
+- **Rank:** 11
 - **Mode:** Solo
 - **Status:** PRICE CHANGED ($1,895 → $1,795 on 2026-06-04 under new URL)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-925-geary-st-310/7939619444.html
 - **First found:** 2026-05-14 (original first found; 25th+ relist; prior URL 7938763718 deleted by author Run 154)
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Studio
 - **Location:** 925 Geary St #310, Lower Nob Hill / Polk Gulch — lat 37.786050, lng -122.418492 (confirmed accepted neighborhood; on Geary at western boundary of accepted area)
 - **Size:** 295 sq ft
@@ -349,7 +320,7 @@ Total runs: 166
 
 ---
 
-## Active Listings — Group 3BR/2+BA (cap 10) — 1 active (1 verified ACTIVE; 0 new; 0 removed — Run 166)
+## Active Listings — Group 3BR/2+BA (cap 10) — 1 active (1 verified ACTIVE; 0 new; 0 removed — Run 167)
 
 ### Beautiful, Secluded, Richmond Flat — 3BR/2BA — $4,500/mo — Craigslist
 - **Rank:** 1
@@ -357,7 +328,7 @@ Total runs: 166
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-beautiful-secluded/7939494213.html
 - **First found:** 2026-06-08
-- **Last verified:** 2026-06-12 (Run 166)
+- **Last verified:** 2026-06-12 (Run 167)
 - **Type:** Apartment (second-story flat in multi-unit building)
 - **Location:** Outer Richmond — lat 37.773702, lng -122.500386 (confirmed accepted neighborhood; near 5-Fulton and 38-Geary lines, Golden Gate Park)
 - **Size:** 1,200 sq ft
@@ -371,7 +342,7 @@ Total runs: 166
 - **Pet policy:** small pets OK with $25/month extra; cats OK
 - **Other amenities:** full kitchen (refrigerator, gas stove, dishwasher), hardwood floors (implied by "comfortable layout"), 3rd-floor master bedroom, 2 similar-sized bedrooms on 2nd floor
 - **Photos:** individual landlord CL listing (posted today — no photo count visible yet)
-- **Posting age:** 5 days (posted 2026-06-07)
+- **Posting age:** 6 days (posted 2026-06-07)
 - **Poster:** individual landlord — "financially responsible tenants" language, "students with co-signers welcome" — specific, direct description; no scam flags; reply button present
 
 - **Income-restricted?:** No
@@ -384,13 +355,23 @@ Total runs: 166
 
 ## Expired / No Longer Available
 
-### Mission District Studio — Capp & 24th St — $1,280/mo — Craigslist
+### Mission District Studio — Capp & 24th St — $1,280/mo — Craigslist (2nd relist, URL 7940353034)
+- **Mode:** Solo
+- **Status:** REMOVED (flagged for removal — 2nd same-day flagging)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-large-studio-with-bath/7940353034.html
+- **First found:** 2026-06-12 (2nd relist; original URL 7940170254 flagged same day Run 165)
+- **Removed:** 2026-06-12 (Run 167)
+- **Notes:** Second URL for this unit flagged by Craigslist same day as posted (Run 167). Landlord relisted within hours of Run 165 flagging. A 3rd URL (7940411995, posted 2026-06-11 ~8:27pm) was found during Run 167 search but NOT added to active — triple-flag pattern (same unit flagged 3× in one day) triggers "do not re-add unless pattern breaks" rule (matching 1645 Irving St protocol). Original 1st URL 7940170254 entry below.
+
+---
+
+### Mission District Studio — Capp & 24th St — $1,280/mo — Craigslist (1st URL, URL 7940170254)
 - **Mode:** Solo
 - **Status:** REMOVED (flagged for removal)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-large-studio-with-bath/7940170254.html
 - **First found:** 2026-06-11
 - **Removed:** 2026-06-11 (Run 165)
-- **Notes:** Flagged for removal by Craigslist same day as posted (same-day flagging pattern). Was Solo Rank 2 for one run (Run 163/164). 420sqft standalone studio at Capp & 24th St, Mission District; $1,280/mo; on-site laundry, eat-in kitchen, cats OK, 1-year lease, owner pays water+trash. Same-day CL flagging consistent with policy violation — unusual pricing may have triggered algorithmic flag.
+- **Notes:** Flagged for removal by Craigslist same day as posted (same-day flagging pattern). Was Solo Rank 2 for one run (Run 163/164). 420sqft standalone studio at Capp & 24th St, Mission District; $1,280/mo; on-site laundry, eat-in kitchen, cats OK, 1-year lease, owner pays water+trash. Same-day CL flagging consistent with policy violation — unusual pricing may have triggered algorithmic flag. See 2nd relist entry (7940353034) above; triple-flag pattern active — do not re-add any new URL for this address unless the flagging pattern breaks.
 
 ---
 
@@ -1783,3 +1764,4 @@ Total runs: 166
 | 164 | 2026-06-11 | 0 | 0 | 1 (620 Jones #808 $1,700 all-utils deleted by author 39d on market — was Rank 1; all 12 remaining solo + 1 group verified ACTIVE; NEW scam operator: Marinas Property Group/Palm Breeze Executive Leasing BK#34488-12 CA DRE 01927702 — 5+ fake below-market Russian Hill/North Beach listings, identical coords 37.798904/-122.421215 x2, same $29 app+$180 holding fee, AI-generated body text, auto-reject all future listings from this entity; CL solo rejects: Marinas/Palm Breeze batch x5; CL group: no new qualifying 3BR/2+BA under $5k; FB solo: 24 listings extracted — Bayview 94124 rejected+shared bath+WANTED ads+sublets; FB group: no qualifying SF 3BR/2+BA found) | Chinatown Room $1,150/mo Rank 1 — private bath confirmed, W/D in-unit, Aug 1 avail (effective ~$1,250–1,300 with utils, 40–50% below market) | Outer Richmond 3BR/2BA $4,500 Rank 1 (verified ACTIVE — 4 days old, contact now) |
 | 165 | 2026-06-11 | 1 (NoPa 1BR/1BA 980sqft $1,500 — standalone apt, garage, AC, EV, avail now, monthly, pets OK, water+garbage incl.) | 0 | 2 (Mission Studio $1,280 flagged same-day; 729 Ellis #509 deleted by author 13d; all 10 remaining solo + 1 group verified ACTIVE; Marinas/Palm Breeze scam — 3BR/2BA Victorian $3,295 confirmed same operator; CL solo rejects: 1112 Larkin $1,750 no on-site laundry; NoPa 1BR $1,500 Panhandle Village confirmed qualifying; CL group: no new SF 3BR/2+BA; FB solo: 24 listings — Nob Hill 3BR/1BA shared bath, $1,550 SF room language ambiguous; FB group: no qualifying SF 3BR/2+BA) | NEW Rank 2: NoPa 1BR/1BA 980sqft $1,500 (full apt, garage, AC+EV, water+garbage incl., open house today — contact now) / Chinatown Room $1,150 Rank 1 | Outer Richmond 3BR/2BA $4,500 Rank 1 (verified ACTIVE — 4 days old) |
 | 166 | 2026-06-12 | 1 (Mission Studio $1,280 Capp&24th relisted — prior URL flagged same-day Run 165; new URL active; individual owner, on-site laundry, gas stove, cats OK, water+trash incl.) | 0 | 0 (all 11 carry-over solo + 1 group verified ACTIVE; Marinas/Palm Breeze/City Lights batch: $1,550 1BR Pac Hts + $1,540 1BR Castro + $1,560 1BR LNH (TL-zone) + $3,295 Victorian 3BR — all same scam operator, auto-reject; FB solo: San Rafael $1,300, Daly City $1,495, Parkmerced $1,700, Bayview $1,400 — all rejected; FB group: non-SF / 1BA-only throughout; CL group: 3BR/1BA-only SoMa, Parkmerced lat 37.719, no qualifying new SF 3BR/2+BA) | Chinatown Room $1,150 Rank 1 / NoPa 1BR $1,500 Rank 2 (best standalone unit, contact now) | Outer Richmond 3BR/2BA $4,500 Rank 1 (verified ACTIVE — 5 days old) |
+| 167 | 2026-06-12 | 0 | 0 | 1 (Mission Studio $1,280 Capp&24th URL 7940353034 flagged same-day — 2nd same-day removal; 3rd relist URL 7940411995 spotted but NOT added (triple-flag pattern active, matching 1645 Irving St protocol); all 11 solo + 1 group verified ACTIVE; CL solo rejects: Marinas/Palm Breeze/City Lights batch ongoing; CL group: no new qualifying SF 3BR/2+BA; FB solo/group: non-SF/rejected/1BA-only throughout) | Chinatown Room $1,150 Rank 1 — private bath, W/D in-unit, Aug 1 avail (40-50% below market) | Outer Richmond 3BR/2BA $4,500 Rank 1 (verified ACTIVE — 6 days old, contact now) |
