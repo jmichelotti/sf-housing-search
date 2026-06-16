@@ -8,10 +8,8 @@ Find and track the best rental housing available in San Francisco that meets the
 
 ## Search Modes
 
-Two modes are active. Both run every session and are tracked in separate sections of `listings.md`.
-
-- **Solo mode** — housing for one person under $2,000/month.
-- **Group mode** — 3BR apartments or houses with 2+ bathrooms under $5,000/month.
+- **Solo mode** — housing for one person under $2,000/month. **ACTIVE — run every session.**
+- **Group mode** — 3BR apartments or houses with 2+ bathrooms under $5,000/month. **⏸ PAUSED as of 2026-06-15.** The qualifying market is too thin to justify the run cost (~12 listings surfaced in the prior 6.5 weeks, almost all flagged as scams or out of budget). **While paused:** do NOT run the group search block and do NOT add new group listings. Continue to re-verify any group listings still marked ACTIVE in `listings.md` until they expire naturally, then leave the Group section empty. To resume, change this line back to ACTIVE and re-enable the group search block in "What to Search Each Run."
 
 ## Income-Restriction Filter (applies to BOTH modes)
 
@@ -126,7 +124,7 @@ South-Central SF (selective):
 
 ## What to Search Each Run
 
-Run **both** the solo and group search blocks every session. Apply the Income-Restriction Filter to every find from either block.
+Run the **solo** search block every session. **The group search block is PAUSED (see Search Modes) — skip it.** Apply the Income-Restriction Filter to every find.
 
 ### Solo searches
 
@@ -165,6 +163,8 @@ Then also search with these queries (replace the query parameter):
 - `in-law unit for rent`
 
 ### Group searches (3BR, 2+ bath, max $5,000)
+
+> **⏸ PAUSED as of 2026-06-15 — skip this entire block.** Retained for easy resume. To re-enable, set Group mode back to ACTIVE in Search Modes and remove this banner.
 
 #### Craigslist SF Bay Area — group
 
@@ -218,13 +218,15 @@ For each listing currently marked ACTIVE in `listings.md`:
   - **Craigslist:** The post body and "reply" button must be present. A "this posting has been deleted by its author" / "this posting has expired" / "flagged for removal" page means the listing is dead.
   - **Facebook Marketplace:** The listing must still render with price and "Message" button. "Sold" overlays, "This listing isn't available" messages, or redirects to the Marketplace home mean it's gone.
 - If the page loads but the listing is no longer available, set status to `REMOVED` (or `RENTED` if the page explicitly says rented/pending) and move to the Expired section.
-- Update the status accordingly: ACTIVE, PRICE CHANGED, REMOVED, or RENTED
+- **Promote survivors.** If a listing currently marked `PROBATION` is still live this run, it has survived its probation window — change its Status to `ACTIVE` (now eligible for rank 1 / Best). If a `QUARANTINED` listing is still live AND its below-market price now has a verified legitimate explanation, promote it to `ACTIVE`; if it is still live but the discount remains unexplained, keep it `QUARANTINED`.
+- Update the status accordingly: ACTIVE, PROBATION, QUARANTINED, PRICE CHANGED, REMOVED, or RENTED
 - Note the date of the status change
 
 ### Step 3 — Search for new listings
 
-Run **both** the solo and group searches listed above. For each promising find:
+Run the **solo** searches listed above (group mode is paused — skip the group search block). For each promising find:
 - **Confirm the listing is actually available before adding it** — apply the same verification checks from Step 2.
+- **Check it against the repeat-scam blocklist** (below). If it is tied to a blocklisted operator or address, skip it.
 - **First, identify which mode it belongs to** (solo or group) based on its size and price, then apply that mode's hard requirements:
   - **Solo:** price under $2,000/mo; private bathroom; in-unit or on-site laundry; in-unit kitchen; accepted neighborhood.
   - **Group:** price under $5,000/mo; **3 bedrooms**; **2 or more bathrooms** (do not need to be en-suite); in-unit or on-site laundry; in-unit kitchen; accepted neighborhood.
@@ -244,6 +246,32 @@ Run **both** the solo and group searches listed above. For each promising find:
 - Charges an upfront application fee paid directly to a personal Gmail address rather than via a screening service (SmartMove, RentSpree, AppFolio); legit landlords/PMs almost never collect fees this way
 - Multi-URL aggressive reposting from the same individual landlord (e.g. 3+ simultaneous CL URLs for the same address) combined with any of the above
 
+**Known repeat-scam operators / addresses — auto-skip (do not add, no matter how good the listing looks):**
+
+These have been confirmed across multiple runs as serial scam / batch-spam posters or chronically re-flagged relisters. Skip any listing tied to them on sight, and never feature them:
+- **Palm Breeze / Palm Breeze Executive Leasing** (also seen paired with "City Lights Realty / Fred")
+- **Marinas Property Group** (CalDRE BK#34488-12 / CA DRE 01927702)
+- **2245 Larkin St** (Russian Hill) — confirmed scam address, recycled under many titles/URLs
+- **1645 Irving St** (Inner Sunset) — chronic same-day re-flag/relist cycle
+
+When a session confirms a NEW repeat-scam operator or address (same entity flagged/removed across 2+ runs, or a batch-poster matching the scam-detection pattern above), append it to this list so future runs skip it automatically. Note: legitimate property managers such as **Meridian Management Group (Yoli Handoko / MMG)** are NOT scammers — their listings simply rent quickly; do not blocklist them.
+
+**Price-Anomaly Quarantine — a low price is the #1 scam tell, not a green light:**
+
+Scam bait is deliberately priced far below market, which is exactly why below-market listings keep auto-sorting to the top of the rankings and then getting flagged within hours. For every find, benchmark the rent against the typical market rate for that neighborhood + unit type:
+- If the rent is **≥30% below** the typical market rate for the neighborhood and type, treat it as a **price anomaly**.
+- A price-anomaly listing may still be added to its mode's Active section, but its **Status must be `QUARANTINED`**, and it is **ineligible for the top tier**: never name it "Best Current Listing" and never rank it in the top 3, no matter how cheap it is.
+- Promote a quarantined listing to a normal rank only when BOTH are true: (a) it survives the probation window below (still live on a later run), AND (b) the steep discount has a verified legitimate explanation (confirmed rent-controlled unit, verified owner/PM, documented reason). If it gets flagged/removed first (the usual outcome), move it straight to Expired with reason `"Price anomaly — flagged/removed before verification (suspected scam)"`.
+- The cheaper a listing is relative to market, the MORE scrutiny it gets, not less. A discount alone is never enough to make a listing the headline.
+
+**New-Listing Probation — do not crown a listing that hasn't survived:**
+
+Roughly half of every listing this tracker has ever found vanished within 24 hours of discovery (most flagged by Craigslist as scams). A listing found *this run* has not yet proven it is real, so it cannot be the headline pick yet:
+- Any listing added for the first time this session starts with **Status `PROBATION`**.
+- A PROBATION listing is tracked and ranked within its section but is **ineligible to be the "Best Current Listing"** for its mode and **may not occupy rank 1**. It is a candidate, not a confirmed pick.
+- On a later run (Step 2), when the listing is re-verified and confirmed still live (survived ≥1 verification cycle, i.e. it appears in a subsequent run), promote it from `PROBATION` to `ACTIVE`. Only `ACTIVE` listings are eligible to be Best / rank 1.
+- A listing that is both new and a price anomaly is `QUARANTINED` (the stricter state), not `PROBATION`.
+
 ### Step 4 — Update listings.md
 
 Write the updated file with all changes from this session. See format below.
@@ -256,8 +284,14 @@ If a session would push either mode above its cap, archive the weakest current l
 
 ### Step 5 — Rank all active listings
 
-After all updates, assign rankings **separately within each mode** (solo and group each have their own 1..N). Ranking criteria, in rough priority order:
-1. Price (lower is better, all else equal)
+After all updates, assign rankings **separately within each mode** (each mode has its own 1..N; group is currently paused, so in practice this is solo only).
+
+**Eligibility gate — apply this BEFORE ranking by the criteria below:**
+- `QUARANTINED` (price-anomaly) and `PROBATION` (new-this-run) listings may **not** be ranked #1 and may **not** be named "Best Current Listing." Sort them *below* every confirmed `ACTIVE` listing, then order them among themselves by the criteria below. This is the fix for below-market scam bait auto-winning a price-first sort and headlining the report before it has survived verification.
+- Rank the confirmed `ACTIVE` tier first (these are the only listings eligible for rank 1 / Best), then the probation/quarantine tier beneath them.
+
+Ranking criteria within a tier, in rough priority order:
+1. Price (lower is better, all else equal — but an implausibly below-market price is a scam signal, not a winner; see Price-Anomaly Quarantine)
 2. How well it matches requirements (confirmed > ambiguous)
 3. Location quality and commute convenience
 4. Amenities (parking, dishwasher, AC, etc.)
@@ -269,11 +303,12 @@ The ranking order must match the order of listings within each mode's Active Lis
 ### Step 6 — Print a session summary
 
 After updating the file, print a brief summary to the terminal:
-- Active listing count **per mode** (e.g. "Solo: 18 active / cap 20. Group: 4 active / cap 10.")
-- Any new listings found this session (call out which mode)
-- Any listings that were removed since last run (and why)
+- Active listing count for solo, **broken out by tier** (e.g. "Solo: 9 confirmed ACTIVE + 3 PROBATION + 1 QUARANTINED / cap 20."). State "Group: PAUSED" — do not report group counts or a group best.
+- Any new listings found this session, and which tier they landed in (PROBATION, or QUARANTINED with the discount that triggered it)
+- Any listings promoted from PROBATION/QUARANTINED to confirmed ACTIVE this run
+- Any listings that were removed since last run (and why — distinguish "flagged/removed (suspected scam)" from "deleted by author (likely rented)")
 - Any listings with price changes
-- The single best current listing **per mode** and why
+- The single best current listing for solo and why — **must be a confirmed `ACTIVE` listing**, never one still on PROBATION or QUARANTINE
 
 This summary is also the required final output. Do not end the run silently — print the summary as plain text after all file updates are complete.
 
@@ -285,15 +320,15 @@ Last updated: [DATE TIME]
 Total runs: [N]
 
 ## Best Current Listings
-- **Solo:** [one-line description + reason]
-- **Group (3BR/3BA):** [one-line description + reason]
+- **Solo:** [one-line description + reason — must be a confirmed ACTIVE listing, never one still on PROBATION or QUARANTINE]
+- **Group (3BR/3BA):** PAUSED — see Search Modes
 
 ## Active Listings — Solo (cap 20)
 
 ### [TITLE] — $[PRICE]/mo — [SOURCE]
 - **Rank:** [1..N within solo]
 - **Mode:** Solo
-- **Status:** ACTIVE
+- **Status:** ACTIVE / PROBATION / QUARANTINED
 - **URL:** [url]
 - **First found:** [date]
 - **Last verified:** [date]
@@ -389,6 +424,10 @@ Total runs: [N]
 - Do not add listings that don't confirm private bathroom (solo) or 2+ bath count (group), laundry, and kitchen — ambiguous is not good enough
 - **Do not add income-restricted listings whose 1-person max income cap is below $100,000/year** (or whose cap is not published). The user is voided out of these. This applies in both solo and group modes.
 - Do not pad the tracker with weak listings that barely meet requirements
+- **Do not name as "Best" or rank #1 any listing still on PROBATION or QUARANTINE** — only confirmed ACTIVE listings are eligible
+- **Do not add any listing tied to a blocklisted repeat-scam operator or address** (see the blocklist in Step 3), no matter how good it looks
+- **Do not treat a far-below-market price as a positive** — it is a scam signal; quarantine it per the Price-Anomaly Quarantine rule
+- **Do not run the group search block or add group listings while group mode is paused** (see Search Modes)
 - Do not leave browser tabs open between searches
 - Do not cache or reuse listing data from prior runs without re-verifying via URL visit
 - Do not create code files, plan documents, or anything other than `listings.md`
