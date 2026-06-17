@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-16 (Run 185)
-Total runs: 185
+Last updated: 2026-06-16 (Run 186)
+Total runs: 186
 
 ## Best Current Listings
-- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred). NoPa 1BR/1BA 980sqft $1,500/mo (Rank 2 — 980sqft standalone apt, garage+EV+AC, water+garbage incl., 55%+ below market). Run 185: 0 new solo, 1 removed (925 Geary Studio — deleted by author after 34+ days/25+ URL cycle). 12 carry-over verified ACTIVE. CL: Tenderloin studios (245 Leavenworth, Frontenac/Market), rejected neighborhoods (Ingleside/Bernal Heights), shared baths, missing laundry — nothing qualifying. SRO batch at 858 Washington (shared bath, no laundry) skipped. FB: Market St SRO shared baths, Bayview/Ingleside neighborhoods, NoPa 2BR laundromat-only. No new qualifying finds. ⚠️ Mission/Potrero Room (Rank 5) now 27+ days since posting — contact to negotiate or confirm. ⚠️ Pacific Heights Room (Rank 12) 19+ days old. Central Richmond Room (Rank 8) has parallel new URL 7941371680 (same unit, same coords — monitoring).
+- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred). NoPa 1BR/1BA 980sqft $1,500/mo (Rank 2 — 980sqft standalone apt, garage+EV+AC, water+garbage incl., 55%+ below market). Run 186: 2 new solo [Rank 13 PROBATION: Geary/Van Ness Victorian Loft Studio $1,850/mo; Rank 14 QUARANTINED: Russian Hill 1BR Curved Corner Victorian $1,100/mo utils incl. ~60% below market]. 0 removed. 12 carry-over verified ACTIVE. CL: Marinas/Palm Breeze scam operating with obfuscated DRE license ("0192.7.7 0 2" = 01927702) — auto-rejected; TL studios; SRO/shared-bath batch; Ingleside/Portola/Sunset rejected neighborhoods. FB: SRO Market St shared bath; Ingleside/Bayview rejected neighborhoods; non-SF Bay Area throughout. ⚠️ Mission/Potrero Room (Rank 5) now 28 days old — negotiate now or prune next run. ⚠️ Pacific Heights Room (Rank 12) 20 days old — prune next run if still unsold. Central Richmond Room (Rank 8): both parallel URLs (7940924023 + 7941371680) confirmed active.
 - **Group (3BR/2+BA):** Outer Richmond 3BR/2BA Flat $4,500/mo (Rank 1 — ONLY GROUP LISTING — 1,200sqft, 2 full baths confirmed, full kitchen, on-site laundry, July 1 now 15 days away — CONTACT URGENTLY). Run 184: 0 new group, 0 removed. All 1 carry-over verified ACTIVE. Group market extremely thin — 1 of 10 cap slots filled. CL 3BR: all scams (lat 37.71 Excelsior), 3BR/1BA-only, or rejected neighborhoods; FB group: non-SF Bay Area/room rentals only; no new qualifying SF 3BR/2+BA found.
 
 ---
 
-## Active Listings — Solo (cap 20) — 12 active (12 carry-over verified ACTIVE + 0 new; 1 removed; Run 185)
+## Active Listings — Solo (cap 20) — 14 active (12 carry-over verified ACTIVE + 2 new [1 PROBATION, 1 QUARANTINED]; 0 removed; Run 186)
 
 ### Chinatown Private Room in 3BR/2BA — Private Bath — $1,150/mo + utils — Craigslist
 - **Rank:** 1
@@ -17,7 +17,7 @@ Total runs: 185
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -45,7 +45,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-welcome-to-new-panhandle/7940227968.html
 - **First found:** 2026-06-11
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Apartment (1BR condo)
 - **Location:** NoPa (North Panhandle) — lat 37.769000, lng -122.442000 (confirmed accepted neighborhood; near Golden Gate Park, USF campus, Kaiser Permanente, Fell St freeway access)
 - **Size:** 980 sq ft
@@ -73,7 +73,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-hayes-valley-studio/7939235710.html
 - **First found:** 2026-06-13
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Studio
 - **Location:** Hayes Valley — lat 37.776178, lng -122.425902 (confirmed accepted neighborhood; 484 Linden St Unit B, near Octavia Blvd, Fell St, Hayes Valley shops/restaurants)
 - **Size:** not listed
@@ -101,7 +101,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-update-apartment-in-the/7939558937.html
 - **First found:** 2026-06-08
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Studio
 - **Location:** Castro / Upper Market / Eureka Valley — lat 37.765197, lng -122.430961 (confirmed accepted neighborhood; near Dolores Park, Castro BART, multiple bus/MUNI/BART lines; Walk Score 97)
 - **Size:** 300 sq ft
@@ -129,7 +129,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-1bed-1bath-in-3bed-3bath/7937398788.html
 - **First found:** 2026-05-31
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Room
 - **Location:** Mission District / Potrero Hill border — lat 37.753121, lng -122.404363 (confirmed accepted neighborhood; near 22nd St BART, Potrero Hill, Mission)
 - **Size:** not listed (room); apartment is 2,000 sq ft total per listing
@@ -143,7 +143,7 @@ Total runs: 185
 - **Pet policy:** dogs OK (golden doodle already in apartment)
 - **Other amenities:** furnished (bed + mattress from poster's setup), east-facing bay windows, dishwasher, queer-friendly housemates; near 22nd St Caltrain + MUNI
 - **Photos:** individual listing (specific, detailed description)
-- **Posting age:** 27 days (posted 2026-05-20) ⚠️ 27+ days on market — negotiate now or consider dropping
+- **Posting age:** 28 days (posted 2026-05-20) ⚠️ 28 days on market — negotiate now or consider dropping
 - **Poster:** D (they/them, 32, pet sitter/walker/ex-techie) + one other roommate — specific and credible description, no scam flags; standard CL /roo/ listing
 
 - **Income-restricted?:** No
@@ -158,7 +158,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-furnished-room-nob-hill/7938770347.html
 - **First found:** 2026-06-13
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Room
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed accepted neighborhood; not Tenderloin: lat 37.7917 above 37.787 threshold; near California St cable car, Polk St, Grace Cathedral)
 - **Size:** not listed (furnished private bedroom)
@@ -186,7 +186,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-welcome-home-bedroom/7938994888.html
 - **First found:** 2026-06-05
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Room
 - **Location:** 9th Ave & Noriega St, Inner Sunset — lat 37.754709, lng -122.465662 (confirmed accepted neighborhood; near Moraga Steps, Golden Gate Heights Park, N Judah ~15 min walk, 6 bus direct)
 - **Size:** 11'9" x 15' (largest bedroom in apartment)
@@ -215,7 +215,7 @@ Total runs: 185
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940924023.html
 - **Prior URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940620580.html (flagged for removal 2026-06-14 — see Expired section)
 - **First found:** 2026-06-13 (original first-found date; relisted 2026-06-14 as URL 7940924023)
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Room
 - **Location:** Central Richmond — Clement St & 27th Ave — lat 37.781924, lng -122.487020 (confirmed accepted neighborhood)
 - **Size:** 12' × 14' (master bedroom)
@@ -243,7 +243,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-post-street-san/7941117073.html
 - **First found:** 2026-06-15
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Studio
 - **Location:** Lower Nob Hill / Polk Gulch — Post St near Larkin — lat 37.787038, lng -122.418271 (confirmed accepted neighborhood; just above Tenderloin boundary at lat 37.787; near Polk St, Grace Cathedral, California St cable car)
 - **Size:** not listed
@@ -271,7 +271,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-room-in-lower-nob/7939730157.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Room
 - **Location:** Lower Nob Hill — lat 37.787800, lng -122.415500 (confirmed accepted neighborhood; above TL boundary lat 37.787; near Polk St, Huntington Park)
 - **Size:** not listed (large room, west-facing bay windows, small closet)
@@ -299,7 +299,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bathroom-in/7939928008.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Room
 - **Location:** 7th Ave & Hugo St, Inner Sunset — lat 37.765067, lng -122.464237 (confirmed accepted neighborhood; 1 block from Golden Gate Park, near Irving St shops/restaurants)
 - **Size:** 850 sq ft total apartment; room is small (fits queen bed, semi walk-in closet, very little floor space)
@@ -327,7 +327,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-pacific-hts-furnished/7937394651.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Room
 - **Location:** Upper Pacific Heights — lat 37.785600, lng -122.435800 (confirmed accepted neighborhood; Lafayette Park 50 steps away, near Fillmore & Polk Sts, Union St)
 - **Size:** 18' × 13' (large bedroom)
@@ -341,7 +341,7 @@ Total runs: 185
 - **Pet policy:** not listed — inquire
 - **Other amenities:** furnished (included), walk-in closet, elevator building, large windows with park view, quiet building
 - **Photos:** individual listing (specific, detailed — 13 days old, updated 2 days ago)
-- **Posting age:** 19 days (posted ~2026-05-28) ⚠️ 19+ days on market
+- **Posting age:** 20 days (posted ~2026-05-28) ⚠️ 20 days on market — prune next run if still unsold
 - **Poster:** individual tenant — quiet, detailed, specific description; "Must be working out of house" requirement (WFH)
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Pacific Heights typically $2,000–$2,600+; at $1,975 (effective ~$2,050 with utils), this is at the low end for confirmed private bath in Pacific Heights
@@ -349,7 +349,63 @@ Total runs: 185
 
 ---
 
-## Active Listings — Group 3BR/2+BA (cap 10) — 1 active (1 carry-over verified ACTIVE; 0 new; 0 removed; Run 185)
+### Geary/Van Ness Victorian Loft Studio — 300sqft — In-Bldg Laundry + Off-Street Parking — $1,850/mo — Craigslist ✨ NEW
+- **Rank:** 13
+- **Mode:** Solo
+- **Status:** PROBATION
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-with-sleeping-loft/7941413160.html
+- **First found:** 2026-06-16
+- **Last verified:** 2026-06-16 (Run 186)
+- **Type:** Studio (loft)
+- **Location:** Geary & Van Ness, Western Addition / Van Ness corridor — lat 37.785893, lng -122.419739 (confirmed accepted neighborhood; not TL: lng -122.419739 is west of Larkin boundary; near Japantown, Civic Center, Van Ness movie theaters, Geary/O'Farrell 38 bus)
+- **Size:** 300 sq ft
+- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit)
+- **Rent:** $1,850/mo; utilities not stated → add ~$75–100/mo PG&E+internet → effective ~$1,925–1,950/mo
+- **Deposit:** not listed
+- **Lease:** monthly
+- **Available:** Now
+- **Laundry:** in-building (laundry in bldg — confirmed CL attr)
+- **Parking:** off-street nearby (~$300/mo garage per listing body; not included)
+- **Pet policy:** cats OK
+- **Other amenities:** sleeping loft (queen bed fits), hardwood floors, stainless steel appliances, granite counters, large windows, roof deck, birdcage elevator (historic landmark building — Emeric-Goodman Building, SF Landmark #71, National Register #75000473), college students with parent co-signers OK
+- **Photos:** individual landlord listing (historic building, specific detailed description)
+- **Posting age:** <1 day (posted 2026-06-16)
+- **Poster:** individual landlord — specific, detailed description; historic building context, $30 credit check app fee; no scam flags
+- **Income-restricted?:** No
+- **vs. market:** Studios in Western Addition/Van Ness corridor typically $1,800–$2,400; at $1,850 (effective ~$1,925–1,950), this is at the low end for the area — no price anomaly
+- **Notes:** Loft studio in the historic Emeric-Goodman Victorian landmark building (SF Landmark #71) at Geary & Van Ness. Private bath confirmed (0BR/1BA standalone). Full kitchen confirmed ("stainless steel appliances, granite counters" in body). In-building laundry. Roof deck. Hardwood floors. 300sqft with sleeping loft. Cats OK. Monthly lease. Off-street parking available nearby at ~$300/mo (not included). Application fee $30 (credit check). Posted today — contact via CL reply. ⚠️ PROBATION — new this run; not yet verified live on a subsequent run. Ineligible for Best/Rank 1 until promoted to ACTIVE.
+
+---
+
+### Russian Hill 1BR/1BA — Curved Corner Victorian — Utilities Incl. + Coinless Laundry — $1,100/mo — Craigslist ⚠️ QUARANTINED
+- **Rank:** 14
+- **Mode:** Solo
+- **Status:** QUARANTINED
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-curved-corner-2nd-flr/7941389699.html
+- **First found:** 2026-06-16
+- **Last verified:** 2026-06-16 (Run 186)
+- **Type:** Apartment (1BR)
+- **Location:** Russian Hill / Nob Hill — lat 37.791700, lng -122.418600 (confirmed accepted neighborhood; near Hyde St cable car, California St cable car, Powell St cable car; Trader Joe's at Pine & Hyde 1 block away)
+- **Size:** not listed
+- **BR/BA:** 1BR/1BA (private bathroom — "spacious bathroom with large open shower stall and glass door enclosure, separate toilet and vanity" confirmed in body)
+- **Rent:** $1,100/mo; utilities included → effective $1,100/mo all-in (no additional utility costs)
+- **Deposit:** not listed
+- **Lease:** monthly
+- **Available:** Now
+- **Laundry:** in-building (coinless SpeedQueen washers/dryers in building — confirmed)
+- **Parking:** street only
+- **Pet policy:** cats OK
+- **Other amenities:** "wide open Kitchen with large gas stove and large refrigerator" (full kitchen confirmed), curved corner layout in Victorian 3-story building, vinyl double-paned windows, hardwood floors, spacious bedroom with large closet + entryway closet, no smoking
+- **Photos:** individual landlord listing (highly specific description with named appliances, local landmarks)
+- **Posting age:** <1 day (posted 2026-06-16)
+- **Poster:** individual landlord — very specific and detailed description (SpeedQueen brand washers, Trader Joe's at Pine & Hyde, cable car lines); no AI template; no scam language; no "text me your number" pattern; $0 listed app fee. Specific enough to be credible — but price remains extreme anomaly.
+- **Income-restricted?:** No (no AMI/BMR/income-cap language in listing)
+- **vs. market:** 1BR apartments in Russian Hill/Nob Hill with utilities included typically $2,800–$3,500+; at $1,100 all-in, this is ~60–65% below market — extreme price anomaly. ⚠️ QUARANTINED per price-anomaly rule.
+- **Notes:** ⚠️ QUARANTINED — price is ~60–65% below market for a 1BR in Russian Hill/Nob Hill even with utilities included. Full kitchen confirmed (large gas stove + large refrigerator per body). Private bathroom confirmed (body: "spacious bathroom with large open shower stall and glass door enclosure, separate toilet and vanity"). Coinless in-building laundry (SpeedQueen). Cats OK. Monthly lease. Listing is highly specific and does not match known scam templates — but extreme below-market pricing is the #1 scam signal. Must survive at least one more verification cycle before promotion to ACTIVE. Ineligible for Best/Rank 1 regardless of price. If flagged/removed before next run: expires as "Price anomaly — flagged/removed before verification (suspected scam)."
+
+---
+
+## Active Listings — Group 3BR/2+BA (cap 10) — 1 active (1 carry-over verified ACTIVE; 0 new; 0 removed; Run 186)
 
 ### Beautiful, Secluded, Richmond Flat — 3BR/2BA — $4,500/mo — Craigslist
 - **Rank:** 1
@@ -357,7 +413,7 @@ Total runs: 185
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-beautiful-secluded/7939494213.html
 - **First found:** 2026-06-08
-- **Last verified:** 2026-06-16 (Run 185)
+- **Last verified:** 2026-06-16 (Run 186)
 - **Type:** Apartment (second-story flat in multi-unit building)
 - **Location:** Outer Richmond — lat 37.773702, lng -122.500386 (confirmed accepted neighborhood; near 5-Fulton and 38-Geary lines, Golden Gate Park)
 - **Size:** 1,200 sq ft
@@ -1903,3 +1959,4 @@ Total runs: 185
 | 183 | 2026-06-16 | 0 | 0 | 0 (all 13 solo + 1 group carry-over verified ACTIVE; CL flooded with scam wave — NY-address spam, "text me your number" templates, $800–$1,200 fake SF listings; no new qualifying private-bath solo units; Noe Valley in-law $1,800 shared bath Home Match reject; SRO 858 Washington St shared bath; private room 3-bed Inner Sunset flat no private bath; group: 3BR/2BA scam lat 37.71 Excelsior; 3BR/1BA-only throughout; FB solo: shared baths, Bayview 94124 rejected, SRO shared kitchen; FB group: room rentals only, non-SF; no qualifying new SF listings in either mode) | Chinatown Room $1,150 Rank 1 (private bath, W/D in-unit, Aug 1 avail) / NoPa 1BR/1BA $1,500 Rank 2 (980sqft, garage, AC) | Outer Richmond 3BR/2BA $4,500 Rank 1 — ONLY GROUP (July 1 ~15 days away — CONTACT URGENTLY) |
 | 184 | 2026-06-16 | 0 | 0 | 0 (all 13 solo + 1 group carry-over verified ACTIVE; CL flooded with NY/IL address spam wave + "If you interested please text me your number" scam templates w/ commercial-space filler text; no new qualifying private-bath solo units; Noe Valley in-law $1,800 shared bath + $2,100eff over budget; Potrero Hill FB room $1,800 shared bath explicit; FB Ingleside Heights master room $1,512 rejected neighborhood; group: lat 37.71 Excelsior scam + 3BR/1BA-only CL; FB group: non-SF Bay Area/room rentals only; no qualifying new SF listings in either mode. Central Richmond Room Rank 8 updated: move-in date July 1 per listing body [was July 10]) | Chinatown Room $1,150 Rank 1 (private bath, W/D in-unit, Aug 1 avail) / NoPa 1BR/1BA $1,500 Rank 2 (980sqft, garage, AC) | Outer Richmond 3BR/2BA $4,500 Rank 1 — ONLY GROUP (July 1 ~15 days away — CONTACT URGENTLY) |
 | 185 | 2026-06-16 | 0 | 0 | 1 (925 Geary Studio $1,795 CL 7939619444 — deleted by author after 34 days total / 25+ URL relist cycle; was Rank 11; CL solo: TL studios [245 Leavenworth TL-confirmed, Frontenac/Market TL], rejected neighborhoods [Ingleside/Bernal Heights lat 37.731 ×2], shared baths [Home Match NV $2,100eff], SRO/no-laundry batch [858 Washington Chinatown]; Central Richmond Room new parallel URL 7941371680 same unit [same coords] noted; FB solo: Market St SRO shared bath 94103, Bayview/Hunters Point 94124 rejected, Ingleside 94132 shared bath+shared kitchen, Twin Peaks $1,201 shared bath explicit, NoPa 2BR laundromat-only; no new qualifying SF solo or group listings) | Chinatown Room $1,150 Rank 1 (private bath, W/D in-unit, Aug 1 avail) / NoPa 1BR/1BA $1,500 Rank 2 (980sqft, garage, AC) | PAUSED |
+| 186 | 2026-06-16 | 2 (NEW Rank 13 PROBATION: Geary/Van Ness Victorian Loft Studio $1,850/mo CL 7941413160 — 300sqft landmark bldg, private bath, in-bldg laundry, stainless appliances, cats OK; NEW Rank 14 QUARANTINED: Russian Hill 1BR Curved Corner $1,100/mo utils incl. CL 7941389699 — full kitchen, private bath, coinless laundry, ⚠️ 60%+ below market) | 0 | 0 (all 12 carry-over solo + 1 group verified ACTIVE; CL: Marinas/Palm Breeze scam with obfuscated DRE 0192.7.7 0 2 auto-rejected; SRO 858 Washington shared bath+no laundry; TL studios; Ingleside/Portola rejected; Home Match NV in-law $1,800 shared bath again; SOMA Airbnb $2,000 exactly at cap + not standard lease; no qualifying new solo or group listings beyond 2 added; FB: SRO 1005 Market shared bath; 580 O'Farrell SRO shared bath+TL; Ingleside/Bayview rejected; non-SF Bay Area throughout) | Chinatown Room $1,150 Rank 1 (private bath, W/D in-unit, Aug 1 avail) / NoPa 1BR/1BA $1,500 Rank 2 (980sqft, garage, AC) | PAUSED |
