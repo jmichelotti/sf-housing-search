@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-19 (Run 198)
-Total runs: 198
+Last updated: 2026-06-20 (Run 199)
+Total runs: 199
 
 ## Best Current Listings
-- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred). Hayes Valley Studio 484 Linden St $1,395/mo (Rank 2 — furnished, AC, in-bldg laundry, month-to-month, cats+dogs OK). Run 198: 0 new solo. 1 removed (NoPa 1BR/1BA $1,500 — flagged for removal by CL; was 55%+ below market, suspected scam). No qualifying new finds on CL or FB Marketplace (copy-paste scams from PA/SD/Chicago, SRO shared baths, no-stove in-laws, TL-zone studios, SRO communal kitchens, rejected neighborhoods [Bayview, Stonestown/Daly City, Outer Richmond, Central Sunset, SFSU area]; 1 new Geary/Van Ness loft relist URL noted). 8 confirmed ACTIVE.
+- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred). Hayes Valley Studio 484 Linden St $1,395/mo (Rank 2 — furnished, AC, in-bldg laundry, month-to-month, cats+dogs OK). Run 199: 0 new solo. 0 removed. All 8 confirmed ACTIVE. No qualifying new finds on CL or FB Marketplace: massive "text your details" batch scam operation flooding CL across accepted SF neighborhoods (Marina, Russian Hill, Nob Hill, Haight, NoPa, Richmond) — all same operator; multiple copy-paste listings from LA/Chicago/San Diego; SRO shared baths, no-stove in-laws, TL-zone studios, communal kitchens, rejected neighborhoods. Geary/Van Ness loft new relist URL 7942059012 noted (same unit, continuing cycle — primary URL 7941413160 still active). FB Marketplace: mostly SROs (shared baths/communal kitchens), Bayview 94124, Daly City, non-SF Bay Area; 1 Twin Peaks room had shared bath, 1 Bayview 94124 room rejected neighborhood. 8 confirmed ACTIVE.
 - **Group (3BR/2+BA):** PAUSED — see Search Modes
 
 ---
 
-## Active Listings — Solo (cap 20) — 8 active (8 confirmed ACTIVE; 0 PROBATION; 0 QUARANTINED; 0 new; 1 removed; 0 promoted; Run 198)
+## Active Listings — Solo (cap 20) — 8 active (8 confirmed ACTIVE; 0 PROBATION; 0 QUARANTINED; 0 new; 0 removed; 0 promoted; Run 199)
 
 ### Chinatown Private Room in 3BR/2BA — Private Bath — $1,150/mo + utils — Craigslist
 - **Rank:** 1
@@ -17,7 +17,7 @@ Total runs: 198
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-19 (Run 198)
+- **Last verified:** 2026-06-20 (Run 199)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -45,7 +45,7 @@ Total runs: 198
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-hayes-valley-studio/7939235710.html
 - **First found:** 2026-06-13
-- **Last verified:** 2026-06-19 (Run 198)
+- **Last verified:** 2026-06-20 (Run 199)
 - **Type:** Studio
 - **Location:** Hayes Valley — lat 37.776178, lng -122.425902 (confirmed accepted neighborhood; 484 Linden St Unit B, near Octavia Blvd, Fell St, Hayes Valley shops/restaurants)
 - **Size:** not listed
@@ -73,7 +73,7 @@ Total runs: 198
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-update-apartment-in-the/7939558937.html
 - **First found:** 2026-06-08
-- **Last verified:** 2026-06-19 (Run 198)
+- **Last verified:** 2026-06-20 (Run 199)
 - **Type:** Studio
 - **Location:** Castro / Upper Market / Eureka Valley — lat 37.765197, lng -122.430961 (confirmed accepted neighborhood; near Dolores Park, Castro BART, multiple bus/MUNI/BART lines; Walk Score 97)
 - **Size:** 300 sq ft
@@ -101,7 +101,7 @@ Total runs: 198
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-furnished-room-nob-hill/7938770347.html
 - **First found:** 2026-06-13
-- **Last verified:** 2026-06-19 (Run 198)
+- **Last verified:** 2026-06-20 (Run 199)
 - **Type:** Room
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed accepted neighborhood; not Tenderloin: lat 37.7917 above 37.787 threshold; near California St cable car, Polk St, Grace Cathedral)
 - **Size:** not listed (furnished private bedroom)
@@ -130,7 +130,7 @@ Total runs: 198
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940924023.html
 - **Prior URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940620580.html (flagged for removal 2026-06-14 — see Expired section)
 - **First found:** 2026-06-13 (original first-found date; relisted 2026-06-14 as URL 7940924023)
-- **Last verified:** 2026-06-19 (Run 198)
+- **Last verified:** 2026-06-20 (Run 199)
 - **Type:** Room
 - **Location:** Central Richmond — Clement St & 27th Ave — lat 37.781924, lng -122.487020 (confirmed accepted neighborhood)
 - **Size:** 12' × 14' (master bedroom)
@@ -158,7 +158,7 @@ Total runs: 198
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-room-in-lower-nob/7939730157.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-19 (Run 198)
+- **Last verified:** 2026-06-20 (Run 199)
 - **Type:** Room
 - **Location:** Lower Nob Hill — lat 37.787800, lng -122.415500 (confirmed accepted neighborhood; above TL boundary lat 37.787; near Polk St, Huntington Park)
 - **Size:** not listed (large room, west-facing bay windows, small closet)
@@ -186,7 +186,7 @@ Total runs: 198
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-with-sleeping-loft/7941413160.html
 - **First found:** 2026-06-16
-- **Last verified:** 2026-06-19 (Run 198)
+- **Last verified:** 2026-06-20 (Run 199)
 - **Type:** Studio (loft)
 - **Location:** Geary & Van Ness, Western Addition / Van Ness corridor — lat 37.785893, lng -122.419739 (confirmed accepted neighborhood; not TL: lng -122.419739 is west of Larkin boundary; near Japantown, Civic Center, Van Ness movie theaters, Geary/O'Farrell 38 bus)
 - **Size:** 300 sq ft
@@ -200,7 +200,7 @@ Total runs: 198
 - **Pet policy:** cats OK
 - **Other amenities:** sleeping loft (queen bed fits), hardwood floors, stainless steel appliances, granite counters, large windows, roof deck, birdcage elevator (historic landmark building — Emeric-Goodman Building, SF Landmark #71, National Register #75000473), college students with parent co-signers OK
 - **Photos:** individual landlord listing (historic building, specific detailed description)
-- **Posting age:** 3 days (posted 2026-06-16). ♻️ New parallel URL 7941638508 confirmed same unit Run 190; Run 192 CL shows "a day ago" — relisted/refreshed again (2026-06-17); Run 195 new URL 7941832177 spotted in studio laundry search — same unit, still active relist cycle; Run 198 new URL 7942059012 spotted in studio laundry search — same unit (verified same coords lat 37.7917/lng -122.4186, same Emeric-Goodman Building description), continuing relist cycle
+- **Posting age:** 4 days (posted 2026-06-16). ♻️ New parallel URL 7941638508 confirmed same unit Run 190; Run 192 CL shows "a day ago" — relisted/refreshed again (2026-06-17); Run 195 new URL 7941832177 spotted; Run 198 new URL 7942059012 spotted in studio laundry search — same unit (verified same coords lat 37.7917/lng -122.4186, same Emeric-Goodman Building description); Run 199: primary URL 7941413160 confirmed ACTIVE (reply button present), new URL 7942059012 also appearing in search results — continuing relist cycle
 - **Poster:** individual landlord — specific, detailed description; historic building context, $30 credit check app fee; no scam flags
 - **Income-restricted?:** No
 - **vs. market:** Studios in Western Addition/Van Ness corridor typically $1,800–$2,400; at $1,850 (effective ~$1,925–1,950), this is at the low end for the area — no price anomaly
@@ -214,7 +214,7 @@ Total runs: 198
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bathroom-in/7939928008.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-19 (Run 198)
+- **Last verified:** 2026-06-20 (Run 199)
 - **Type:** Room
 - **Location:** 7th Ave & Hugo St, Inner Sunset — lat 37.765067, lng -122.464237 (confirmed accepted neighborhood; 1 block from Golden Gate Park, near Irving St shops/restaurants)
 - **Size:** 850 sq ft total apartment; room is small (fits queen bed, semi walk-in closet, very little floor space)
@@ -1866,3 +1866,4 @@ Total runs: 198
 | 196 | 2026-06-19 | 0 | 0 | 0 (all 10 solo confirmed ACTIVE; CL: TL zone (642 Jones self-labeled/500 Hyde lat 37.786), Portola lat 37.731 rejected, SRO shared baths+no kitchen, no-private-bath rooms, garden unit/ADU/in-law searches returned East Bay/Peninsula only; FB: Bayview/Hunters Point (3rd/Williams transit), Twin Peaks shared bath, Silver Terrace/Visitacion Valley rejected, Ingleside rejected, Home Match nonprofit shared-bath in-laws (Noe St/27th), SRO communal kitchens, $2,000 at cap not under, non-SF Bay Area; Mission/Potrero Room Rank 5 staleness flagged — last refreshed ~May 29, no update in 3+ weeks). 10 confirmed ACTIVE. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit, Aug 1 avail (40–50% below market) | PAUSED |
 | 197 | 2026-06-19 | 0 | 0 | 1 pruned (Mission/Potrero Room $1,593 — 30d market, no CL refresh since May 29; still live at prune time). CL: 858 Washington SRO shared bath, no-stove in-laws at lat 37.731 ×2 (same landlord), Outer Sunset no laundry, TL zone (344 Ellis Mosser self-labeled TL, 642 Jones confirmed TL, Frontenac TL self-labeled), Noe Valley Home Match shared bath, SFSU-area triple-post in-laws, no-private-bath rooms throughout. FB: dominated by non-SF Bay Area (Oakland, Daly City, San Pablo, Richmond CA, Vallejo, Pittsburg, San Jose), SRO shared baths (858 Washington, 1005 Market, 6th & Market communal kitchen), Silver Terrace shared bath, Daly City/SFSU border rooms, Outer Richmond no-stove in-law; 9 confirmed ACTIVE. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit, Aug 1 avail (40–50% below market) | PAUSED |
 | 198 | 2026-06-19 | 0 | 0 | 1 removed (NoPa 1BR/1BA $1,500 CL 7940227968 — flagged for removal by Craigslist; was 55–65% below market, suspected scam; price-anomaly quarantine should have been applied at first find Run 165). CL: copy-paste scams from PA (18020 Beacon Hill Dr Southampton PA 19067), IL (Logan Square Blue Line Chicago), SD (The Junipers Penasquitos), TL zone (344 Ellis lat 37.785, 642 Jones lat 37.7813 Yoli/MMG legitimate but TL-zone), Outer Richmond no-stove in-law (lat 37.775566), Central Sunset in-law rejected neighborhood (lat 37.757400), SFSU/Ingleside area rejected (lat 37.7372/37.7310), shared baths (Upper Haight 2bd/1ba, Noe Valley Home Match explicit shared-with-guests), no kitchen (SRO "NO Stove" explicit, Richmond district no stove, SRO 858 Washington); ADU search returned zero SF results. FB: Bayview/Hunters Point $1,350 (3rd St/Revere/Shafter/54 Felton), Stonestown/Ingleside $1,500 shared bath with 3 people, Daly City/Ocean Ave/SFSU $1,250, SRO 6th/Mission $1,400 private bath BUT explicit "Shared Kitchen" fails kitchen requirement; Geary/Van Ness loft new relist URL 7942059012 noted (same unit confirmed coords lat 37.7917/lng -122.4186). 8 confirmed ACTIVE. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit, Aug 1 avail (40–50% below market) | PAUSED |
+| 199 | 2026-06-20 | 0 | 0 | 0 (all 8 solo confirmed ACTIVE; massive "text your details" batch scam operation flooding CL across accepted SF neighborhoods — Marina, Russian Hill, Nob Hill, Haight, NoPa, Richmond, Potrero Hill — same operator flooding with identical sparse format; copy-paste scams from LA [freeways 405/5/118], Chicago [Logan Square Blue Line], San Diego [The Junipers Penasquitos]; SRO shared baths [858 Washington, 1005 Market St]; no-stove in-laws; TL-zone studios; communal kitchens; sublet at $1,500/2wks not monthly; Noe Valley in-law shared bath Home Match nonprofit; Geary/Van Ness loft URL 7941413160 confirmed ACTIVE, new relist URL 7942059012 continuing cycle. FB: SRO shared baths+communal kitchens [6th/Mission $1,395], Twin Peaks 4BR/3BA $1,201 shared bath, Bayview 94124 $1,400 rejected neighborhood, non-SF Bay Area throughout). 8 confirmed ACTIVE. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit, Aug 1 avail (40–50% below market) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
