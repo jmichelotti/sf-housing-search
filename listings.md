@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-22 (Run 204)
-Total runs: 204
+Last updated: 2026-06-22 (Run 205)
+Total runs: 205
 
 ## Best Current Listings
-- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred; ⚠️ 20 days on market). Hayes Valley Studio 484 Linden St $1,395/mo (Rank 2 — furnished, AC, in-bldg laundry, month-to-month, cats+dogs OK). Run 204: 0 new solo. 3 removed: Castro Studio $1,500 (deleted — likely rented, 14d), Nob Hill Furnished Room $1,650 (deleted — likely rented, 9d), Mission Studio PROBATION $1,280 (failed probation — removed <1 day). Geary/Van Ness Loft URL updated to 7942256312. Rejects: Palm Breeze/Marinas batch ongoing; Oracle Park/987sqft scam wave on CL; FB Chinatown = same unit as Rank 1; FB SoMa studio $2,000 = exactly at cap (not under). 7 confirmed ACTIVE.
+- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred; ⚠️ 21 days on market). Hayes Valley Studio 484 Linden St $1,395/mo (Rank 2 — furnished, AC, in-bldg laundry, month-to-month, cats+dogs OK). Run 205: 1 new solo (Russian Hill Studio $1,500 all-utils-incl — PROBATION; hot plate kitchenette only). 0 removed. 0 promoted. Rejects: large batch-poster wave ($X/app|$Y admin/holding.fee format, same-day open houses Mon-Wed) flooding CL with 2BR and 1BR across Richmond/Nob Hill/N.Beach/LPacHts; BMR studio $1,545 income-restricted ($65,540/yr cap — disqualifying); all FB SF solo listings in rejected neighborhoods or shared-bath. 7 confirmed ACTIVE + 1 PROBATION.
 - **Group (3BR/2+BA):** PAUSED — see Search Modes
 
 ---
 
-## Active Listings — Solo (cap 20) — 7 active (7 confirmed ACTIVE; 0 PROBATION; 0 QUARANTINED; 0 new; 3 removed; 0 promoted; Run 204)
+## Active Listings — Solo (cap 20) — 8 active (7 confirmed ACTIVE; 1 PROBATION; 0 QUARANTINED; 1 new; 0 removed; 0 promoted; Run 205)
 
 ### Chinatown Private Room in 3BR/2BA — Private Bath — $1,150/mo + utils — Craigslist
 - **Rank:** 1
@@ -17,7 +17,7 @@ Total runs: 204
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-22 (Run 204)
+- **Last verified:** 2026-06-22 (Run 205)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -45,7 +45,7 @@ Total runs: 204
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-hayes-valley-studio/7939235710.html
 - **First found:** 2026-06-13
-- **Last verified:** 2026-06-22 (Run 204)
+- **Last verified:** 2026-06-22 (Run 205)
 - **Type:** Studio
 - **Location:** Hayes Valley — lat 37.776178, lng -122.425902 (confirmed accepted neighborhood; 484 Linden St Unit B, near Octavia Blvd, Fell St, Hayes Valley shops/restaurants)
 - **Size:** not listed
@@ -74,7 +74,7 @@ Total runs: 204
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940924023.html
 - **Prior URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940620580.html (flagged for removal 2026-06-14 — see Expired section)
 - **First found:** 2026-06-13 (original first-found date; relisted 2026-06-14 as URL 7940924023)
-- **Last verified:** 2026-06-22 (Run 204)
+- **Last verified:** 2026-06-22 (Run 205)
 - **Type:** Room
 - **Location:** Central Richmond — Clement St & 27th Ave — lat 37.781924, lng -122.487020 (confirmed accepted neighborhood)
 - **Size:** 12' × 14' (master bedroom)
@@ -102,7 +102,7 @@ Total runs: 204
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-room-in-lower-nob/7939730157.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-22 (Run 204)
+- **Last verified:** 2026-06-22 (Run 205)
 - **Type:** Room
 - **Location:** Lower Nob Hill — lat 37.787800, lng -122.415500 (confirmed accepted neighborhood; above TL boundary lat 37.787; near Polk St, Huntington Park)
 - **Size:** not listed (large room, west-facing bay windows, small closet)
@@ -131,7 +131,7 @@ Total runs: 204
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studios-with-sleeping-lofts/7942256312.html
 - **Prior primary URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-with-sleeping-loft/7941413160.html (dead as of 2026-06-22 — redirects)
 - **First found:** 2026-06-16
-- **Last verified:** 2026-06-22 (Run 204)
+- **Last verified:** 2026-06-22 (Run 205)
 - **Type:** Studio (loft)
 - **Location:** Geary & Van Ness, Western Addition / Van Ness corridor — lat 37.785893, lng -122.419739 (confirmed accepted neighborhood; not TL: lng -122.419739 is west of Larkin boundary; near Japantown, Civic Center, Van Ness movie theaters, Geary/O'Farrell 38 bus)
 - **Size:** 300 sq ft
@@ -159,7 +159,7 @@ Total runs: 204
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bathroom-in/7939928008.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-22 (Run 204)
+- **Last verified:** 2026-06-22 (Run 205)
 - **Type:** Room
 - **Location:** 7th Ave & Hugo St, Inner Sunset — lat 37.765067, lng -122.464237 (confirmed accepted neighborhood; 1 block from Golden Gate Park, near Irving St shops/restaurants)
 - **Size:** 850 sq ft total apartment; room is small (fits queen bed, semi walk-in closet, very little floor space)
@@ -187,7 +187,7 @@ Total runs: 204
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 202 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-available-jul-1st-huge/7942338040.html
 - **First found:** 2026-06-21
-- **Last verified:** 2026-06-22 (Run 204)
+- **Last verified:** 2026-06-22 (Run 205)
 - **Type:** Room
 - **Location:** Noe Valley — lat 37.748097, lng -122.433769 (confirmed accepted neighborhood; 26th near Castro, 2 blocks from J-Church Muni, Bus #24 around corner, 15 min walk to Dolores Park)
 - **Size:** not listed (large master bedroom, furnished)
@@ -206,6 +206,34 @@ Total runs: 204
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with en-suite bath in Noe Valley typically $2,000–$2,500+; at $1,960/mo, at the low end of market for confirmed en-suite in Noe Valley — reasonable pricing, not an anomaly
 - **Notes:** Large master bedroom with private en-suite bathroom in Noe Valley. All requirements confirmed: private bath (CL attr + body), W/D in-unit, full kitchen with dishwasher, July 1 availability. Furnished. No pets. Flexible lease. 2 blocks from J-Church Muni (direct downtown). Excellent Noe Valley location. ⬆️ PROMOTED to ACTIVE Run 202 — survived first verification cycle (reply button present, $1,960 confirmed). Now eligible for ranking consideration.
+
+---
+
+### Russian Hill Studio — 350sqft — All Utilities Included + Garage + AC + EV — $1,500/mo — Craigslist
+- **Rank:** 8
+- **Mode:** Solo
+- **Status:** PROBATION
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-simply-beautiful-studio/7942347878.html
+- **First found:** 2026-06-22
+- **Last verified:** 2026-06-22 (Run 205)
+- **Type:** Studio
+- **Location:** Russian Hill — lat 37.798601, lng -122.410502 (confirmed accepted neighborhood; near Polk St / Broadway, 1 block from Trader Joe's)
+- **Size:** 350 sq ft
+- **BR/BA:** Studio/1BA (private bathroom — standalone unit; 0BR/1BA CL attrs)
+- **Rent:** $1,500/mo all utilities included (PG&E, water, garbage) — tenant pays WiFi only; no additional utility cost
+- **Deposit:** not listed
+- **Lease:** monthly
+- **Available:** Now
+- **Laundry:** on-site (CL attr "laundry on site" confirmed)
+- **Parking:** attached garage (CL attr confirmed)
+- **Pet policy:** cats OK, dogs OK (CL attrs confirmed)
+- **Other amenities:** air conditioning (CL attr confirmed), EV charging (CL attr confirmed), wheelchair accessible; separate kitchen area with counter, hot plate, mini-fridge — NO STOVE ⚠️; full bathroom with shower
+- **Photos:** individual landlord (minimal CL listing)
+- **Posting age:** 1 day (posted 2026-06-21; open house 2026-06-21)
+- **Poster:** individual landlord — direct listing, no PM company, no scam flags; standard CL /apa/ with consistent attrs
+- **Income-restricted?:** No
+- **vs. market:** Studios in Russian Hill typically $1,800–$2,200+/mo; a minimal kitchenette (no-stove) studio in the area might go $1,600–$1,800. At $1,500/mo all-in (utilities included, so effective base ~$1,350–$1,400), this is ~15–20% below market for a no-stove unit — reasonable, not a quarantine trigger (threshold is ≥30% below)
+- **Notes:** PROBATION — new this run; must survive next verification to be eligible for Rank 1/Best. Standalone 350sqft studio in Russian Hill with all requirements met: private bath (standalone unit), on-site laundry, in-unit kitchen (separate kitchen area). ⚠️ KEY LIMITATION: No stove — kitchen is a separate counter area with hot plate + mini-fridge only. Meets kitchenette minimum per CLAUDE.md but cooking is limited. Positives: garage parking (rare in Russian Hill), AC, EV charging, cats+dogs OK, all utilities bundled into $1,500. Open house was 2026-06-21 (yesterday) — contact via CL reply to confirm availability. Monitor closely next run.
 
 ---
 
@@ -1875,3 +1903,4 @@ Total runs: 204
 | 202 | 2026-06-21 | 0 | 0 | 0 (all 9 solo confirmed ACTIVE; Noe Valley $1,960 room promoted PROBATION→ACTIVE; Palm Breeze/Marinas batch rejects [Russian Hill $1,355 blocklist]; Noe Valley $1,140 1BR skipped — identical fee format+contact script to blocklisted operator, 55% below market; Russian Hill $1,500 dual-URL duplicate+contradictory pet policy skipped; Bayview Silver Terrace $1,350 FB rejected neighborhood; Mission/Bernal Heights $1,950 FB shared bath+rejected; SRO shared baths [858 Washington, 1005 Market]; TL zone [424/642 Jones, Jones/Ellis/Eddy]; Ingleside/SFSU/Bayview rejected neighborhoods throughout CL+FB; no qualifying new SF solo listings in either CL or FB). 9 confirmed ACTIVE. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ 19 days on market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
 | 203 | 2026-06-21 | 1 (NEW Rank 10 PROBATION: Mission District Studio $1,280/mo CL 7942306944 — 420sqft standalone, updated kitchen, coin-op laundry in-building, private bath, off-street parking, owner pays water+garbage, cats+dogs OK, 1-yr lease, lat 37.751) | 0 | 0 (all 9 solo confirmed ACTIVE; Hayes Valley (Rank 2) photos updated 1→5; Palm Breeze/Marinas ×4 batch auto-rejected; "Logan Square Blue Line Chicago" copy-paste scam (Nob Hill $1,500); "The Junipers Penasquitos" copy-paste scam ×2; Noe Valley in-law $1,800 shared bath+$2,100eff; Outer Richmond studio $1,425 rejected neighborhood+no stove; $1,175/$1,190 Nob Hill/LPacHts flagged before verification; 1008 Larkin $1,445 shared-Ba attr; FB: Bayview 94124, Visitacion Valley/Portola rejected, SRO shared baths, login walls; Russian Hill $1,500 laundry ambiguous—skipped). 9 confirmed ACTIVE + 1 PROBATION. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ 20 days on market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
 | 204 | 2026-06-22 | 0 | 0 | 3 removed (Castro Studio $1,500 deleted — likely rented 14d; Nob Hill Room $1,650 deleted — likely rented 9d; Mission Studio PROBATION $1,280 failed — removed <1d). Geary/Van Ness Loft URL updated 7941413160→7942256312 (same building, new relist). CL: Palm Breeze/Marinas batch ongoing; Oracle Park/987sqft template scam wave; "Para Mas informacion Llama" variant; FB: Chinatown room = same unit as Rank 1; SoMa studio $2,000 = exactly at cap not under. 7 confirmed ACTIVE. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ 20 days on market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
+| 205 | 2026-06-22 | 1 (NEW PROBATION: Russian Hill Studio $1,500 all-utils-incl CL 7942347878 — 350sqft, private bath, on-site laundry, garage, AC, EV charging, cats+dogs OK, hot plate kitchenette no stove ⚠️, monthly, lat 37.798601 Russian Hill confirmed) | 0 | 0 (all 7 carry-over solo confirmed ACTIVE; large batch-poster wave [$39/app|$155 admin/holding.fee format, same-day Mon-Wed open houses Jun 22-24] flooding CL across accepted neighborhoods — Richmond 2BR $1,400 #7942528146, N.Beach 2BR $1,500 #7942527014, Nob Hill 2BR $1,700 #7942516865, LPacHts 1BR+office $1,698 #7942505376 — all matching identical script, rejected as coordinated batch operation; 1008 Larkin #205B $1,945 Kealani/RentSFNow — kitchen not mentioned, skipped per protocol; BMR studio $1,545 income-restricted ($65,540 1-person cap — disqualifying); Bayview lat 37.733/Ingleside lat 37.722/Portola lat 37.731/Sunset-Parkside rejected neighborhoods throughout CL+FB; rooms with shared baths; SRO/no-kitchen units; FB: $1,800 2BR SF PROBATION-tier, $1,500 1BR lat 37.730 Bayview rejected, $1,600 room Teresita Blvd 94127 Diamond Heights shared-bath, $1,785 room Ingleside explicit rejected — no qualifying solo FB finds). 7 confirmed ACTIVE + 1 PROBATION = 8 total. | Chinatown Room $1,150/mo Rank 1 (⚠️ 21d market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
