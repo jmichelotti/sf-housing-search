@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-23 (Run 208)
-Total runs: 208
+Last updated: 2026-06-23 (Run 209)
+Total runs: 209
 
 ## Best Current Listings
-- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred; ⚠️ 22 days on market). Hayes Valley Studio 484 Linden St $1,395/mo (Rank 2 — furnished, AC, in-bldg laundry, month-to-month, cats+dogs OK). Run 208: ⬆️ 1008 Larkin #205B $1,945 + Laurel Heights 1BR $1,984 both promoted PROBATION→ACTIVE. 1 new PROBATION: Nob Hill Large Studio (Bush & Mason) $1,975 (500sqft, separate kitchen, in-bldg laundry, Nob Hill confirmed). 0 removed. 10 confirmed ACTIVE + 1 PROBATION.
+- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred; ⚠️ 23 days on market). Hayes Valley Studio 484 Linden St $1,395/mo (Rank 2 — furnished, AC, in-bldg laundry, month-to-month, cats+dogs OK). Run 209: ⬆️ Nob Hill Large Studio Bush & Mason $1,975 promoted PROBATION→ACTIVE (survived verification). 0 new. 0 removed. 11 confirmed ACTIVE + 0 PROBATION.
 - **Group (3BR/2+BA):** PAUSED — see Search Modes
 
 ---
 
-## Active Listings — Solo (cap 20) — 11 active (10 confirmed ACTIVE; 1 PROBATION; 0 QUARANTINED; 1 new; 0 removed; 2 promoted; Run 208)
+## Active Listings — Solo (cap 20) — 11 active (11 confirmed ACTIVE; 0 PROBATION; 0 QUARANTINED; 0 new; 0 removed; 1 promoted; Run 209)
 
 ### Chinatown Private Room in 3BR/2BA — Private Bath — $1,150/mo + utils — Craigslist
 - **Rank:** 1
@@ -17,7 +17,7 @@ Total runs: 208
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -31,7 +31,7 @@ Total runs: 208
 - **Pet policy:** no pets (per landlord rules)
 - **Other amenities:** apartment mostly furnished; great transit access (Muni 1/30/45/8); Clean and peaceful apartment vibe
 - **Photos:** Dropbox tour link provided (https://www.dropbox.com/scl/fo/rqd3uvaa98jepldj6lbvf/...)
-- **Posting age:** 22 days (posted 2026-06-02; updated 2026-06-17) ⚠️ 3+ weeks on market — contact now if interested
+- **Posting age:** 23 days (posted 2026-06-02; updated 2026-06-17) ⚠️ 3+ weeks on market — contact now if interested
 - **Poster:** 2 female roommates (27F real estate, 25F healthcare) — specific and credible description, no scam flags; standard CL /roo/ + FB cross-listing
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Chinatown/FiDi area typically $1,800–2,200+; at $1,150 (effective ~$1,250–1,300 with utils), this is 40–50% below market — strongest price-per-month on the board
@@ -45,7 +45,7 @@ Total runs: 208
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-hayes-valley-studio/7939235710.html
 - **First found:** 2026-06-13
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Studio
 - **Location:** Hayes Valley — lat 37.776178, lng -122.425902 (confirmed accepted neighborhood; 484 Linden St Unit B, near Octavia Blvd, Fell St, Hayes Valley shops/restaurants)
 - **Size:** not listed
@@ -74,7 +74,7 @@ Total runs: 208
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940924023.html
 - **Prior URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940620580.html (flagged for removal 2026-06-14 — see Expired section)
 - **First found:** 2026-06-13 (original first-found date; relisted 2026-06-14 as URL 7940924023)
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Room
 - **Location:** Central Richmond — Clement St & 27th Ave — lat 37.781924, lng -122.487020 (confirmed accepted neighborhood)
 - **Size:** 12' × 14' (master bedroom)
@@ -102,7 +102,7 @@ Total runs: 208
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-room-in-lower-nob/7939730157.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Room
 - **Location:** Lower Nob Hill — lat 37.787800, lng -122.415500 (confirmed accepted neighborhood; above TL boundary lat 37.787; near Polk St, Huntington Park)
 - **Size:** not listed (large room, west-facing bay windows, small closet)
@@ -131,7 +131,7 @@ Total runs: 208
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studios-with-sleeping-lofts/7942256312.html
 - **Prior primary URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-with-sleeping-loft/7941413160.html (dead as of 2026-06-22 — redirects)
 - **First found:** 2026-06-16
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Studio (loft)
 - **Location:** Geary & Van Ness, Western Addition / Van Ness corridor — lat 37.785893, lng -122.419739 (confirmed accepted neighborhood; not TL: lng -122.419739 is west of Larkin boundary; near Japantown, Civic Center, Van Ness movie theaters, Geary/O'Farrell 38 bus)
 - **Size:** 300 sq ft
@@ -159,7 +159,7 @@ Total runs: 208
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bathroom-in/7939928008.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Room
 - **Location:** 7th Ave & Hugo St, Inner Sunset — lat 37.765067, lng -122.464237 (confirmed accepted neighborhood; 1 block from Golden Gate Park, near Irving St shops/restaurants)
 - **Size:** 850 sq ft total apartment; room is small (fits queen bed, semi walk-in closet, very little floor space)
@@ -187,7 +187,7 @@ Total runs: 208
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 208 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-downtown-1008/7942695474.html
 - **First found:** 2026-06-22
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Studio
 - **Location:** Polk Gulch / Lower Nob Hill — lat 37.787188, lng -122.418302 (confirmed accepted; on Larkin St itself — NOT east of Larkin; nearby Polk Gulch landmarks: Mayes, McTeague's, Uforia confirm Polk Gulch/LNH side; above TL lat threshold 37.787 by 0.000188; not Tenderloin)
 - **Size:** 351 sq ft
@@ -215,7 +215,7 @@ Total runs: 208
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 207 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-spacious-sunny-elegant/7942534940.html
 - **First found:** 2026-06-22
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Studio
 - **Location:** Lower Nob Hill / Sutter-Post Theater District — lat 37.788369, lng -122.412007 (confirmed accepted; above TL boundary lat 37.787; two blocks from Union Square; Sutter/Post arts and theater district near Jones/Taylor)
 - **Size:** 325 sq ft
@@ -243,7 +243,7 @@ Total runs: 208
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 202 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-available-jul-1st-huge/7942338040.html
 - **First found:** 2026-06-21
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Room
 - **Location:** Noe Valley — lat 37.748097, lng -122.433769 (confirmed accepted neighborhood; 26th near Castro, 2 blocks from J-Church Muni, Bus #24 around corner, 15 min walk to Dolores Park)
 - **Size:** not listed (large master bedroom, furnished)
@@ -271,7 +271,7 @@ Total runs: 208
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 208 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-and-airy-1br-1ba/7942622735.html
 - **First found:** 2026-06-22
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** 1BR apartment
 - **Location:** Laurel Heights — lat 37.786988, lng -122.456407 (confirmed accepted; near Spruce, Sociale, Mabel Chong restaurants; short walk to Presidio trails; Laurel Heights/Presidio area)
 - **Size:** 960 sq ft (approx 700 per listing body)
@@ -296,10 +296,10 @@ Total runs: 208
 ### Nob Hill Large Studio — Bush & Mason — 500sqft — Separate Kitchen + In-Bldg Laundry — $1,975/mo — Craigslist
 - **Rank:** 11
 - **Mode:** Solo
-- **Status:** PROBATION
+- **Status:** ACTIVE ⬆️ PROMOTED (Run 209 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-nob-hill-large-studio/7942711144.html
 - **First found:** 2026-06-23
-- **Last verified:** 2026-06-23 (Run 208)
+- **Last verified:** 2026-06-23 (Run 209)
 - **Type:** Studio
 - **Location:** Nob Hill — lat 37.789951, lng -122.410433 (confirmed accepted neighborhood; Bush St & Mason St intersection, above TL boundary lat 37.787; classic Nob Hill location near Huntington Park, Grace Cathedral, Cable Car)
 - **Size:** 500+ sq ft
@@ -317,7 +317,7 @@ Total runs: 208
 - **Poster:** not listed — contact via CL reply
 - **Income-restricted?:** No
 - **vs. market:** Studios in Nob Hill typically $1,800–$2,400; at $1,975 (water+garbage incl., effective ~$2,015–2,035), this is at the low-normal end for a 500sqft renovated studio in Nob Hill — no price anomaly
-- **Notes:** PROBATION — new this run; must survive next verification to be eligible for Rank 1/Best. Requirements confirmed: private bath (0BR/1BA standalone), in-building laundry, separate kitchen (explicitly confirmed — gas stove, stainless appliances). 500sqft is a generous size for a studio in this price range. Nob Hill location confirmed (lat 37.789951, lng -122.410433 — well above TL boundary). Water+garbage included makes effective cost very competitive. Contact via CL reply.
+- **Notes:** ⬆️ PROMOTED to ACTIVE Run 209 — survived first verification cycle; now eligible for ranking. Requirements confirmed: private bath (0BR/1BA standalone), in-building laundry, separate kitchen (explicitly confirmed — gas stove, stainless appliances). 500sqft is a generous size for a studio in this price range. Nob Hill location confirmed (lat 37.789951, lng -122.410433 — well above TL boundary). Water+garbage included makes effective cost very competitive. Contact via CL reply.
 
 ---
 
@@ -2001,3 +2001,4 @@ Total runs: 208
 | 206 | 2026-06-22 | 1 (NEW PROBATION: Sutter/Post Theater District Studio $1,950/mo CL 7942534940 — 325sqft, separate kitchen, in-bldg laundry, private bath standalone, 25 photos, Stephan mgr family-owned Edwardian 80+yrs, 2 blocks Union Square, lat 37.788369 above TL boundary, monthly, available now) | 0 | 1 (Russian Hill Studio $1,500 PROBATION failed — flagged by CL <24h of posting; CL: Central Richmond Room new relist URL 7942607226 (same unit, same coords, not re-added); Ingleside "Quiet Studio" $1,795 lat 37.721 rejected; 225 Taylor St $1,875 TL-zone lat 37.784/lng -122.416; Post St Apts $1,995 income-restricted+no laundry; 858 Washington SRO shared bath+no laundry; Furnished Studio $2,000 near SFSU lat 37.735 rejected; Noe Valley in-law $1,800 sharedBa+$2,100eff Home Match reject; half-bath Haight $1,626 rejected; Ingleside $1,100 lat 37.731 rejected; Upper Haight $1,900 explicit no-private-bath attr; 565 Ellis $1,875 TL-zone lat 37.784+no laundry; Union Square studio $1,945 TL-zone lat 37.785; FB: non-SF/Daly City/Alameda/SRO 1005 Market shared baths/rejected neighborhoods throughout; 1005 Market $1,150 explicitly shared bath; no qualifying new SF FB finds). 7 confirmed ACTIVE + 1 PROBATION = 8 total. | Chinatown Room $1,150/mo Rank 1 (⚠️ 22d market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
 | 207 | 2026-06-22 | 2 (NEW PROBATION: 1008 Larkin #205B Studio $1,945 CL 7942695474 — 351sqft, in-bldg laundry, rent-controlled, cats+dogs OK, Jun 26 avail, lat 37.787188 Polk Gulch/LNH confirmed, posted <1hr; Laurel Heights 1BR/1BA $1,984 CL 7942622735 — 960sqft, on-site laundry, water+garbage incl., cats+dogs OK, renovated, lat 37.786988 Laurel Heights confirmed; ⚠️ 5 CL URLs for Laurel Heights unit) | 0 | 0 (all 8 carry-over solo confirmed ACTIVE; Sutter/Post Studio $1,950 PROMOTED PROBATION→ACTIVE; CL roo: Outer Sunset half-bath $1,650 rejected/shared-bath; lower nob hill $900 room TL-zone+no laundry+ambiguous bath; Upper Haight $1,900 explicit no-private-bath attr; Central Richmond relist URL 7942607226 confirmed same unit — not re-added; CL apa: sfrent.net batch (424 Jones / 851 O'Farrell) confirmed TL-zone (lat 37.785) throughout; 1008 Larkin #205B $1,945 ADDED (was skipped Run 205 for kitchen unconfirmed — body now shows oven/stove+fridge); 642 Jones $1,700 Yoli/MMG TL-zone lat 37.781; SoMa BMR $1,545 income cap $65,540/yr rejected; SoMa 33 Harriet 5-simultaneous-URL batch-spam ($1,655 x5 same address) scam pattern; Nob Hill AI-gibberish scam = Marinas/Palm Breeze DRE 01927702/BK34488-12 blocklisted auto-reject; Noe Valley in-law $1,800 sharedBa+$2,100eff; FB: Forest Hill/Diamond Heights $1,600 rejected neighborhood+shared bath; Bayview 94124 $1,400 rejected; Bernal Heights $1,950 shared bath+sublet+rejected; SoMa 5BD/1BA $1,260 shared bath; Twin Peaks $1,201 explicit shared bath; Ingleside $1,150 shared bath+rejected zip 94132; Ingleside/TL $1,785 rejected neighborhood; SRO 1005 Market $1,150 shared bath explicitly; FB studio searches: all non-SF Bay Area or rejected neighborhoods/shared baths). 8 confirmed ACTIVE + 2 PROBATION = 10 total. | Chinatown Room $1,150/mo Rank 1 (⚠️ 21d market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
 | 208 | 2026-06-23 | 1 (NEW PROBATION: Nob Hill Large Studio Bush & Mason $1,975 CL 7942711144 — 500sqft, separate kitchen gas stove, in-bldg laundry, standalone studio, water+garbage incl., lat 37.789951 Nob Hill confirmed) | 0 | 0 (all 10 carry-over solo confirmed ACTIVE; 1008 Larkin #205B $1,945 PROMOTED PROBATION→ACTIVE Rank 7; Laurel Heights 1BR $1,984 PROMOTED PROBATION→ACTIVE Rank 10; CL: Palm Breeze/Marinas batch (4BR $29 fee + $85 admin format) auto-rejected blocklisted; AI-gibberish body scams; rejected neighborhoods throughout (Ingleside lat 37.721, Bayview lat 37.733, SFSU lat 37.724, Visitacion Valley lat 37.714, Portola lat 37.731); shared baths throughout /roo/ section; SROs/no-kitchen units (858 Washington, 1005 Market); CL sublets/short-term; FB: all SF results rejected — 94132 Ingleside shared-bath, 94124 Bayview rejected, shared baths, sublets, laundromat-only, 4-bed/8-person shared house no private bath; no qualifying new FB finds). 10 confirmed ACTIVE + 1 PROBATION = 11 total. | Chinatown Room $1,150/mo Rank 1 (⚠️ 22d market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
+| 209 | 2026-06-23 | 0 | 0 | 1 promoted (Nob Hill Large Studio Bush & Mason $1,975 PROBATION→ACTIVE Run 209 — survived verification); 0 removed. CL date-sort browse: 2BR/2BA ADU Pacific Heights $1,160 extreme anomaly+scam signals rejected; $2,000 Nob Hill 1BR at-cap rejected; Ingleside studio $1,795 rejected neighborhood; 780 Post SFRent studio $1,995 kitchen unconfirmed; Laurel Heights duplicate relist (7942619529 = same unit as 7942622735); WhatsApp-only Polk St studio 2 photos scam rejected; twin-post "beautiful-large-bright" batch listings rejected; incomplete-address no-kitchen TL-adjacent listings rejected; FB: loaded categories page — all SF results had shared baths (Twin Peaks 4BR/1.5BA, Head St 94132, Precita/Bernal shared bath) or rejected neighborhoods (Bayview 94124, Bernal Heights); no qualifying new CL or FB listings. 11 confirmed ACTIVE + 0 PROBATION. | Chinatown Room $1,150/mo Rank 1 (⚠️ 23d market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
