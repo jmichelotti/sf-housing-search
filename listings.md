@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-27 (Run 225)
-Total runs: 225
+Last updated: 2026-06-27 (Run 226)
+Total runs: 226
 
 ## Best Current Listings
-- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred; ⚠️ 25+ days on market). Hayes Valley Studio 484 Linden St $1,395/mo (Rank 2 — furnished, AC, in-bldg laundry, month-to-month, cats+dogs OK). Run 225: 0 new; 0 removed; 0 promoted. CL: massive batch scam wave (commercial RE filler text body + "Send your phone number" closing + AC/EV/w/d/cats+dogs identical attrs across Marina/Nob Hill/Noe Valley/Hayes Valley batch); NYSEG NY copy-paste scam wave; IL/NY address spam; Richmond 1BR $1,150 "Send your phone number" script + ~55% below market — skipped (price anomaly, near-match to blocklist closing script); rejected neighborhoods throughout; all relo-listed existing listings confirmed same coords; no qualifying new SF solo finds. FB Marketplace: login wall blocking listing details; 1374 20th Ave SF $1,100 room = Outer Sunset 94122 rejected + laundromat-only; no qualifying finds. ⚠️ Central Richmond Room July 1 NOW 4 DAYS AWAY — contact urgently; Noe Valley Room July 1 NOW 4 DAYS AWAY — contact urgently. 12 confirmed ACTIVE.
+- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils, 40–50% below market; caveats: Aug 1, no window, women preferred; ⚠️ 26+ days on market). Hayes Valley Studio 484 Linden St $1,395/mo (Rank 2 — furnished, AC, in-bldg laundry, month-to-month, cats+dogs OK). Run 226: 1 new (Post St Studio $1,900 PROBATION — re-added after false positive removal Run 224; Meridian Mgmt CalBRE #990193, lat 37.787038 Polk Gulch confirmed, separate kitchen, in-bldg app-based laundry, water+trash incl., 1-yr lease, posted 6/26 evening); 1 removed (Laurel Heights 1BR $1,984 — URL 7942622735 redirected to CL SF apartments homepage, deleted by author, likely rented); 0 promoted. NEW blocklist: Madera Valley Property Management / Broker Joseph S. Greenblatt — massive batch-scam wave flooding ALL accepted SF neighborhoods with AI body text (identical "cherry-tinted floorboards" phrasing, bizarre data-literal titles: "Habitable Zone Overview", "Suite Specifications", "Urban Living Data: Spatial Layout"), identical open house dates 6/26-6/28, "w/d hookups" (not in-unit), dotted license formats; 1710 Larkin St 3rd simultaneous URL (bSvn2DEzG8brmMHyQyGxCT) confirmed same pattern/address Run 226; FB Marketplace: login wall blocking listing details; all visible SF rooms at extreme price anomaly levels ($865–$1,260); no qualifying finds. ⚠️ Central Richmond July 1 NOW 4 DAYS AWAY — contact urgently; Noe Valley July 1 NOW 4 DAYS AWAY — contact urgently. 11 confirmed ACTIVE + 1 PROBATION.
 - **Group (3BR/2+BA):** PAUSED — see Search Modes
 
 ---
 
-## Active Listings — Solo (cap 20) — 12 active (12 confirmed ACTIVE; 0 PROBATION; 0 QUARANTINED; 0 new; 0 removed; 0 promoted; Run 225)
+## Active Listings — Solo (cap 20) — 12 active (11 confirmed ACTIVE; 1 PROBATION; 0 QUARANTINED; 1 new; 1 removed; 0 promoted; Run 226)
 
 ### Chinatown Private Room in 3BR/2BA — Private Bath — $1,150/mo + utils — Craigslist
 - **Rank:** 1
@@ -17,7 +17,7 @@ Total runs: 225
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -45,7 +45,7 @@ Total runs: 225
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-hayes-valley-studio/7939235710.html
 - **First found:** 2026-06-13
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Studio
 - **Location:** Hayes Valley — lat 37.776178, lng -122.425902 (confirmed accepted neighborhood; 484 Linden St Unit B, near Octavia Blvd, Fell St, Hayes Valley shops/restaurants)
 - **Size:** not listed
@@ -74,7 +74,7 @@ Total runs: 225
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940924023.html
 - **Prior URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940620580.html (flagged for removal 2026-06-14 — see Expired section)
 - **First found:** 2026-06-13 (original first-found date; relisted 2026-06-14 as URL 7940924023)
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Room
 - **Location:** Central Richmond — Clement St & 27th Ave — lat 37.781924, lng -122.487020 (confirmed accepted neighborhood)
 - **Size:** 12' × 14' (master bedroom)
@@ -102,7 +102,7 @@ Total runs: 225
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 216 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-with-private/7943048866.html
 - **First found:** 2026-06-24
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Room
 - **Location:** Presidio — Presidio Blvd — lat 37.795010, lng -122.449052 (confirmed accepted neighborhood; near Marina District, Palace of Fine Arts, Crissy Field, Presidio tunnel tops)
 - **Size:** not listed (only bedroom on lower floor of house)
@@ -130,7 +130,7 @@ Total runs: 225
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-room-in-lower-nob/7939730157.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Room
 - **Location:** Lower Nob Hill — lat 37.787800, lng -122.415500 (confirmed accepted neighborhood; above TL boundary lat 37.787; near Polk St, Huntington Park)
 - **Size:** not listed (large room, west-facing bay windows, small closet)
@@ -158,7 +158,7 @@ Total runs: 225
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 217 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-bedroom-with/7942912262.html
 - **First found:** 2026-06-25
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Room (in 2BR)
 - **Location:** SoMa — lat 37.772500, lng -122.414700 (confirmed accepted neighborhood; South of Market)
 - **Size:** not listed (large bedroom in 2BR unit)
@@ -187,7 +187,7 @@ Total runs: 225
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studios-with-sleeping-lofts/7942256312.html
 - **Prior primary URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-with-sleeping-loft/7941413160.html (dead as of 2026-06-22 — redirects)
 - **First found:** 2026-06-16
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Studio (loft)
 - **Location:** Geary & Van Ness, Western Addition / Van Ness corridor — lat 37.785893, lng -122.419739 (confirmed accepted neighborhood; not TL: lng -122.419739 is west of Larkin boundary; near Japantown, Civic Center, Van Ness movie theaters, Geary/O'Farrell 38 bus)
 - **Size:** 300 sq ft
@@ -215,7 +215,7 @@ Total runs: 225
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bathroom-in/7939928008.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Room
 - **Location:** 7th Ave & Hugo St, Inner Sunset — lat 37.765067, lng -122.464237 (confirmed accepted neighborhood; 1 block from Golden Gate Park, near Irving St shops/restaurants)
 - **Size:** 850 sq ft total apartment; room is small (fits queen bed, semi walk-in closet, very little floor space)
@@ -243,7 +243,7 @@ Total runs: 225
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 207 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-spacious-sunny-elegant/7942534940.html
 - **First found:** 2026-06-22
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Studio
 - **Location:** Lower Nob Hill / Sutter-Post Theater District — lat 37.788369, lng -122.412007 (confirmed accepted; above TL boundary lat 37.787; two blocks from Union Square; Sutter/Post arts and theater district near Jones/Taylor)
 - **Size:** 325 sq ft
@@ -271,7 +271,7 @@ Total runs: 225
 - **Status:** PRICE CHANGED ($1,850 → $1,950 as of Run 224)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-spacious-studio-open-27/s8jWFvx6hib1YyEr3b9Tv2
 - **First found:** 2026-06-26 (Run 222)
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Studio
 - **Location:** Outer Richmond — 801 25th Ave #8, San Francisco CA 94121 — lat 37.778600, lng -122.489200 (confirmed accepted neighborhood)
 - **Size:** 450 sq ft
@@ -299,7 +299,7 @@ Total runs: 225
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 202 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-available-jul-1st-huge/7942338040.html
 - **First found:** 2026-06-21
-- **Last verified:** 2026-06-27 (Run 225)
+- **Last verified:** 2026-06-27 (Run 226)
 - **Type:** Room
 - **Location:** Noe Valley — lat 37.748097, lng -122.433769 (confirmed accepted neighborhood; 26th near Castro, 2 blocks from J-Church Muni, Bus #24 around corner, 15 min walk to Dolores Park)
 - **Size:** not listed (large master bedroom, furnished)
@@ -321,31 +321,31 @@ Total runs: 225
 
 ---
 
-### Laurel Heights 1BR/1BA — 960sqft — On-Site Laundry + Water/Garbage Incl. — $1,984/mo — Craigslist
+### Post Street Studio — Separate Kitchen + In-Bldg Laundry + Rent-Controlled — $1,900/mo — Craigslist ♻️ RE-ADDED (false positive removal Run 224)
 - **Rank:** 12
 - **Mode:** Solo
-- **Status:** ACTIVE ⬆️ PROMOTED (Run 208 — survived first verification cycle)
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-and-airy-1br-1ba/7942622735.html
-- **First found:** 2026-06-22
-- **Last verified:** 2026-06-27 (Run 225)
-- **Type:** 1BR apartment
-- **Location:** Laurel Heights — lat 37.786988, lng -122.456407 (confirmed accepted; near Spruce, Sociale, Mabel Chong restaurants; short walk to Presidio trails; Laurel Heights/Presidio area)
-- **Size:** 960 sq ft (approx 700 per listing body)
-- **BR/BA:** 1BR/1BA (private bathroom — standalone 1BR/1BA unit)
-- **Rent:** $1,984/mo; water and garbage included → add ~$50–75/mo PG&E+internet → effective ~$2,034–2,059/mo
+- **Status:** PROBATION
+- **URL:** https://www.craigslist.org/view/d/san-francisco-studio-post-street-san/7XqRAGKA2o1XxRUkgs6fbZ
+- **First found:** 2026-06-15 (Run 182 — original first listing; relisted 2026-06-26 at $1,900)
+- **Last verified:** 2026-06-27 (Run 226)
+- **Type:** Studio
+- **Location:** Polk Gulch / Lower Nob Hill — lat 37.787038, lng -122.418271 (confirmed accepted; above TL boundary lat 37.787; near Polk St, Post St)
+- **Size:** not listed
+- **BR/BA:** Studio/1BA (private bathroom — standalone 0BR/1BA unit)
+- **Rent:** $1,900/mo; water and trash included → add ~$50–75/mo PG&E+internet → effective ~$1,950–1,975/mo
 - **Deposit:** not listed
-- **Lease:** monthly
-- **Available:** not listed (contact for availability)
-- **Laundry:** on-site (shared — "On-site laundry facilities" confirmed body)
-- **Parking:** off-street available per body; CL attr says "street parking" — discrepancy, verify on viewing
-- **Pet policy:** cats OK, dogs OK (confirmed body and CL attrs)
-- **Other amenities:** refinished hardwood floors, walk-in closet, gas range + oven, full refrigerator, water+garbage included, wheelchair accessible, renovated
-- **Photos:** individual landlord listing; 6+ similar CL posts for same unit (multiple simultaneous URLs — landlord batch-posting, not a classic scam per content review but note the pattern)
-- **Posting age:** 5 days (posted 2026-06-22)
-- **Poster:** individual landlord — specific, detailed description of neighborhood + amenities; no scam flags in content; realistic price for neighborhood
-- **Income-restricted?:** No
-- **vs. market:** 1BR/1BA in Laurel Heights / Presidio area typically $2,200–$3,000+; at $1,984 (water+garbage incl., effective ~$2,034–2,059), this is 10–25% below market — NOT a price anomaly (threshold ≥30% below)
-- **Notes:** ⬆️ PROMOTED to ACTIVE Run 208 — survived first verification cycle; now eligible for ranking. Requirements confirmed: private bath (1BR/1BA standalone), on-site laundry, full kitchen (gas range + refrigerator). Spacious 960sqft 1BR in desirable Laurel Heights near Presidio. Cats+dogs OK. Walk-in closet. ⚠️ Landlord posted 5+ simultaneous CL URLs for same unit (7942622735, 7942626550, 7942623967, 7942621404, 7942619529 — all same price/size/neighborhood). Batch-posting is a CL policy violation but listing content is specific and legitimate (no generic text, no scam script, realistic pricing). Parking discrepancy: body says off-street available, CL attr says street parking — verify on viewing. Contact via any of the CL URLs.
+- **Lease:** 1 year then month-to-month
+- **Available:** Now
+- **Laundry:** in-building (app-based, no coins — confirmed body text)
+- **Parking:** none (CL attr: no parking)
+- **Pet policy:** not listed — inquire
+- **Other amenities:** separate kitchen confirmed, bright street-facing unit, additional closet, water+trash included, security cameras, secure entry with callbox, rent-controlled (SF Rent Ordinance)
+- **Photos:** listed by Meridian Management Group
+- **Posting age:** posted 2026-06-26 (~19h old at time of Run 226 check)
+- **Poster:** Meridian Management Group (CalBRE #990193 / mmg203) — legitimate PM, Meridian listings consistently rent within days
+- **Income-restricted?:** No (rent-controlled, not income-restricted)
+- **vs. market:** Studios in Polk Gulch/Lower Nob Hill typically $1,800–$2,400; at $1,900 (water+trash incl., effective ~$1,950–1,975), this is at the low end of market — no price anomaly
+- **Notes:** ♻️ RE-ADDED Run 226 — prior removal in Run 224 was a false positive (page appeared to return 'not found' but listing was actually live; confirmed active Run 226 with full post body, posted 19h ago 2026-06-26 evening, CalBRE #990193 Meridian Management). PROBATION status because it has not yet survived a clean verification cycle following the Run 223 addition. Separate kitchen confirmed in body text. In-building app-based laundry confirmed. Water+trash included. Rent-controlled per SF Rent Ordinance disclosure. This is the 3rd relist of this unit: original URL 7941117073 (deleted/rented 2026-06-19), relist 7XqRAGKA2o1XxRUkgs6fbZ (added Run 223 PROBATION, false-positive removed Run 224, re-added Run 226). Meridian listings rent fast — contact promptly via CL reply.
 
 ---
 
@@ -357,14 +357,24 @@ Total runs: 225
 
 ## Expired / No Longer Available
 
-### Post Street Studio — Separate Kitchen + In-Bldg Laundry + Rent-Controlled — $1,900/mo — Craigslist
+### Laurel Heights 1BR/1BA — 960sqft — On-Site Laundry + Water/Garbage Incl. — $1,984/mo — Craigslist
 - **Mode:** Solo
-- **Status:** REMOVED (page not found — failed PROBATION; likely rented quickly)
-- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-post-street-san/7XqRAGKA2o1XxRUkgs6fbZ
+- **Status:** REMOVED (URL redirected to CL SF apartments homepage — deleted by author, likely rented)
+- **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-bright-and-airy-1br-1ba/7942622735.html
+- **First found:** 2026-06-22
+- **Removed:** 2026-06-27 (Run 226)
+- **Notes:** URL 7942622735 redirected to the CL SF apartments homepage during Run 226 Step 2 verification (title: "san francisco apartments / housing for rent — craigslist", no post body, isSearch: true). Deleted by author — likely rented. Was Solo Rank 12 ACTIVE (promoted Run 208 after surviving first verification cycle). 960sqft 1BR/1BA in Laurel Heights near Presidio, $1,984/mo water+garbage included, on-site laundry, cats+dogs OK, walk-in closet, gas range. Landlord batch-posted 5+ simultaneous CL URLs for same unit. 5 days on market — rapid deletion consistent with a genuine rental.
+
+---
+
+### Post Street Studio — Separate Kitchen + In-Bldg Laundry + Rent-Controlled — $1,900/mo — Craigslist [⚠️ FALSE POSITIVE — RE-ADDED TO ACTIVE Run 226]
+- **Mode:** Solo
+- **Status:** REMOVED (Run 224 — false positive; listing confirmed LIVE in Run 226, re-added to Active as PROBATION)
+- **URL:** https://www.craigslist.org/view/d/san-francisco-studio-post-street-san/7XqRAGKA2o1XxRUkgs6fbZ
 - **Prior URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-post-st-studio/7941117073.html (deleted by author 2026-06-19 — likely rented)
 - **First found:** 2026-06-15 (Run 182); relisted 2026-06-26 (Run 223) at $1,900/mo
-- **Removed:** 2026-06-27 (Run 224)
-- **Notes:** URL returned page-not-found during Run 224 Step 2 verification — failed PROBATION (listed Run 223, gone Run 224). Third instance of this listing: original URL 7941117073 rented June 19; relisted 2026-06-26 as 7XqRAGKA2o1XxRUkgs6fbZ at $1,900/mo (+$100/mo); deleted again within ~1 day. Meridian Management (Yoli Handoko) listings consistently rent within days. Not a scam — legitimate rent-controlled studio that moves fast.
+- **Removed:** 2026-06-27 (Run 224) — false positive
+- **Notes:** ⚠️ FALSE POSITIVE REMOVAL — Run 224 returned page-not-found for this URL, which was recorded as REMOVED. Run 226 Step 2 confirmed the listing is actually LIVE (full post body present, "posted 19h ago" / 2026-06-26 evening, CalBRE #990193 Meridian Management). Re-added to Active section as PROBATION (Rank 12) in Run 226. The prior URL 7941117073 was deleted/rented 2026-06-19 (2nd instance). This 3rd relist (7XqRAGKA2o1XxRUkgs6fbZ) at $1,900/mo is currently active — see Active Listings. Meridian Management listings consistently rent within days.
 
 ---
 
@@ -2107,3 +2117,4 @@ Total runs: 225
 | 223 | 2026-06-26 | 1 PROBATION (NEW: Post St Studio $1,900 Meridian Mgmt CalBRE #990193 — separate kitchen, in-bldg laundry, water+trash incl., rent-controlled, 6 photos, lat 37.787038 Polk Gulch confirmed; ♻️ relisted from Run 182 at higher price $1,800→$1,900) | 0 | 1 removed (1008 Larkin #205B Studio $1,945 URL 7942977805 — redirected to CL homepage, deleted/rented; was Rank 9 ACTIVE, available Jun 26); 1 promoted (Outer Richmond Studio $1,850 PROBATION→ACTIVE Rank 6 — survived Run 222→223 cycle; open house Sat Jun 27 11–11:30am TOMORROW). CL apa: NYSEG/NY copy-paste scam wave (multiple SF-titled listings with "GRAD STUDENTS We love you!" / "NYSEG must be scheduled in tenant's name" body text); 1710 Larkin St added to blocklist (3rd+ flagging/removal across Runs 158/222/223, 2 simultaneous new URLs confirmed same address Run 223). CL roo: NYSEG scam continued; no qualifying private-bath rooms. FB Marketplace: rooms search returned 3 SF results ($900 1BR, $1,050 room, $1,100 room) — all at extreme price anomaly levels or no confirmed private bath; no qualifying finds. 12 confirmed ACTIVE + 1 PROBATION. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ 24+ days market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
 | 224 | 2026-06-27 | 0 new | 0 | 1 removed (Post St Studio $1,900 Meridian Mgmt — page not found, failed PROBATION, likely rented within ~1 day of relisting; 3rd relist of this unit); 1 price change (Outer Richmond Studio $1,850→$1,950, rank 6→10). CL apa: blocklisted "$35 app/$200 admin-holding fee"+"Send your phone number" batch operator still active across Noe Valley + Russian Hill (1604 Sanchez $1,300 and 290 Jersey $1,874 — exact blocklist script confirmed); no new qualifying finds. CL roo: no qualifying private-bath rooms (Inner Richmond 522 Balboa explicit no-private-bath, FiDi room weekly sublet, $1,600 room no private bath). FB Marketplace: $1,400 room at 94124 Bayview rejected; $1,260 room 347 10th St 5BR/1BA shared bath; $1,800 room 250 King St laundry not confirmed — no qualifying finds. 12 confirmed ACTIVE; 0 PROBATION; 0 QUARANTINED. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ 25 days market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
 | 225 | 2026-06-27 | 0 new | 0 | 0 removed; 0 promoted; 0 price changes. All 12 solo listings verified ACTIVE. CL apa: massive batch scam wave (commercial RE filler text body + "Send your phone number" closing + AC/EV/w/d/cats+dogs identical attrs — confirmed blocklisted "$35 app/$200 admin-holding fee" batch operator; NYSEG NY copy-paste scam wave; IL/NY address spam); Richmond 1BR $1,150 Balboa St (lat 37.775947) — "Send your phone number" closing near-match + ~55% below market — skipped (price anomaly + suspicious closing script); all CL room relists confirmed same coords as existing tracked listings (Presidio Rank 4, Noe Valley Rank 11, Central Richmond Rank 3, Lower Nob Hill Rank 5, SoMa Rank 6); rejected neighborhoods throughout (Ingleside, Bayview, Portola, Sunset, Daly City). FB Marketplace: login wall blocking listing details this run; 1374 20th Ave SF $1,100 room = Outer Sunset 94122 rejected + laundromat-only; $1,400 private room + $900 1BR SF = cannot verify neighborhood/bath/laundry behind login wall; predominantly non-SF Bay Area throughout. 12 confirmed ACTIVE. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ 25 days market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
+| 226 | 2026-06-27 | 1 PROBATION (Post St Studio $1,900 re-added — Meridian Mgmt CalBRE #990193, lat 37.787038 Polk Gulch confirmed, separate kitchen, in-bldg app-based laundry, water+trash incl., 1-yr lease, posted 6/26 evening; Run 224 removal was false positive) | 0 | 1 removed (Laurel Heights 1BR $1,984 — URL 7942622735 redirected to CL SF homepage, deleted by author, likely rented); 0 promoted. All 11 carry-over solo listings verified ACTIVE. NEW BLOCKLIST: Madera Valley Property Management / Broker Joseph S. Greenblatt (AI body text with "cherry-tinted floorboards" phrase throughout, bizarre data-literal titles "Habitable Zone Overview"/"Suite Specifications"/"Urban Living Data: Spatial Layout", identical open houses 6/26-6/28, "w/d hookups" not in-unit, dotted license formats matching prior scam-batch pattern — confirmed across Marina, Lower Nob Hill, Haight, Mission); 1710 Larkin St 3rd simultaneous URL (bSvn2DEzG8brmMHyQyGxCT $1,987 Nob Hill) confirmed same address/pattern Run 226; Palm Breeze/Marinas North Beach $1,940 (fjMFfkLDifDCw8xmzrFThc) auto-rejected blocklisted; 3x Nob Hill $1,987 URLs (856azLWduseaU5ffZMzdSc, 4aupiok9ZPbhd7FKEjocMT, bSvn2DEzG8brmMHyQyGxCT) = 1710 Larkin St same address; Chinatown Room new URL (1ZjGdujhXdRhjxgx13Qhpr) = same coords 37.7938/-122.4067 as Rank 1 — not re-added; Noe Valley Room new URL (4BZ6bsg1EdXk4irYXJGPD3) = same coords 37.748097/-122.433769 as Rank 11 — not re-added; Central Richmond Room new URL (dDfZktp43GCDUzHjNxJHPU) = same coords 37.781924/-122.487020 as Rank 3 — not re-added; Pacific Heights room $2,000 exactly at cap (not under $2,000) + WFH req; Mission 1BR $1,675 AI body text + Madera Valley PM; 522 Balboa St Inner Richmond explicit no-private-bath attr; FB: login wall blocking details; all visible SF rooms at extreme price anomaly ($865–$1,260); no qualifying finds. 11 confirmed ACTIVE + 1 PROBATION. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ 26 days market; Aug 1 avail, women preferred) / Hayes Valley Studio $1,395 Rank 2 | PAUSED |
