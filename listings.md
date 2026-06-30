@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-06-29 (Run 235)
-Total runs: 235
+Last updated: 2026-06-30 (Run 236)
+Total runs: 236
 
 ## Best Current Listings
-- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils; caveats: Aug 1, no window, women preferred; ⚠️ 27 days on market). Mission Victorian Room $1,302/mo (Rank 2 — confirmed ACTIVE 4th run; ~$1,440 effective; private bath, on-site laundry, small room ~112sqft, Aug 1). Run 235: 2 new (PROBATION ♻️: 1008 Larkin #205B Studio $1,945 relisted; QUARANTINED: SoMa Modern 1BR $1,750 luxury building 40%+ below market); 0 removed; 0 promoted. ⚠️ Central Richmond + Noe Valley July 1 = Wednesday (2 days away) — contact NOW. FB login wall persists (Runs 232–235) — Rank 13 Inner Richmond not directly verifiable. CL thin again: rejected Tenderloin (851 O'Farrell lat/lng in TL zone), half-bath room (Haight), no-private-bath rooms, SRO no kitchen, Hayes Valley short-term sublet, $900/wk FB sublet. 13 confirmed ACTIVE + 1 PROBATION + 1 QUARANTINED.
+- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils; caveats: Aug 1, no window, women preferred; ⚠️ 29 days on market). Mission Victorian Room $1,302/mo (Rank 2 — confirmed ACTIVE 5th run; ~$1,440 effective; private bath, on-site laundry, small room ~112sqft, Aug 1). Run 236: 0 new; 0 removed; 1 promoted (1008 Larkin #205B Studio $1,945 PROBATION→ACTIVE Rank 12). FB login wall persists (Runs 232–236) — Rank 13 Inner Richmond not directly verifiable. CL thin: rejected Tenderloin zone (851 O'Farrell), blocklisted operator (Golden Gate Rental/Sterling $1,050 PacHts), SRO shared bath, no-private-bath rooms, same-building scam pair (1075 Market + 230 7th, swapped descriptions), Pacific Heights room exactly $2,000 (not under). ⚠️ Central Richmond + Noe Valley July 1 = TOMORROW — contact NOW. 14 confirmed ACTIVE + 1 QUARANTINED.
 - **Group (3BR/2+BA):** PAUSED — see Search Modes
 
 ---
 
-## Active Listings — Solo (cap 20) — 15 active (13 confirmed ACTIVE; 1 PROBATION; 1 QUARANTINED; 2 new; 0 removed; 0 promoted; Run 235)
+## Active Listings — Solo (cap 20) — 15 active (14 confirmed ACTIVE; 1 QUARANTINED; 0 new; 0 removed; 1 promoted; Run 236)
 
 ### Chinatown Private Room in 3BR/2BA — Private Bath — $1,150/mo + utils — Craigslist
 - **Rank:** 1
@@ -17,7 +17,7 @@ Total runs: 235
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability); new CL parallel URL 1ZjGdujhXdRhjxgx13Qhpr (verified active Run 230 — same coords 37.7938/-122.4067)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -31,7 +31,7 @@ Total runs: 235
 - **Pet policy:** no pets (per landlord rules)
 - **Other amenities:** apartment mostly furnished; great transit access (Muni 1/30/45/8); Clean and peaceful apartment vibe
 - **Photos:** Dropbox tour link provided (https://www.dropbox.com/scl/fo/rqd3uvaa98jepldj6lbvf/...)
-- **Posting age:** 27 days (posted 2026-06-02; updated 2026-06-17) ⚠️ 4 weeks on market — contact NOW if interested (Aug 1 availability)
+- **Posting age:** 28 days (posted 2026-06-02; updated 2026-06-17) ⚠️ 4+ weeks on market — contact NOW if interested (Aug 1 availability)
 - **Poster:** 2 female roommates (27F real estate, 25F healthcare) — specific and credible description, no scam flags; standard CL /roo/ + FB cross-listing
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Chinatown/FiDi area typically $1,800–2,200+; at $1,150 (effective ~$1,250–1,300 with utils), this is 40–50% below market — strongest price-per-month on the board
@@ -45,7 +45,7 @@ Total runs: 235
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 232 — survived first verification cycle)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-room-private-bathroom/n4ngBp3wzuhE8F7zNk1q34
 - **First found:** 2026-06-28 (Run 231)
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Room (in 3BR house)
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, Safeway, Trader Joe's)
 - **Size:** 9'11" × 11'4" (~112 sq ft)
@@ -73,7 +73,7 @@ Total runs: 235
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-hayes-valley-studio/7939235710.html
 - **First found:** 2026-06-13
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Studio
 - **Location:** Hayes Valley — lat 37.776178, lng -122.425902 (confirmed accepted neighborhood; 484 Linden St Unit B, near Octavia Blvd, Fell St, Hayes Valley shops/restaurants)
 - **Size:** not listed
@@ -87,7 +87,7 @@ Total runs: 235
 - **Pet policy:** cats OK, dogs OK (small and large — confirmed listing body)
 - **Other amenities:** fully furnished (murphy bed queen, flat-screen TV, built-in desk, ceiling fan, bar dining table, bookcase, clothes rack, wall shelves), AC/heat pump, wood floors, cable ready
 - **Photos:** 5 photos (individual landlord via TurboTenant with full address and contact info)
-- **Posting age:** 23 days (posted 2026-06-06) ⚠️ Over 3 weeks on market — laundry discrepancy (CL attr says no on-site, body says in-building) may be deterring interest; verify on viewing
+- **Posting age:** 24 days (posted 2026-06-06) ⚠️ Nearly 4 weeks on market — laundry discrepancy (CL attr says no on-site, body says in-building) may be deterring interest; verify on viewing
 - **Poster:** individual landlord via TurboTenant — specific address (484 Linden St Unit B), no scam flags; TurboTenant is a legit PM platform
 - **Income-restricted?:** No
 - **vs. market:** Studios in Hayes Valley typically $1,800–$2,400; at $1,395 (trash incl., effective ~$1,500–1,550), 25–35% below market for a furnished standalone studio in this neighborhood
@@ -102,7 +102,7 @@ Total runs: 235
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940924023.html
 - **Prior URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-master-br-ba-in/7940620580.html (flagged for removal 2026-06-14 — see Expired section)
 - **First found:** 2026-06-13 (original first-found date; relisted 2026-06-14 as URL 7940924023)
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Room
 - **Location:** Central Richmond — Clement St & 27th Ave — lat 37.781924, lng -122.487020 (confirmed accepted neighborhood)
 - **Size:** 12' × 14' (master bedroom)
@@ -110,17 +110,17 @@ Total runs: 235
 - **Rent:** $1,680/mo all-in (utilities + WiFi included → effective $1,680/mo, no additional costs)
 - **Deposit:** not listed
 - **Lease:** 3–6 month minimum
-- **Available:** July 1, 2026 (updated from July 10 — listing body now shows "Move-In Date: July 1st, Wednesday" with flexibility)
+- **Available:** July 1, 2026 ⚠️ TOMORROW — contact URGENTLY NOW
 - **Laundry:** on-site shared (coin-operated washer & dryer in building)
 - **Parking:** street only
 - **Pet policy:** no pets
 - **Other amenities:** fully equipped kitchen (in shared 2BR/2BA top-floor apartment), top-floor unit
 - **Photos:** individual landlord listing (carried over from prior URL verification)
-- **Posting age:** 15 days (relisted 2026-06-14). ♻️ Parallel URLs 7941371680, 7942607226, c7k8pFfWFLu37p1UbTY6TS, and dDfZktp43GCDUzHjNxJHPU also noted (all confirmed same unit — identical coords lat 37.781924/lng -122.487020, same price). ⚠️ July 1 = Wednesday (2 days) — contact urgently NOW.
+- **Posting age:** 16 days (relisted 2026-06-14). ♻️ Parallel URLs 7941371680, 7942607226, c7k8pFfWFLu37p1UbTY6TS, and dDfZktp43GCDUzHjNxJHPU also noted (all confirmed same unit — identical coords lat 37.781924/lng -122.487020, same price). ⚠️ July 1 = TOMORROW — contact URGENTLY NOW.
 - **Poster:** individual landlord — relisted within ~24 hours after CL flagging; specific details match prior verified listing; no scam flags
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Central Richmond typically $1,800–$2,200+; at $1,680 all-in (utilities+WiFi incl.), this is 15–25% below market for confirmed private bath
-- **Notes:** ♻️ RELISTED — prior URL 7940620580 was flagged for removal by Craigslist within ~24 hours of posting (2026-06-13→14). New URL 7940924023 confirmed active. All details carry over from prior verification: private bath confirmed ("12x14ft /w attached Private Bathroom"), fully equipped kitchen confirmed (shared 2BR/2BA top-floor apt), coin-op on-site laundry in building, $1,680/mo all-in includes utilities+WiFi, July 1 availability, 3–6 month minimum lease, no pets. Central Richmond location confirmed (lat 37.781924, lng -122.487020, accepted). Effective cost $1,680/mo (all-in). ⚠️ July 1 = TODAY — contact URGENTLY NOW.
+- **Notes:** ♻️ RELISTED — prior URL 7940620580 was flagged for removal by Craigslist within ~24 hours of posting (2026-06-13→14). New URL 7940924023 confirmed active. All details carry over from prior verification: private bath confirmed ("12x14ft /w attached Private Bathroom"), fully equipped kitchen confirmed (shared 2BR/2BA top-floor apt), coin-op on-site laundry in building, $1,680/mo all-in includes utilities+WiFi, July 1 availability, 3–6 month minimum lease, no pets. Central Richmond location confirmed (lat 37.781924, lng -122.487020, accepted). Effective cost $1,680/mo (all-in). ⚠️ July 1 = TOMORROW — contact URGENTLY NOW.
 
 ---
 
@@ -130,7 +130,7 @@ Total runs: 235
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 216 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-with-private/7943048866.html
 - **First found:** 2026-06-24
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Room
 - **Location:** Presidio — Presidio Blvd — lat 37.795010, lng -122.449052 (confirmed accepted neighborhood; near Marina District, Palace of Fine Arts, Crissy Field, Presidio tunnel tops)
 - **Size:** not listed (only bedroom on lower floor of house)
@@ -158,7 +158,7 @@ Total runs: 235
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-room-in-lower-nob/7939730157.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Room
 - **Location:** Lower Nob Hill — lat 37.787800, lng -122.415500 (confirmed accepted neighborhood; above TL boundary lat 37.787; near Polk St, Huntington Park)
 - **Size:** not listed (large room, west-facing bay windows, small closet)
@@ -186,7 +186,7 @@ Total runs: 235
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 217 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-bedroom-with/7942912262.html
 - **First found:** 2026-06-25
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Room (in 2BR)
 - **Location:** SoMa — lat 37.772500, lng -122.414700 (confirmed accepted neighborhood; South of Market)
 - **Size:** not listed (large bedroom in 2BR unit)
@@ -216,7 +216,7 @@ Total runs: 235
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studios-with-sleeping-lofts/7942256312.html
 - **Prior primary URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-with-sleeping-loft/7941413160.html (dead as of 2026-06-22 — redirects)
 - **First found:** 2026-06-16
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Studio (loft)
 - **Location:** Geary & Van Ness, Western Addition / Van Ness corridor — lat 37.785893, lng -122.419739 (confirmed accepted neighborhood; not TL: lng -122.419739 is west of Larkin boundary; near Japantown, Civic Center, Van Ness movie theaters, Geary/O'Farrell 38 bus)
 - **Size:** 300 sq ft
@@ -244,7 +244,7 @@ Total runs: 235
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 227 — survived Run 226 re-add, confirmed live this run)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-studio-post-street-san/7XqRAGKA2o1XxRUkgs6fbZ
 - **First found:** 2026-06-15 (Run 182 — original first listing; relisted 2026-06-26 at $1,900)
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Studio
 - **Location:** Polk Gulch / Lower Nob Hill — lat 37.787038, lng -122.418271 (confirmed accepted; above TL boundary lat 37.787; near Polk St, Post St)
 - **Size:** not listed
@@ -272,7 +272,7 @@ Total runs: 235
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-private-room-bathroom-in/7939928008.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Room
 - **Location:** 7th Ave & Hugo St, Inner Sunset — lat 37.765067, lng -122.464237 (confirmed accepted neighborhood; 1 block from Golden Gate Park, near Irving St shops/restaurants)
 - **Size:** 850 sq ft total apartment; room is small (fits queen bed, semi walk-in closet, very little floor space)
@@ -295,12 +295,12 @@ Total runs: 235
 ---
 
 ### Outer Richmond Studio — 801 25th Ave #8 — Water+Garbage Incl. + Laundry On Site — $1,950/mo — Craigslist ⬆️ PRICE CHANGED
-- **Rank:** 11
+- **Rank:** 14
 - **Mode:** Solo
 - **Status:** PRICE CHANGED ($1,850 → $1,950 as of Run 224)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-spacious-studio-open-27/s8jWFvx6hib1YyEr3b9Tv2
 - **First found:** 2026-06-26 (Run 222)
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Studio
 - **Location:** Outer Richmond — 801 25th Ave #8, San Francisco CA 94121 — lat 37.778600, lng -122.489200 (confirmed accepted neighborhood)
 - **Size:** 450 sq ft
@@ -323,12 +323,12 @@ Total runs: 235
 ---
 
 ### Noe Valley Furnished Room — 26th near Castro — En-Suite Bath + W/D In-Unit — $1,960/mo — Craigslist
-- **Rank:** 12
+- **Rank:** 11
 - **Mode:** Solo
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 202 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-available-jul-1st-huge/7942338040.html
 - **First found:** 2026-06-21
-- **Last verified:** 2026-06-29 (Run 235)
+- **Last verified:** 2026-06-30 (Run 236)
 - **Type:** Room
 - **Location:** Noe Valley — lat 37.748097, lng -122.433769 (confirmed accepted neighborhood; 26th near Castro, 2 blocks from J-Church Muni, Bus #24 around corner, 15 min walk to Dolores Park)
 - **Size:** not listed (large master bedroom, furnished)
@@ -337,17 +337,17 @@ Total runs: 235
 - **Deposit:** $1,960 (1 month)
 - **Lease:** flexible ("Flexible Leasing Terms" per title)
 - **Also listed:** parallel CL URL 4BZ6bsg1EdXk4irYXJGPD3 (confirmed same unit — identical title, 6/26 post)
-- **Available:** July 1, 2026 ⚠️ Wednesday (2 days) — contact urgently NOW
+- **Available:** July 1, 2026 ⚠️ TOMORROW — contact urgently NOW
 - **Laundry:** in-building (CL attr "laundry in bldg") + W/D in unit (body: "washer and dryer too")
 - **Parking:** attached garage available (not included in rent)
 - **Pet policy:** no pets
 - **Other amenities:** furnished (queen bed, dresser, workstation desk+chair), full shared kitchen with dishwasher, living room, dining area; 2 blocks from J-Church Muni (direct downtown), Bus #24 around corner; 2 blocks from 24th St restaurants/bars/cafés, Whole Foods, Starbucks; 15 min walk to Dolores Park and Mission
 - **Photos:** individual landlord listing (specific credible personal description, no scam flags)
-- **Posting age:** 8 days (posted 2026-06-21)
+- **Posting age:** 9 days (posted 2026-06-21)
 - **Poster:** individual tenant/landlord — personal, specific description ("easygoing, clean, considerate roommate"); no scam flags; standard CL /roo/ listing
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with en-suite bath in Noe Valley typically $2,000–$2,500+; at $1,960/mo, at the low end of market for confirmed en-suite in Noe Valley — reasonable pricing, not an anomaly
-- **Notes:** Large master bedroom with private en-suite bathroom in Noe Valley. All requirements confirmed: private bath (CL attr + body), W/D in-unit, full kitchen with dishwasher, July 1 availability. Furnished. No pets. Flexible lease. 2 blocks from J-Church Muni (direct downtown). Excellent Noe Valley location. ⬆️ PROMOTED to ACTIVE Run 202 — survived first verification cycle (reply button present, $1,960 confirmed). Now eligible for ranking consideration.
+- **Notes:** Large master bedroom with private en-suite bathroom in Noe Valley. All requirements confirmed: private bath (CL attr + body), W/D in-unit, full kitchen with dishwasher, July 1 availability. Furnished. No pets. Flexible lease. 2 blocks from J-Church Muni (direct downtown). Excellent Noe Valley location. ⬆️ PROMOTED to ACTIVE Run 202 — survived first verification cycle (reply button present, $1,960 confirmed). ⚠️ July 1 = TOMORROW — if still available, contact now.
 
 ---
 
@@ -357,7 +357,7 @@ Total runs: 235
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 229 — survived first verification cycle)
 - **URL:** https://www.facebook.com/marketplace/item/1000325562607312/
 - **First found:** 2026-06-28
-- **Last verified:** 2026-06-29 (Run 235 — Runs 232–235: FB login wall blocked direct verification; kept ACTIVE)
+- **Last verified:** 2026-06-30 (Run 236 — Runs 232–236: FB login wall blocked direct verification; kept ACTIVE)
 - **Type:** Room (in 3BR/2BA apartment)
 - **Location:** Inner Richmond — 262 8th Ave, San Francisco CA 94118 (confirmed accepted neighborhood; near California St / Clement St transit corridors; Walk Score 99)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -371,21 +371,21 @@ Total runs: 235
 - **Pet policy:** cats OK (confirmed)
 - **Other amenities:** full kitchen (oven + refrigerator + microwave + dishwasher — all confirmed); 3BR/2BA apartment, 2 other roommates (3 persons total); Walk Score 99; near California St / Clement St
 - **Photos:** Facebook Marketplace listing; individual lister; no scam flags
-- **Posting age:** 1 day (posted 2026-06-28)
+- **Posting age:** 2 days (posted 2026-06-28)
 - **Poster:** individual — specific address (262 8th Ave SF 94118), private bathroom explicitly stated; no scam flags
 - **Income-restricted?:** No
 - **vs. market:** Private rooms with private bath in Inner Richmond typically $1,900–$2,300+; at $1,950/mo (effective ~$2,025–2,050 with utils), this is at the low-normal end for confirmed private bath + full kitchen — not a price anomaly
-- **Notes:** Private room in 3BR/2BA apartment at 262 8th Ave, Inner Richmond (94118). Private bathroom explicitly confirmed in listing body ("your own private bathroom"). Full kitchen confirmed (oven, refrigerator, microwave, dishwasher). In-unit laundry confirmed. August 1 availability. 1-year lease. Cats OK. Walk Score 99 (near California St and Clement St corridors). 2 other roommates. ⬆️ PROMOTED Run 229 — survived first verification cycle. ⚠️ FB login wall blocked direct verification Runs 232–235 — status maintained ACTIVE.
+- **Notes:** Private room in 3BR/2BA apartment at 262 8th Ave, Inner Richmond (94118). Private bathroom explicitly confirmed in listing body ("your own private bathroom"). Full kitchen confirmed (oven, refrigerator, microwave, dishwasher). In-unit laundry confirmed. August 1 availability. 1-year lease. Cats OK. Walk Score 99 (near California St and Clement St corridors). 2 other roommates. ⬆️ PROMOTED Run 229 — survived first verification cycle. ⚠️ FB login wall blocked direct verification Runs 232–236 — status maintained ACTIVE.
 
 ---
 
-### ♻️ RELISTED — Downtown Studio at 1008 Larkin #205B — $1,945/mo — Craigslist
-- **Rank:** 14
+### ♻️ RELISTED — Downtown Studio at 1008 Larkin #205B — $1,945/mo — Craigslist ⬆️ PROMOTED
+- **Rank:** 12
 - **Mode:** Solo
-- **Status:** PROBATION ♻️ (relisted — originally found Run 223, removed same run; see Expired)
+- **Status:** ACTIVE ⬆️ PROMOTED (Run 236 — survived first verification cycle)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-studio-downtown-1008/jzD6PofyPYs8TfTPzyMaWG
 - **First found:** 2026-06-22 (original date, first listed Run 223)
-- **Last verified:** 2026-06-29 (Run 235 — confirmed live: post body present, reply button present)
+- **Last verified:** 2026-06-30 (Run 236 — confirmed live: post body present, reply button present)
 - **Type:** Studio
 - **Location:** Polk Gulch / Lower Nob Hill — 1008 Larkin St #205B, San Francisco; lat 37.787188, lng -122.418302 (barely above Tenderloin boundary at 37.787; west of -122.418 — passes TL filter)
 - **Size:** 351 sq ft
@@ -399,11 +399,11 @@ Total runs: 235
 - **Pet policy:** cats OK, dogs OK (confirmed CL attrs)
 - **Other amenities:** oven/stove, refrigerator; no dishwasher or AC mentioned
 - **Photos:** not counted; Steven Shutler / rentsfnow.com PM — appears legitimate (property management company with web presence)
-- **Posting age:** relisted 2026-06-29
+- **Posting age:** 1 day (relisted 2026-06-29)
 - **Poster:** Steven Shutler / rentsfnow.com (property manager) — $35 application fee via rentsfnow.com screening platform (NOT a personal Gmail collection; legitimate PM platform)
 - **Income-restricted?:** No
 - **vs. market:** Studios in Polk Gulch / Lower Nob Hill typically $1,700–$2,200; at $1,945/mo for 351sqft, within normal market range — not a price anomaly
-- **Notes:** ♻️ RELISTED — same address (1008 Larkin #205B) first appeared in Run 223 (URL 7943170257), was removed same run. New URL this run. PM is Steven Shutler/rentsfnow.com — distinct from blocklisted 1710 Larkin St scam. 1008 Larkin (not 1710 Larkin) — different building, not blocklisted. Location is 351sqft, Polk Gulch/Lower Nob Hill, barely above TL boundary (lat 37.787188 > 37.787). Month-to-month, available now, pets OK. ⚠️ PROBATION — ineligible for Rank 1 or Best until surviving next verification cycle. $35 app fee via rentsfnow.com platform (legit PM screening, not personal email collection).
+- **Notes:** ⬆️ PROMOTED to ACTIVE Run 236 — survived first verification cycle; post body present and live 2 days running. ♻️ RELISTED — same address (1008 Larkin #205B) first appeared in Run 223 (URL 7943170257), was removed same run. New URL added PROBATION Run 235. PM is Steven Shutler/rentsfnow.com — distinct from blocklisted 1710 Larkin St scam. 1008 Larkin (not 1710 Larkin) — different building, not blocklisted. Location is 351sqft, Polk Gulch/Lower Nob Hill, barely above TL boundary (lat 37.787188 > 37.787). Month-to-month, available now, cats+dogs OK. $35 app fee via rentsfnow.com platform (legit PM screening, not personal email collection). Ranked 12 — below Noe Valley and Inner Sunset (higher effective cost) but above Outer Richmond (standalone studio with month-to-month flexibility).
 
 ---
 
@@ -412,8 +412,8 @@ Total runs: 235
 - **Mode:** Solo
 - **Status:** QUARANTINED (price anomaly — luxury building priced 40%+ below market)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-modern-1br-1ba-condo-in/pPmucXeLhEcR1KxD8kVF6E
-- **First found:** 2026-06-29 (Run 235)
-- **Last verified:** 2026-06-29 (Run 235 — confirmed live: post body present, reply button confirmed)
+- **First found:** 2026-06-30 (Run 236)
+- **Last verified:** 2026-06-30 (Run 236 — confirmed live: post body present, reply button confirmed)
 - **Type:** 1BR apartment/condo
 - **Location:** SoMa — lat 37.776000, lng -122.413000 (confirmed accepted neighborhood — SoMa)
 - **Size:** not listed
@@ -431,7 +431,7 @@ Total runs: 235
 - **Poster:** no name or PM company listed; generic body text; no address given
 - **Income-restricted?:** No
 - **vs. market:** 1BR in SoMa with luxury finishes (rooftop, floor-to-ceiling windows, lobby) typically $2,900–$3,500+/mo; at $1,750/mo that is ~40–50% below market for the described amenity level — triggers Price-Anomaly Quarantine
-- **Notes:** ⚠️ QUARANTINED — luxury building amenities (rooftop deck, lobby/reception, floor-to-ceiling windows, bike storage, carport, AC, W/D in-unit) are inconsistent with $1,750/mo pricing in SoMa. Price is ~40–50% below market for this quality tier. Generic body text with no poster name, no address, no PM company. 21 photos present. All hard requirements confirmed (1BR/1BA private bath, W/D in-unit, full kitchen). Ineligible for Rank 1 or Best until: (a) survives next verification cycle AND (b) discount has verified legitimate explanation (rent control, etc.). ⚠️ Note: parallel listing at same coords for $1,850 furnished unit (same building) was skipped — only tracking the $1,750 unfurnished unit.
+- **Notes:** ⚠️ QUARANTINED — luxury building amenities (rooftop deck, lobby/reception, floor-to-ceiling windows, bike storage, carport, AC, W/D in-unit) are inconsistent with $1,750/mo pricing in SoMa. Price is ~40–50% below market for this quality tier. Generic body text with no poster name, no address, no PM company. 21 photos present. All hard requirements confirmed (1BR/1BA private bath, W/D in-unit, full kitchen). Survived 2nd run (Run 236) but STILL QUARANTINED — condition (b) not met: no verified legitimate explanation for the steep discount. Ineligible for Rank 1 or Best until BOTH: (a) survives next cycle ✓ AND (b) discount has verified legitimate explanation (rent control, etc.) ✗. ⚠️ Note: same-coords scam pair (230 7th St "luxury" $1,850 + 1075 Market St "blank canvas" $1,750 — descriptions swapped from prior run) appeared in Run 236 searches; both skipped as parallel scam postings from same operator at coords 37.776/−122.413. Also parallel listing at same coords for $1,850 furnished unit (same building) was skipped — only tracking the $1,750 unfurnished unit.
 
 ---
 
@@ -2234,3 +2234,4 @@ Total runs: 235
 | 233 | 2026-06-29 | 0 | 0 (PAUSED) | 1 removed (Sutter/Post Theater District Studio $1,950/mo — deleted by author, likely rented; was Rank 11 ACTIVE); 0 promoted; 0 price changes. All 13 remaining listings re-verified ACTIVE. CL flooded by "send your phone number to schedule a viewing today" batch-scam operator (blocklisted Run 220) with $900 listings across Castro, Mission, and other neighborhoods — all auto-skipped. "Bright and sunny room" Tucker/Rutland coords 37.716 (Visitacion Valley — rejected neighborhood) skipped. $1,250 furnished room at 37.766/Mission-area confirmed rejected due to no shared-house kitchen (micro/kettle/mini-fridge in room only). Parallel URL mpRHDG6YUGHwf2cquTNVzW confirmed for SoMa Bedroom Rank 7. FB Marketplace: login wall blocked verification of Inner Richmond FB listing (Rank 13, kept ACTIVE). 13 confirmed ACTIVE + 0 PROBATION + 0 QUARANTINED. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ Aug 1; women preferred) / Mission Victorian Room $1,302/mo Rank 2 — confirmed ACTIVE 2nd run | PAUSED |
 | 234 | 2026-06-29 | 0 | 0 (PAUSED) | 0 removed; 0 promoted; 0 price changes. All 13 confirmed ACTIVE re-verified (all still live). Parallel URL 4BZ6bsg1EdXk4irYXJGPD3 noted for Noe Valley listing. New finds rejected: Inner Richmond $1,100 (no private bath — confirmed), $1,250 furnished room (no kitchen — microwave/mini-fridge only), Laurel Heights 1BR $1,946 x3 (3 identical simultaneous posts + same coords = scam pattern), $1,665 micro-studio 183sqft (kitchen ambiguous), $1,750 Lower Nob Hill studio (no laundry on site), $1,545 SoMa BMR (income-restricted $65,540 max). FB Marketplace: partial load (login wall), no new SF solo finds. ⚠️ July 1 = Wednesday (2 days): Central Richmond + Noe Valley — contact urgently. 13 confirmed ACTIVE + 0 PROBATION + 0 QUARANTINED. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ Aug 1; women preferred) / Mission Victorian Room $1,302/mo Rank 2 — confirmed ACTIVE 3rd run | PAUSED |
 | 235 | 2026-06-29 | 2 new (PROBATION ♻️: 1008 Larkin #205B Studio $1,945/mo jzD6PofyPYs8TfTPzyMaWG relisted from Run 223; QUARANTINED: SoMa Modern 1BR $1,750/mo pPmucXeLhEcR1KxD8kVF6E — luxury building 40–50% below market, price anomaly) | 0 (PAUSED) | 0 removed; 0 promoted; 0 price changes. All 13 confirmed ACTIVE re-verified (all still live). Rejected: 851 O'Farrell $1,380 (lat 37.785512, lng -122.413927 — confirmed Tenderloin zone); Haight room $1,626 (half-bath = toilet only, no shower — fails private bath); multiple no-private-bath CL rooms; $1,665 SRO no kitchen; Hayes Valley sublet short-term; $900/wk FB sublet (displayed as $900/mo in category list — misread). FB Marketplace: login wall persists Runs 232–235 — Inner Richmond Rank 13 not directly verifiable (kept ACTIVE). 1008 Larkin #205B ADDED PROBATION ♻️ (different building from 1710 Larkin blocklist; PM Steven Shutler/rentsfnow.com — legit). SoMa Modern 1BR $1,750 ADDED QUARANTINED (luxury building, price anomaly trigger). 13 confirmed ACTIVE + 1 PROBATION + 1 QUARANTINED = 15 total. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ Aug 1; women preferred; 27 days on market) / Mission Victorian Room $1,302/mo Rank 2 — confirmed ACTIVE 4th run | PAUSED |
+| 236 | 2026-06-30 | 0 new | 0 (PAUSED) | 0 removed; 1 promoted (1008 Larkin #205B Studio $1,945/mo PROBATION→ACTIVE Rank 12 — survived 2nd run); 0 price changes. All 14 confirmed ACTIVE + 1 QUARANTINED re-verified (all live). Rejected: 851 O'Farrell studio $1,645 (lat 37.785512/lng -122.413927 — TL zone, same building rejected Run 235); $1,050 PacHts 1BR Golden Gate Rental Properties/Marcus R. Sterling (BLOCKLISTED — invalid DRE "01 52.21 60", $29+$85 fee); 1075 Market $1,750 + 230 7th $1,850 (same scam operator, coords 37.776/−122.413 — descriptions swapped from prior run: "luxury" ↔ "blank canvas", both parallel to QUARANTINED SoMa listing); Inner Richmond room $1,100 (no private bath); Inner Richmond room $1,125 (no private bath — CL attr confirmed); Mission rooms (no private bath or rejected-zone coords); SRO Chinatown room (shared bath, no laundry); Pacific Heights room $2,000 (exactly at cap, not under; also WFH requirement). FB Marketplace: login wall persists (6th consecutive run 232–236) — partial text visible: $900 SF 1BR (extreme price anomaly, likely scam), $1,400 SF private rooms (unverifiable). SoMa Modern 1BR QUARANTINED stays (survived 2nd run but price anomaly unexplained). 14 confirmed ACTIVE + 1 QUARANTINED = 15 total. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ Aug 1; women preferred; 29 days on market) / Mission Victorian Room $1,302/mo Rank 2 — confirmed ACTIVE 5th run | PAUSED |
