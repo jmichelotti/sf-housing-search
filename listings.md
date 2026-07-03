@@ -1,14 +1,14 @@
 # SF Housing Search
-Last updated: 2026-07-02 (Run 247)
-Total runs: 247
+Last updated: 2026-07-03 (Run 248)
+Total runs: 248
 
 ## Best Current Listings
-- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils; caveats: Aug 1, no window, women preferred; ⚠️ 30+ days on market — contact now). Run 247: 0 new listings; 1 removed (SoMa Modern 1BR/1BA QUARANTINED pPmucXeLhEcR1KxD8kVF6E — page redirected to CL homepage, price anomaly flagged/removed before verification). All 14 confirmed ACTIVE + 1 QUARANTINED (South Beach 333 Fremont) re-verified live. 14 confirmed ACTIVE + 0 PROBATION + 1 QUARANTINED.
+- **Solo:** Chinatown Room $1,150/mo (Rank 1 — lowest confirmed price, private bath, W/D in-unit; effective ~$1,250–1,300 with utils; caveats: Aug 1, no window, women preferred; ⚠️ 30+ days on market — contact now). Run 248: 0 new listings; 0 removed; all 14 confirmed ACTIVE + 1 QUARANTINED (South Beach 333 Fremont) re-verified live. Zolden Gate / Marchus R Sterling scam batch (3+ listings auto-skipped). FB Marketplace: login overlay present but item details accessible; all SF items rejected (half-bath only, shared baths, or rejected neighborhoods). Note: NoPa 590 Baker St inquiry draft (email-nopa-590-baker.txt in repo) refers to a listing that expired Run 198 (2026-06-19) — that listing is already in the Expired section. 14 confirmed ACTIVE + 0 PROBATION + 1 QUARANTINED.
 - **Group (3BR/2+BA):** PAUSED — see Search Modes
 
 ---
 
-## Active Listings — Solo (cap 20) — 15 active (14 confirmed ACTIVE; 0 PROBATION; 1 QUARANTINED; Run 247)
+## Active Listings — Solo (cap 20) — 15 active (14 confirmed ACTIVE; 0 PROBATION; 1 QUARANTINED; Run 248)
 
 ### Chinatown Private Room in 3BR/2BA — Private Bath — $1,150/mo + utils — Craigslist
 - **Rank:** 1
@@ -17,7 +17,7 @@ Total runs: 247
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-in-3b-2b-sf/7938344931.html
 - **Also listed:** Facebook Marketplace item 1317547296384238 (confirmed same unit — identical coords 37.7938/-122.4065, same 3BR/2BA, same Aug 1 availability); new CL parallel URL 1ZjGdujhXdRhjxgx13Qhpr (verified active Run 230 — same coords 37.7938/-122.4067)
 - **First found:** 2026-06-02
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room
 - **Location:** Chinatown — lat 37.793800, lng -122.406700 (confirmed accepted neighborhood; near Polk St, Financial District, Muni 1/30/45/8)
 - **Size:** not listed (room in 3BR/2BA apartment)
@@ -45,7 +45,7 @@ Total runs: 247
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 232 — survived first verification cycle)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-room-private-bathroom/n4ngBp3wzuhE8F7zNk1q34
 - **First found:** 2026-06-28 (Run 231)
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room (in 3BR house)
 - **Location:** Mission District — lat 37.750900, lng -122.415300 (confirmed accepted neighborhood; near 24th St BART, Safeway, Trader Joe's)
 - **Size:** 9'11" × 11'4" (~112 sq ft)
@@ -74,7 +74,7 @@ Total runs: 247
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-cozy-hayes-valley-studio/7939235710.html
 - **Also listed:** parallel CL URL gsawwNdh8RGg4Y-FzMGZUQ (confirmed same unit Run 245 — same address 484 Linden St B, same price $1,395, same coords)
 - **First found:** 2026-06-13
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Studio
 - **Location:** Hayes Valley — lat 37.776178, lng -122.425902 (confirmed accepted neighborhood; 484 Linden St Unit B, near Octavia Blvd, Fell St, Hayes Valley shops/restaurants)
 - **Size:** not listed
@@ -103,7 +103,7 @@ Total runs: 247
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-room-with-private/7943048866.html
 - **Also listed:** parallel URL h24wFjN2iNFvAZdD9nEC6D (confirmed same unit Run 243 — same coords 37.795010/-122.449052, same body text)
 - **First found:** 2026-06-24
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room
 - **Location:** Presidio — Presidio Blvd — lat 37.795010, lng -122.449052 (confirmed accepted neighborhood; near Marina District, Palace of Fine Arts, Crissy Field, Presidio tunnel tops)
 - **Size:** not listed (only bedroom on lower floor of house)
@@ -131,7 +131,7 @@ Total runs: 247
 - **Status:** ACTIVE
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-room-in-lower-nob/7939730157.html
 - **First found:** 2026-06-10
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room
 - **Location:** Lower Nob Hill — lat 37.787800, lng -122.415500 (confirmed accepted neighborhood; above TL boundary lat 37.787; near Polk St, Huntington Park)
 - **Size:** not listed (large room, west-facing bay windows, small closet)
@@ -159,7 +159,7 @@ Total runs: 247
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 217 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-large-bedroom-with/7942912262.html
 - **First found:** 2026-06-25
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room (in 2BR)
 - **Location:** SoMa — lat 37.772500, lng -122.414700 (confirmed accepted neighborhood; South of Market)
 - **Size:** not listed (large bedroom in 2BR unit)
@@ -189,7 +189,7 @@ Total runs: 247
 - **URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studios-with-sleeping-lofts/7942256312.html
 - **Prior primary URL:** https://sfbay.craigslist.org/sfc/apa/d/san-francisco-studio-with-sleeping-loft/7941413160.html (dead as of 2026-06-22 — redirects)
 - **First found:** 2026-06-16
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Studio (loft)
 - **Location:** Geary & Van Ness, Western Addition / Van Ness corridor — lat 37.785893, lng -122.419739 (confirmed accepted neighborhood; not TL: lng -122.419739 is west of Larkin boundary; near Japantown, Civic Center, Van Ness movie theaters, Geary/O'Farrell 38 bus)
 - **Size:** 300 sq ft
@@ -217,7 +217,7 @@ Total runs: 247
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 227 — survived Run 226 re-add, confirmed live this run)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-studio-post-street-san/7XqRAGKA2o1XxRUkgs6fbZ
 - **First found:** 2026-06-15 (Run 182 — original first listing; relisted 2026-06-26 at $1,900)
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Studio
 - **Location:** Polk Gulch / Lower Nob Hill — lat 37.787038, lng -122.418271 (confirmed accepted; above TL boundary lat 37.787; near Polk St, Post St)
 - **Size:** not listed
@@ -245,7 +245,7 @@ Total runs: 247
 - **Status:** PRICE CHANGED ($1,850 → $1,950 as of Run 224)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-spacious-studio-open-27/s8jWFvx6hib1YyEr3b9Tv2
 - **First found:** 2026-06-26 (Run 222)
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Studio
 - **Location:** Outer Richmond — 801 25th Ave #8, San Francisco CA 94121 — lat 37.778600, lng -122.489200 (confirmed accepted neighborhood)
 - **Size:** 450 sq ft
@@ -273,7 +273,7 @@ Total runs: 247
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 202 — survived first verification cycle)
 - **URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-available-jul-1st-huge/7942338040.html
 - **First found:** 2026-06-21
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room
 - **Location:** Noe Valley — lat 37.748097, lng -122.433769 (confirmed accepted neighborhood; 26th near Castro, 2 blocks from J-Church Muni, Bus #24 around corner, 15 min walk to Dolores Park)
 - **Size:** not listed (large master bedroom, furnished)
@@ -303,7 +303,7 @@ Total runs: 247
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 236 — survived first verification cycle)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-studio-downtown-1008/jzD6PofyPYs8TfTPzyMaWG
 - **First found:** 2026-06-22 (original date, first listed Run 223)
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Studio
 - **Location:** Polk Gulch / Lower Nob Hill — 1008 Larkin St #205B, San Francisco; lat 37.787188, lng -122.418302 (barely above Tenderloin boundary at 37.787; west of -122.418 — passes TL filter)
 - **Size:** 351 sq ft
@@ -331,7 +331,7 @@ Total runs: 247
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 238 — survived first verification cycle)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-furnished-private-bedroom/kp8Lyt46kop4MN8ffESUAb
 - **First found:** 2026-06-30 (Run 237)
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room / In-law suite
 - **Location:** Lower Pacific Heights — 2088 Bush St near Webster; lat 37.787252, lng -122.431645
 - **Size:** 150 sqft
@@ -359,7 +359,7 @@ Total runs: 247
 - **Status:** ACTIVE ⬆️ PROMOTED (Run 239 — survived first verification cycle)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-master-bedroom-for-rent/hWqeR9YXgp1fe4mhDq4pN5
 - **First found:** 2026-06-30 (Run 238)
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room (master bedroom)
 - **Location:** Outer Richmond — lat 37.778600, lng -122.489200 (confirmed accepted neighborhood; 25th Ave area, zip 94121)
 - **Size:** not listed (master bedroom, 2nd floor)
@@ -387,7 +387,7 @@ Total runs: 247
 - **Status:** QUARANTINED (price anomaly — furnished 1BR/2BA in South Beach with all utilities ~50-60% below market)
 - **URL:** https://www.craigslist.org/view/d/san-francisco-one-bedroom-two-bathrooms/busklhh28RGXZrI0sTHO5Q
 - **First found:** 2026-07-02 (Run 246)
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** 1BR apartment
 - **Location:** South Beach — 333 Fremont St #108, San Francisco CA 94105 — lat 37.787657, lng -122.392794 (confirmed accepted neighborhood; SoMa / South Beach near Embarcadero)
 - **Size:** 1,063 sq ft
@@ -405,7 +405,7 @@ Total runs: 247
 - **Poster:** individual landlord via TurboTenant — specific address, full kitchen confirmed, no DRE issues, legit PM platform
 - **Income-restricted?:** Not stated (no AMI/BMR language); cannot confirm or deny — unusual price warrants caution
 - **vs. market:** 1BR in South Beach/SoMa with luxury finishes (1,063sqft, furnished, AC, garage, all utilities incl.) typically $3,000–4,500+/mo; at $1,595/mo all-in, this is ~50-60% below market — triggers Price-Anomaly Quarantine (≥30% threshold)
-- **Notes:** ⚠️ QUARANTINED (new this run) — all hard requirements confirmed: private bath (CL 1BR/2Ba + body text), in-unit W/D, full kitchen (stove/oven, fridge, microwave, dishwasher), South Beach (lat 37.787657, lng -122.392794, accepted neighborhood). Price is the primary concern: $1,595 all-in for a furnished 1,063sqft 1BR/2BA in South Beach with utilities + garage is ~50-60% below market for this quality tier and location. No income restriction language visible. TurboTenant is a legitimate PM platform. Cannot be ranked #1 or named Best until (a) survives next verification cycle AND (b) steep discount has verified legitimate explanation (BMR, rent control, etc.). Ineligible for top ranking while QUARANTINED. Contact via TurboTenant prescreener link in listing if interested.
+- **Notes:** ⚠️ QUARANTINED — all hard requirements confirmed: private bath (CL 1BR/2Ba + body text), in-unit W/D, full kitchen (stove/oven, fridge, microwave, dishwasher), South Beach (lat 37.787657, lng -122.392794, accepted neighborhood). Price is the primary concern: $1,595 all-in for a furnished 1,063sqft 1BR/2BA in South Beach with utilities + garage is ~50-60% below market for this quality tier and location. No income restriction language visible. TurboTenant is a legitimate PM platform. Condition (a) met — survived Run 248 verification (2nd day live). Condition (b) NOT met — no verified legitimate explanation for the steep discount. Remains QUARANTINED until both conditions satisfied. Cannot be ranked #1 or named Best. Contact via TurboTenant prescreener link in listing if interested.
 
 
 ---
@@ -418,7 +418,7 @@ Total runs: 247
 - **Also listed:** parallel CL URL 7DifXpgWEAnd66ddnPfETw (confirmed same unit Run 245 — same coords 37.791700/-122.418600, same price $1,650, same body text)
 - **Prior URL:** https://sfbay.craigslist.org/sfc/roo/d/san-francisco-furnished-room-nob-hill/7938770347.html (1st listing — added Run 176, removed/rented 2026-06-22 Run 204)
 - **First found:** 2026-06-13 (original unit; current URL first found 2026-06-28 Run 228; URL went "Page Not Found" same run 229; reappeared 2026-07-01 Run 243)
-- **Last verified:** 2026-07-02 (Run 247)
+- **Last verified:** 2026-07-03 (Run 248)
 - **Type:** Room (in shared flat with landlord couple)
 - **Location:** Nob Hill — lat 37.791700, lng -122.418600 (confirmed accepted neighborhood; near Trader Joe's, Huntington Park, Polk St; ~10–20 min walk to FiDi)
 - **Size:** not listed (furnished bedroom)
@@ -2292,3 +2292,4 @@ Total runs: 247
 | 245 | 2026-07-02 | 0 new | 0 (PAUSED) | 1 removed (Central Richmond Master BR $1,680 all-in dDfZktp43GCDUzHjNxJHPU — URL dead, CL rooms homepage returned, no post body; July 1 avail passed, likely rented); 0 promoted; 0 price changes. All 15 confirmed ACTIVE + 1 QUARANTINED re-verified live. FB item detail loaded this run for most items without login wall — exception: Inner Richmond item 1000325562607312 still redirects to login (10th+ run with login redirect; flagged as possible removal, watch next run). NEW BLOCKLIST ALIAS: "Sarah M Evans / entura County Property Management Company" — batch-posted 1215 Laguna $940 + 225 Fell $950 (space-separated DRE "01 06 44 15" / "00 9278 50", identical AI-generated body text with only neighborhood name swapped) confirmed same operator as blocklisted Madera Valley / Joseph S. Greenblatt (same license numbers, same scam pattern) — both auto-skipped. New parallel URLs noted: Nob Hill $1,650 parallel URL 7DifXpgWEAnd66ddnPfETw; Hayes Valley Studio parallel URL gsawwNdh8RGg4Y-FzMGZUQ. SoMa QUARANTINED stays (11th run, no discount explanation). 15 confirmed ACTIVE + 0 PROBATION + 1 QUARANTINED = 16 total. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ Aug 1; women preferred; 30+ days on market) / Mission Victorian Room $1,302/mo Rank 2 — confirmed ACTIVE 14th run | PAUSED |
 | 246 | 2026-07-02 | 1 new QUARANTINED (South Beach 1BR/2BA $1,595/mo all-utils-incl busklhh28RGXZrI0sTHO5Q — 333 Fremont St #108 94105, 1063sqft, furnished, W/D in-unit, AC, garage, cats+dogs OK, July 3 avail; price anomaly ~50-60% below market, QUARANTINED) | 0 (PAUSED) | 1 removed (Inner Richmond FB item 1000325562607312 $1,950 — 11th consecutive login redirect with other FB items loading; probable removal); 0 promoted; 0 price changes. All 14 confirmed ACTIVE + 1 existing QUARANTINED re-verified live. CL skips: 858 Washington Chinatown SRO (sharedBa + no laundry); In-law Richmond 9th Ave $1,900 (no laundry on site, laundromat nearby only); Fort Mason 4BR house (private bath unconfirmed, 4th check); 1075 Market St "blank canvas" $1,750 (same scam-pair coords 37.776/-122.413 as QUARANTINED SoMa listing — auto-skipped). FB category feed loaded; all SF FB items rejected (shared baths, rejected neighborhoods, or Bayview). SoMa QUARANTINED stays (12th run, no discount explanation). 14 confirmed ACTIVE + 0 PROBATION + 2 QUARANTINED = 16 total. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ Aug 1; women preferred; 30+ days on market) / Mission Victorian Room $1,302/mo Rank 2 — confirmed ACTIVE 15th run | PAUSED |
 | 247 | 2026-07-02 | 0 new | 0 (PAUSED) | 1 removed (SoMa Modern 1BR/1BA QUARANTINED pPmucXeLhEcR1KxD8kVF6E — page redirected to CL SF homepage, no post body; price anomaly flagged/removed before verification, suspected scam; was QUARANTINED 12 runs Runs 235–246); 0 promoted; 0 price changes. All 14 confirmed ACTIVE + 1 QUARANTINED (South Beach 333 Fremont busklhh28RGXZrI0sTHO5Q) re-verified live. South Beach QUARANTINED stays — survived Run 247 (condition a met) but no verified legitimate explanation for ~50-60% below-market price (condition b not met). CL searches: all rejections — rejected neighborhoods (Outer Sunset, SFSU/Stonestown lat 37.715, Ocean View, Portola, Excelsior), no-private-bath rooms (Inner Richmond, Mission 3BR, Noe Valley Home Match, Fort Mason 4BR house), Tenderloin-zone (434 Leavenworth, 347 Eddy), no-laundry (USF in-law), over-budget (SFSU studio $2,000 exactly at cap + rejected neighborhood), blocklisted operators (Golden Gate Rental Properties / Marcus R. Sterling), shared bath throughout /roo/ results. FB Marketplace: all SF results rejected — shared baths (Sunset 2BD/1BA no private room mention), rejected neighborhoods (SFSU, Balboa Park, Glen Park, Outer Sunset), Tenderloin (350 Turk), or non-accepted areas. 14 confirmed ACTIVE + 0 PROBATION + 1 QUARANTINED = 15 total. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ Aug 1; women preferred; 30+ days on market) / Mission Victorian Room $1,302/mo Rank 2 — confirmed ACTIVE 16th run | PAUSED |
+| 248 | 2026-07-03 | 0 new | 0 (PAUSED) | 0 removed; 0 promoted; 0 price changes. All 14 confirmed ACTIVE + 1 QUARANTINED (South Beach 333 Fremont) re-verified live. CL scam wave: Zolden Gate / Marchus R Sterling batch flooded multiple neighborhoods (Nob Hill $1,350, Castro $1,600, Russian Hill $1,269 — all auto-skipped per blocklist); 1075 Market St "blank canvas" $1,750 (same scam-pair coords as prior — skipped); 1075 Market St TurboTenant $1,590 (same confirmed-scam address — skipped). CL rejections: shared bath (858 Washington Chinatown SRO sharedBa; Inner Richmond 3BR flat no-private-bath; Mission 4BR/2BA no-private-bath; Nob Hill 3BR/1BA shared bath), no-laundry (Inner Richmond in-law $1,900), kitchen-ambiguous ($1,250 mini-fridge only). FB Marketplace: login overlay present but item detail pages accessible — all SF items rejected: $1,050 Embarcadero room (half-bath only, no shower), $1,260 at 347 10th St (5 beds 1 shared bath), $1,400 at 998 Hollister (Bayview zip 94124 rejected), $1,400 Nob Hill 3BR/1BA (shared bath + laundromat only). Note: NoPa 590 Baker St (email-nopa-590-baker.txt in repo) — post 7940227968 already expired Run 198 (2026-06-19) per Expired section. South Beach QUARANTINED: condition (a) met — survived 2nd day; condition (b) still not met. 14 confirmed ACTIVE + 0 PROBATION + 1 QUARANTINED = 15 total. | Chinatown Room $1,150/mo Rank 1 — private bath, W/D in-unit (⚠️ Aug 1; women preferred; 31+ days on market) / Mission Victorian Room $1,302/mo Rank 2 — confirmed ACTIVE 17th run | PAUSED |
