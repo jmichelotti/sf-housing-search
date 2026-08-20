@@ -9,15 +9,6 @@ claude -p "Run a housing search session as described in CLAUDE.md. Your final re
   --allowedTools "mcp__playwright__*,WebSearch,WebFetch,Bash,Read,Edit,Write" \
   2>&1 | tee tracker-latest.txt >> tracker-log.txt
 
-if git diff --quiet listings.md; then
-  echo "No changes to listings.md — skipping commit." >> tracker-log.txt
-else
-  git add listings.md
-  git commit -m "chore: update listings tracker ($(date '+%Y-%m-%d %H:%M'))"
-  git push
-  echo "Committed and pushed listings.md updates." >> tracker-log.txt
-fi
-
 send_run_email() {
   local key_file="$HOME/.config/resend/key"
   if [[ ! -r $key_file ]]; then
