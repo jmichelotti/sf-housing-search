@@ -447,7 +447,7 @@ Total runs: [N]
 - **Use `browser_evaluate` to extract structured listing data** from pages — do not rely solely on snapshots for data extraction, they are too large and imprecise.
 - **Verify listing status by visiting the URL directly** — do not assume a listing is still active from a prior run.
 - **Close browser tabs when done** with each search source to keep memory usage down.
-- **Do not create any files other than `listings.md`** — no plan documents, no sub-READMEs, no code files.
+- **Do not create any files other than `listings.md`** — no plan documents, no sub-READMEs, no code files. This applies to automated tracking sessions. `housing-criteria.md` (full filter summary incl. price, scam tells, group criteria) and `housing-criteria-short.md` (neighborhood + requirements only, written to share with others) are hand-authored outside a run — do not modify or delete them during a session, but do update them if the filters in this file change.
 - **Do not commit or push to git from inside a tracking session** — the session is automated and unattended. Git commits happen manually via the user's `/ucp` command. Never stage, commit, or push from within a scheduled run.
 - **Logging:** `run-tracker.sh` writes session output to two log files. `tracker-log.txt` is the master log (all runs, appended with timestamped separators). `tracker-latest.txt` is overwritten each run with only the latest session output. Both are gitignored.
 
